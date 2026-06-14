@@ -6,6 +6,14 @@
 - **Status:** ✅ PLAYED — _frozen_
 - **Last updated:** Sun 14 Jun 2026, 11:01 BST
 
+## Weather at kickoff
+
+- **Venue:** MetLife Stadium, New York/New Jersey, USA
+- **Conditions:** ☀️ Clear — 22 °C (feels 22 °C)
+- **Humidity:** 70%  ·  **Cloud cover:** 0%
+- **Rain:** 0% chance
+- _Observed at Sat 13 Jun, 07:00 local time_
+
 ## Result
 
 - **Final score:** 1 – 1

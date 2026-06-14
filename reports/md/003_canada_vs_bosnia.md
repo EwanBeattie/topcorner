@@ -6,6 +6,14 @@
 - **Status:** ✅ PLAYED — _frozen_
 - **Last updated:** Sat 13 Jun 2026, 09:30 BST
 
+## Weather at kickoff
+
+- **Venue:** BMO Field, Toronto, Canada
+- **Conditions:** ☁️ Overcast — 18 °C (feels 20 °C)
+- **Humidity:** 95%  ·  **Cloud cover:** 93%
+- **Rain:** 24% chance
+- _Observed at Fri 12 Jun, 07:00 local time_
+
 ## Result
 
 - **Final score:** 1 – 1

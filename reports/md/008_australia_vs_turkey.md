@@ -6,6 +6,14 @@
 - **Status:** ✅ PLAYED — _frozen_
 - **Last updated:** Sun 14 Jun 2026, 11:01 BST
 
+## Weather at kickoff
+
+- **Venue:** BC Place, Vancouver, Canada
+- **Conditions:** ☀️ Clear — 16 °C (feels 15 °C)
+- **Humidity:** 61%  ·  **Cloud cover:** 1%
+- **Rain:** 1% chance
+- _Observed at Sun 14 Jun, 04:00 local time_
+
 ## Result
 
 - **Final score:** 2 – 0

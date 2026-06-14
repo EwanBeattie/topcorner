@@ -18,12 +18,15 @@ import argparse
 import sys
 from collections import Counter
 
+import requests
+
 import config
 from betfair import scraper as betfair
 from common import teams
 from common.models import BetfairGame, CrowdGame
 from reporting.writer import ReportWriter
 from topcorner import scraper as topcorner
+from weather.venues import load_venue_map, weather_for
 
 
 def main(argv=None) -> int:
@@ -79,7 +82,14 @@ def main(argv=None) -> int:
         to_write[slug] = (cg.number, cg.fixture.home, cg.fixture.away,
                           cg.fixture.kickoff, None, cg)
 
-    writer = ReportWriter(args.md_dir, args.json_dir, args.score_limit)
+    venue_map = load_venue_map()
+    weather_session = requests.Session()
+
+    def weather_lookup(home, away, kickoff):
+        return weather_for(home, away, kickoff, venue_map, weather_session)
+
+    writer = ReportWriter(args.md_dir, args.json_dir, args.score_limit,
+                          weather_lookup=weather_lookup)
     counts: Counter = Counter()
     for slug, (number, home, away, kickoff, bg, cg) in sorted(to_write.items()):
         status = writer.write(slug, number=number, home=home, away=away,

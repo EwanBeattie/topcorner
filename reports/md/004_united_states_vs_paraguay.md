@@ -6,6 +6,14 @@
 - **Status:** ✅ PLAYED — _frozen_
 - **Last updated:** Sat 13 Jun 2026, 09:30 BST
 
+## Weather at kickoff
+
+- **Venue:** SoFi Stadium, Los Angeles, USA
+- **Conditions:** ☁️ Overcast — 17 °C (feels 19 °C)
+- **Humidity:** 95%  ·  **Cloud cover:** 100%
+- **Rain:** 0% chance
+- _Observed at Sat 13 Jun, 04:00 local time_
+
 ## Result
 
 - **Final score:** 4 – 1

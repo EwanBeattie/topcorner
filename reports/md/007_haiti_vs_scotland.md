@@ -6,6 +6,14 @@
 - **Status:** ✅ PLAYED — _frozen_
 - **Last updated:** Sun 14 Jun 2026, 11:01 BST
 
+## Weather at kickoff
+
+- **Venue:** Gillette Stadium, Boston, USA
+- **Conditions:** ☀️ Clear — 19 °C (feels 20 °C)
+- **Humidity:** 69%  ·  **Cloud cover:** 0%
+- **Rain:** 0% chance
+- _Observed at Sun 14 Jun, 07:00 local time_
+
 ## Result
 
 - **Final score:** 0 – 1

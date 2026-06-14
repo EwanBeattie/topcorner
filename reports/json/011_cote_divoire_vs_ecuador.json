@@ -7,7 +7,21 @@
   "kickoff_utc": "2026-06-14T23:00:00Z",
   "status": "upcoming",
   "frozen": false,
-  "last_updated_utc": "2026-06-14T10:01:44Z",
+  "last_updated_utc": "2026-06-14T13:12:28Z",
+  "weather": {
+    "local_time": "2026-06-14T19:00",
+    "temp_c": 30.7,
+    "feels_c": 31.4,
+    "humidity_pct": 51,
+    "cloud_pct": 53,
+    "precip_prob_pct": 2,
+    "weather_code": 2,
+    "emoji": "⛅",
+    "summary": "Partly cloudy",
+    "source": "forecast",
+    "venue": "Lincoln Financial Field, Philadelphia, USA",
+    "city": "philadelphia"
+  },
   "result": {
     "home_goals": null,
     "away_goals": null,
@@ -15,8 +29,8 @@
   },
   "betfair": {
     "match_odds": {
-      "home": 3.45,
-      "draw": 2.96,
+      "home": 3.4,
+      "draw": 2.94,
       "away": 2.68
     },
     "correct_score": [
@@ -38,23 +52,23 @@
       },
       {
         "score": "0-2",
-        "odds": 13.5
+        "odds": 13.0
       },
       {
         "score": "1-2",
-        "odds": 14.0
+        "odds": 13.5
       },
       {
         "score": "2-1",
-        "odds": 16.5
+        "odds": 16.0
       },
       {
         "score": "2-0",
-        "odds": 19.5
+        "odds": 19.0
       },
       {
         "score": "2-2",
-        "odds": 27.0
+        "odds": 28.0
       },
       {
         "score": "0-3",
@@ -69,29 +83,29 @@
         "odds": 55.0
       },
       {
-        "score": "2-3",
-        "odds": 70.0
-      },
-      {
         "score": "3-0",
         "odds": 70.0
       },
       {
+        "score": "2-3",
+        "odds": 75.0
+      },
+      {
         "score": "3-2",
-        "odds": 85.0
+        "odds": 90.0
       },
       {
         "score": "3-3",
-        "odds": 190.0
+        "odds": 200.0
       }
     ]
   },
   "crowd": {
-    "n": 74,
+    "n": 76,
     "outcome": {
-      "HOME": 23,
+      "HOME": 24,
       "DRAW": 32,
-      "AWAY": 19
+      "AWAY": 20
     },
     "scores": [
       {
@@ -99,19 +113,19 @@
         "count": 23
       },
       {
+        "score": "2-1",
+        "count": 7
+      },
+      {
+        "score": "0-1",
+        "count": 6
+      },
+      {
         "score": "2-2",
         "count": 6
       },
       {
-        "score": "2-1",
-        "count": 6
-      },
-      {
         "score": "1-0",
-        "count": 5
-      },
-      {
-        "score": "0-1",
         "count": 5
       },
       {

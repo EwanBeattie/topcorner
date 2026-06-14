@@ -152,5 +152,19 @@
     "crowd_modal_score_correct": false,
     "crowd_modal_outcome_correct": false,
     "market_favourite_correct": false
+  },
+  "weather": {
+    "local_time": "2026-06-13T04:00",
+    "temp_c": 14.8,
+    "feels_c": 15.2,
+    "humidity_pct": 95,
+    "cloud_pct": 100,
+    "precip_prob_pct": 0,
+    "weather_code": 3,
+    "emoji": "☁️",
+    "summary": "Overcast",
+    "source": "observed",
+    "venue": "Levi's Stadium, San Francisco Bay Area, USA",
+    "city": "bay_area"
   }
 }

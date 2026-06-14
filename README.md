@@ -6,6 +6,8 @@ Generates one report **per game** comparing two views of each World Cup match:
   odds (peer-to-peer prices, best available back price; 16 scorelines 0-0…3-3).
 - **topcorner.org** — every leaderboard user's predicted scoreline, aggregated
   into a per-fixture distribution, plus the actual result once a game is played.
+- **Weather at kickoff** — temperature, humidity, cloud cover and rain chance at
+  the venue (via Open-Meteo, no API key), to gauge conditions for the players.
 
 Each game produces a Markdown file (for reading) and a JSON file (for analysis).
 
@@ -16,6 +18,7 @@ betfair/        Betfair Exchange API client (login → catalogue → marketbook)
 topcorner/      topcorner.org client (login → leaderboard → per-user predictions + results)
 common/         Shared models + team-name matching/slugs
 reporting/      Per-game md + json writer (with freeze-on-played)
+weather/        Open-Meteo client + host-city coords; venues.toml maps games→cities
 config.py       Settings + credentials (from .env)
 report.py       Orchestrates: fetch both sources, write per-game reports
 reports/md/     Output: <home>_vs_<away>.md
@@ -61,10 +64,13 @@ python report.py --only topcorner # crowd + results only (no Betfair odds)
 - **topcorner** is read each run: every fixture's crowd distribution, plus the
   actual score for finished games. One page per included leaderboard user
   (top `leaderboard_top_n`, or all), throttled `topcorner_throttle`s apart.
+- **Weather** is fetched per game from Open-Meteo at the venue's coordinates and
+  kickoff hour. `venues.toml` maps each matchup to one of the 16 host cities
+  (in `weather/cities.py`); a blank mapping just omits the weather section.
 - **Freeze:** once a game is played, its file is finalized with the actual
   score + accuracy analysis (exact-score and outcome hit-rates, whether the
   crowd/market favourite were right) and marked `frozen` — future runs skip it,
-  preserving the last odds captured before kickoff.
+  preserving the last odds + weather captured before kickoff.
 - Every file records `last_updated`.
 
 ## Notes

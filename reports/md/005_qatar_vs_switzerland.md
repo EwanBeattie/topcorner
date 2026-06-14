@@ -6,6 +6,14 @@
 - **Status:** ✅ PLAYED — _frozen_
 - **Last updated:** Sun 14 Jun 2026, 11:01 BST
 
+## Weather at kickoff
+
+- **Venue:** Levi's Stadium, San Francisco Bay Area, USA
+- **Conditions:** ☁️ Overcast — 15 °C (feels 15 °C)
+- **Humidity:** 95%  ·  **Cloud cover:** 100%
+- **Rain:** 0% chance
+- _Observed at Sat 13 Jun, 04:00 local time_
+
 ## Result
 
 - **Final score:** 1 – 1

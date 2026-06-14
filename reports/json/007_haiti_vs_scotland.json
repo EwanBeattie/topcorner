@@ -160,5 +160,19 @@
     "crowd_modal_score_correct": false,
     "crowd_modal_outcome_correct": true,
     "market_favourite_correct": true
+  },
+  "weather": {
+    "local_time": "2026-06-14T07:00",
+    "temp_c": 19.1,
+    "feels_c": 19.7,
+    "humidity_pct": 69,
+    "cloud_pct": 0,
+    "precip_prob_pct": 0,
+    "weather_code": 0,
+    "emoji": "☀️",
+    "summary": "Clear",
+    "source": "observed",
+    "venue": "Gillette Stadium, Boston, USA",
+    "city": "boston"
   }
 }

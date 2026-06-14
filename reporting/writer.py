@@ -121,10 +121,14 @@ def build_game_json(
     prev: Optional[dict],
     score_limit: int = 19,
     number: Optional[int] = None,
+    weather: Optional[dict] = None,
 ) -> dict:
     played = bool(crowd and crowd.played and crowd.final_score)
     bf = _betfair_section(betfair, prev)
     match_odds = (bf or {}).get("match_odds", {}) if bf else {}
+    # Keep the last weather we fetched if none this run (e.g. no venue / API down).
+    if weather is None and prev:
+        weather = prev.get("weather")
 
     result = {"home_goals": None, "away_goals": None, "outcome": None}
     if played:
@@ -144,6 +148,7 @@ def build_game_json(
         "status": "played" if played else "upcoming",
         "frozen": played,
         "last_updated_utc": _iso(_now_utc()),
+        "weather": weather,
         "result": result,
         "betfair": bf,
         "crowd": _crowd_section(crowd, score_limit),
@@ -184,6 +189,41 @@ def _md_table(headers: list[str], rows: list[list[str]], aligns: list[str]) -> l
     return out
 
 
+def _weather_lines(w: Optional[dict]) -> list[str]:
+    """Render the 'Weather at kickoff' section, or nothing if unavailable."""
+    if not w:
+        return []
+    cond = f"{w.get('emoji', '')} {w.get('summary', '—')}".strip()
+    temp, feels = w.get("temp_c"), w.get("feels_c")
+    if temp is not None:
+        cond += f" — {round(temp)} °C"
+        if feels is not None:
+            cond += f" (feels {round(feels)} °C)"
+
+    hum = w.get("humidity_pct")
+    cloud = w.get("cloud_pct")
+    L = [
+        "## Weather at kickoff",
+        "",
+        f"- **Venue:** {w.get('venue', '—')}",
+        f"- **Conditions:** {cond}",
+        f"- **Humidity:** {hum if hum is not None else '—'}%  ·  "
+        f"**Cloud cover:** {cloud if cloud is not None else '—'}%",
+    ]
+    pp = w.get("precip_prob_pct")
+    if pp is not None:
+        L.append(f"- **Rain:** {pp}% chance")
+
+    when = w.get("local_time")
+    try:
+        when = datetime.fromisoformat(w["local_time"]).strftime("%a %d %b, %H:%M")
+    except (ValueError, KeyError, TypeError):
+        pass
+    label = "Forecast for" if w.get("source") == "forecast" else "Observed at"
+    L += [f"- _{label} {when} local time_", ""]
+    return L
+
+
 def render_markdown(d: dict) -> str:
     home, away = d["home"], d["away"]
     kickoff = datetime.fromisoformat(d["kickoff_utc"].replace("Z", "+00:00"))
@@ -202,9 +242,9 @@ def render_markdown(d: dict) -> str:
         f"- **Last updated:** {updated.astimezone(LONDON):%a %d %b %Y, %H:%M} "
         f"{updated.astimezone(LONDON).tzname() or 'UTC'}",
         "",
-        "## Result",
-        "",
     ]
+    L += _weather_lines(d.get("weather"))
+    L += ["## Result", ""]
     final_score = None
     if played:
         r = d["result"]
@@ -301,10 +341,13 @@ def render_markdown(d: dict) -> str:
 
 # --- writer ---------------------------------------------------------------
 class ReportWriter:
-    def __init__(self, md_dir: str, json_dir: str, score_limit: int = 19):
+    def __init__(self, md_dir: str, json_dir: str, score_limit: int = 19,
+                 weather_lookup=None):
         self.md_dir = md_dir
         self.json_dir = json_dir
         self.score_limit = score_limit
+        # Optional callable (home, away, kickoff) -> weather dict | None.
+        self.weather_lookup = weather_lookup
         os.makedirs(md_dir, exist_ok=True)
         os.makedirs(json_dir, exist_ok=True)
 
@@ -332,8 +375,13 @@ class ReportWriter:
         if prev and prev.get("frozen"):
             return "frozen"  # already finalized — leave it untouched
 
+        weather = None
+        if self.weather_lookup is not None:
+            weather = self.weather_lookup(home, away, kickoff)
+
         data = build_game_json(home, away, kickoff, betfair, crowd, prev,
-                               score_limit=self.score_limit, number=number)
+                               score_limit=self.score_limit, number=number,
+                               weather=weather)
 
         with open(self._json_path(slug), "w", encoding="utf-8") as fh:
             json.dump(data, fh, indent=2, ensure_ascii=False)
