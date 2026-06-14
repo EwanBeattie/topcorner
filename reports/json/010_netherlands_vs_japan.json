@@ -1,0 +1,157 @@
+{
+  "number": 10,
+  "match": "Netherlands vs Japan",
+  "home": "Netherlands",
+  "away": "Japan",
+  "competition": "World Cup 2026",
+  "kickoff_utc": "2026-06-14T20:00:00Z",
+  "status": "upcoming",
+  "frozen": false,
+  "last_updated_utc": "2026-06-14T10:01:44Z",
+  "result": {
+    "home_goals": null,
+    "away_goals": null,
+    "outcome": null
+  },
+  "betfair": {
+    "match_odds": {
+      "home": 2.1,
+      "draw": 3.65,
+      "away": 3.9
+    },
+    "correct_score": [
+      {
+        "score": "1-1",
+        "odds": 7.6
+      },
+      {
+        "score": "1-0",
+        "odds": 9.0
+      },
+      {
+        "score": "2-1",
+        "odds": 10.5
+      },
+      {
+        "score": "2-0",
+        "odds": 11.5
+      },
+      {
+        "score": "0-1",
+        "odds": 12.5
+      },
+      {
+        "score": "0-0",
+        "odds": 13.0
+      },
+      {
+        "score": "1-2",
+        "odds": 15.0
+      },
+      {
+        "score": "2-2",
+        "odds": 18.5
+      },
+      {
+        "score": "3-1",
+        "odds": 20.0
+      },
+      {
+        "score": "3-0",
+        "odds": 24.0
+      },
+      {
+        "score": "0-2",
+        "odds": 25.0
+      },
+      {
+        "score": "3-2",
+        "odds": 38.0
+      },
+      {
+        "score": "1-3",
+        "odds": 44.0
+      },
+      {
+        "score": "2-3",
+        "odds": 55.0
+      },
+      {
+        "score": "0-3",
+        "odds": 75.0
+      },
+      {
+        "score": "3-3",
+        "odds": 90.0
+      }
+    ]
+  },
+  "crowd": {
+    "n": 82,
+    "outcome": {
+      "HOME": 38,
+      "DRAW": 27,
+      "AWAY": 17
+    },
+    "scores": [
+      {
+        "score": "2-1",
+        "count": 19
+      },
+      {
+        "score": "1-1",
+        "count": 18
+      },
+      {
+        "score": "2-2",
+        "count": 9
+      },
+      {
+        "score": "1-2",
+        "count": 9
+      },
+      {
+        "score": "1-0",
+        "count": 6
+      },
+      {
+        "score": "3-1",
+        "count": 6
+      },
+      {
+        "score": "2-0",
+        "count": 5
+      },
+      {
+        "score": "2-3",
+        "count": 4
+      },
+      {
+        "score": "1-3",
+        "count": 3
+      },
+      {
+        "score": "0-1",
+        "count": 1
+      },
+      {
+        "score": "3-0",
+        "count": 1
+      },
+      {
+        "score": "3-2",
+        "count": 1
+      }
+    ],
+    "others_count": 0
+  },
+  "analysis": {
+    "crowd_modal_score": "2-1",
+    "crowd_modal_outcome": "HOME",
+    "market_favourite_outcome": "HOME",
+    "exact_correct": null,
+    "exact_correct_pct": null,
+    "outcome_correct": null,
+    "outcome_correct_pct": null
+  }
+}

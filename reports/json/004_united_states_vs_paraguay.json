@@ -1,0 +1,164 @@
+{
+  "number": 4,
+  "match": "United States vs Paraguay",
+  "home": "United States",
+  "away": "Paraguay",
+  "competition": "World Cup 2026",
+  "kickoff_utc": "2026-06-13T11:00:00Z",
+  "status": "played",
+  "frozen": true,
+  "last_updated_utc": "2026-06-13T08:30:17Z",
+  "result": {
+    "home_goals": 4,
+    "away_goals": 1,
+    "outcome": "HOME"
+  },
+  "betfair": {
+    "match_odds": {
+      "home": 2.16,
+      "draw": 3.3,
+      "away": 4.1
+    },
+    "correct_score": [
+      {
+        "score": "1-0",
+        "odds": 6.8
+      },
+      {
+        "score": "1-1",
+        "odds": 7.0
+      },
+      {
+        "score": "0-0",
+        "odds": 9.0
+      },
+      {
+        "score": "2-0",
+        "odds": 10.0
+      },
+      {
+        "score": "0-1",
+        "odds": 10.5
+      },
+      {
+        "score": "2-1",
+        "odds": 10.5
+      },
+      {
+        "score": "1-2",
+        "odds": 17.0
+      },
+      {
+        "score": "2-2",
+        "odds": 23.0
+      },
+      {
+        "score": "0-2",
+        "odds": 25.0
+      },
+      {
+        "score": "3-1",
+        "odds": 25.0
+      },
+      {
+        "score": "3-0",
+        "odds": 27.0
+      },
+      {
+        "score": "3-2",
+        "odds": 55.0
+      },
+      {
+        "score": "1-3",
+        "odds": 60.0
+      },
+      {
+        "score": "2-3",
+        "odds": 80.0
+      },
+      {
+        "score": "0-3",
+        "odds": 95.0
+      },
+      {
+        "score": "3-3",
+        "odds": 170.0
+      }
+    ]
+  },
+  "crowd": {
+    "n": 80,
+    "outcome": {
+      "HOME": 44,
+      "DRAW": 22,
+      "AWAY": 14
+    },
+    "scores": [
+      {
+        "score": "2-1",
+        "count": 20
+      },
+      {
+        "score": "1-1",
+        "count": 18
+      },
+      {
+        "score": "2-0",
+        "count": 10
+      },
+      {
+        "score": "1-2",
+        "count": 8
+      },
+      {
+        "score": "1-0",
+        "count": 6
+      },
+      {
+        "score": "2-2",
+        "count": 3
+      },
+      {
+        "score": "3-0",
+        "count": 3
+      },
+      {
+        "score": "3-1",
+        "count": 3
+      },
+      {
+        "score": "0-2",
+        "count": 3
+      },
+      {
+        "score": "3-2",
+        "count": 2
+      },
+      {
+        "score": "0-1",
+        "count": 2
+      },
+      {
+        "score": "2-3",
+        "count": 1
+      },
+      {
+        "score": "0-0",
+        "count": 1
+      }
+    ],
+    "others_count": 0
+  },
+  "analysis": {
+    "crowd_modal_score": "2-1",
+    "crowd_modal_outcome": "HOME",
+    "market_favourite_outcome": "HOME",
+    "exact_correct": 0,
+    "exact_correct_pct": 0.0,
+    "outcome_correct": 44,
+    "outcome_correct_pct": 0.55,
+    "crowd_modal_score_correct": false,
+    "crowd_modal_outcome_correct": true,
+    "market_favourite_correct": true
+  }
+}

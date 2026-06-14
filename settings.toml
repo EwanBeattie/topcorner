@@ -1,0 +1,20 @@
+# Tunable settings (non-secret). Secrets (logins, API key) live in .env.
+# Edit values here and re-run; no code changes needed.
+
+# How many hours ahead to pull Betfair odds for upcoming games.
+window_hours = 24
+
+# Only aggregate the top N users from the leaderboard into the crowd
+# distribution (sharper signal than the whole field). Set to 0 to include
+# everyone. Fewer users also means fewer requests to topcorner.org.
+leaderboard_top_n = 0
+
+# Max scorelines shown in the crowd distribution (the rest roll into "+N others").
+crowd_score_limit = 19
+
+# Minimum seconds between topcorner.org requests (politeness throttle).
+topcorner_throttle = 1.5
+
+# Output folders for the per-game reports.
+md_dir = "reports/md"
+json_dir = "reports/json"

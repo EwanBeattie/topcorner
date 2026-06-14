@@ -1,0 +1,52 @@
+{
+  "number": 1,
+  "match": "Mexico vs South Africa",
+  "home": "Mexico",
+  "away": "South Africa",
+  "competition": "World Cup 2026",
+  "kickoff_utc": "2026-06-11T11:00:00Z",
+  "status": "played",
+  "frozen": true,
+  "last_updated_utc": "2026-06-12T11:33:55Z",
+  "result": {
+    "home_goals": 2,
+    "away_goals": 0,
+    "outcome": "HOME"
+  },
+  "betfair": null,
+  "crowd": {
+    "n": 3,
+    "outcome": {
+      "HOME": 3,
+      "DRAW": 0,
+      "AWAY": 0
+    },
+    "scores": [
+      {
+        "score": "2-0",
+        "count": 1
+      },
+      {
+        "score": "2-1",
+        "count": 1
+      },
+      {
+        "score": "1-0",
+        "count": 1
+      }
+    ],
+    "others_count": 0
+  },
+  "analysis": {
+    "crowd_modal_score": "2-0",
+    "crowd_modal_outcome": "HOME",
+    "market_favourite_outcome": null,
+    "exact_correct": 1,
+    "exact_correct_pct": 0.333,
+    "outcome_correct": 3,
+    "outcome_correct_pct": 1.0,
+    "crowd_modal_score_correct": true,
+    "crowd_modal_outcome_correct": true,
+    "market_favourite_correct": null
+  }
+}

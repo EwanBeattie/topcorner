@@ -1,0 +1,44 @@
+{
+  "number": 2,
+  "match": "South Korea vs Czech Republic",
+  "home": "South Korea",
+  "away": "Czech Republic",
+  "competition": "World Cup 2026",
+  "kickoff_utc": "2026-06-12T11:00:00Z",
+  "status": "played",
+  "frozen": true,
+  "last_updated_utc": "2026-06-12T11:33:55Z",
+  "result": {
+    "home_goals": 2,
+    "away_goals": 1,
+    "outcome": "HOME"
+  },
+  "betfair": null,
+  "crowd": {
+    "n": 3,
+    "outcome": {
+      "HOME": 3,
+      "DRAW": 0,
+      "AWAY": 0
+    },
+    "scores": [
+      {
+        "score": "2-1",
+        "count": 3
+      }
+    ],
+    "others_count": 0
+  },
+  "analysis": {
+    "crowd_modal_score": "2-1",
+    "crowd_modal_outcome": "HOME",
+    "market_favourite_outcome": null,
+    "exact_correct": 3,
+    "exact_correct_pct": 1.0,
+    "outcome_correct": 3,
+    "outcome_correct_pct": 1.0,
+    "crowd_modal_score_correct": true,
+    "crowd_modal_outcome_correct": true,
+    "market_favourite_correct": null
+  }
+}
