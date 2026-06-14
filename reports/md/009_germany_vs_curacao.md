@@ -1,22 +1,23 @@
-# Germany vs Curacao
+# Germany vs Curaçao
 
 - **Game #:** 9
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Sun 14 Jun 2026, 18:00 BST (17:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Sun 14 Jun 2026, 14:12 BST
+- **Kickoff:** Sun 14 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Sun 14 Jun 2026, 21:58 BST
 
 ## Weather at kickoff
 
 - **Venue:** NRG Stadium, Houston, USA
-- **Conditions:** ⛅ Partly cloudy — 33 °C (feels 37 °C)
-- **Humidity:** 58%  ·  **Cloud cover:** 62%
-- **Rain:** 16% chance
-- _Forecast for Sun 14 Jun, 12:00 local time_
+- **Conditions:** ☁️ Overcast — 27 °C (feels 34 °C)
+- **Humidity:** 88%  ·  **Cloud cover:** 100%
+- **Rain:** 3% chance
+- _Observed at Sun 14 Jun, 06:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 7 – 1
+- **Outcome:** Germany (HOME)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -24,11 +25,11 @@ _Not yet played._
 | ------- | ----: | ------: |
 | Germany |  1.06 |   94.3% |
 | Draw    | 24.00 |    4.2% |
-| Curacao | 50.00 |    2.0% |
+| Curaçao | 50.00 |    2.0% |
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
@@ -49,31 +50,31 @@ Most-likely first.
 | 1-3   | 400.00 |    0.2% |
 | 0-2   | 410.00 |    0.2% |
 
-## topcorner crowd — 84 predictions
+## topcorner crowd — 85 predictions
 
-- **Outcome split:** Germany 95% · Draw 0% · Curacao 5%
-- **Most predicted score:** 3-0 (29%)
+- **Outcome split:** Germany 95% · Draw 0% · Curaçao 5%
+- **Most predicted score:** 3-0 (34%)
 
-| Score | Guesses | Share |        |
-| ----- | ------: | ----: | ------ |
-| 3-0   |      24 |   29% | ██████ |
-| 4-0   |      18 |   21% | ████   |
-| 5-0   |      11 |   13% | ███    |
-| 2-0   |      10 |   12% | ██     |
-| 2-1   |       4 |    5% | █      |
-| 6-0   |       4 |    5% | █      |
-| 3-1   |       4 |    5% | █      |
-| 4-1   |       3 |    4% | █      |
-| 1-2   |       2 |    2% |        |
-| 0-4   |       1 |    1% |        |
-| 7-0   |       1 |    1% |        |
-| 1-0   |       1 |    1% |        |
-| 0-2   |       1 |    1% |        |
+| Score | Guesses | Share |         |
+| ----- | ------: | ----: | ------- |
+| 3-0   |      29 |   34% | ███████ |
+| 4-0   |      17 |   20% | ████    |
+| 5-0   |      11 |   13% | ███     |
+| 2-0   |       9 |   11% | ██      |
+| 2-1   |       4 |    5% | █       |
+| 6-0   |       4 |    5% | █       |
+| 3-1   |       4 |    5% | █       |
+| 1-2   |       2 |    2% |         |
+| 4-1   |       2 |    2% |         |
+| 7-0   |       1 |    1% |         |
+| 0-4   |       1 |    1% |         |
+| 0-2   |       1 |    1% |         |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 3-0
-- Crowd modal outcome: HOME
-- Market favourite: HOME
+- **Actual score:** 7-1 (HOME)
+- **Exact score correctly predicted by:** 0 / 85 (0%)
+- **Outcome correctly predicted by:** 81 / 85 (95%)
+- **Crowd modal score:** 3-0 — ❌ wrong
+- **Crowd modal outcome:** HOME — ✅ right
+- **Market favourite:** HOME — ✅ correct

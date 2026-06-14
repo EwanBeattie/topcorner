@@ -7,13 +7,13 @@
   "kickoff_utc": "2026-06-15T02:00:00Z",
   "status": "upcoming",
   "frozen": false,
-  "last_updated_utc": "2026-06-14T13:12:28Z",
+  "last_updated_utc": "2026-06-14T21:03:43Z",
   "weather": {
     "local_time": "2026-06-14T20:00",
-    "temp_c": 28.6,
-    "feels_c": 31.6,
-    "humidity_pct": 66,
-    "cloud_pct": 99,
+    "temp_c": 29.9,
+    "feels_c": 32.3,
+    "humidity_pct": 60,
+    "cloud_pct": 100,
     "precip_prob_pct": 22,
     "weather_code": 3,
     "emoji": "☁️",
@@ -29,18 +29,22 @@
   },
   "betfair": {
     "match_odds": {
-      "home": 2.0,
+      "home": 1.98,
       "draw": 3.5,
       "away": 4.6
     },
     "correct_score": [
       {
-        "score": "1-1",
+        "score": "1-0",
         "odds": 7.2
       },
       {
-        "score": "1-0",
+        "score": "1-1",
         "odds": 7.4
+      },
+      {
+        "score": "2-0",
+        "odds": 10.0
       },
       {
         "score": "2-1",
@@ -51,20 +55,16 @@
         "odds": 10.5
       },
       {
-        "score": "2-0",
-        "odds": 10.5
-      },
-      {
         "score": "0-1",
         "odds": 13.0
       },
       {
         "score": "1-2",
-        "odds": 17.0
+        "odds": 18.0
       },
       {
         "score": "2-2",
-        "odds": 20.0
+        "odds": 21.0
       },
       {
         "score": "3-0",
@@ -80,15 +80,15 @@
       },
       {
         "score": "3-2",
-        "odds": 42.0
+        "odds": 46.0
       },
       {
         "score": "1-3",
-        "odds": 55.0
+        "odds": 60.0
       },
       {
         "score": "2-3",
-        "odds": 70.0
+        "odds": 75.0
       },
       {
         "score": "0-3",
@@ -101,28 +101,28 @@
     ]
   },
   "crowd": {
-    "n": 72,
+    "n": 83,
     "outcome": {
-      "HOME": 38,
+      "HOME": 49,
       "DRAW": 23,
       "AWAY": 11
     },
     "scores": [
       {
         "score": "2-1",
-        "count": 13
+        "count": 19
+      },
+      {
+        "score": "2-0",
+        "count": 14
       },
       {
         "score": "1-1",
         "count": 13
       },
       {
-        "score": "2-0",
-        "count": 12
-      },
-      {
         "score": "1-0",
-        "count": 9
+        "count": 11
       },
       {
         "score": "2-2",
@@ -130,14 +130,14 @@
       },
       {
         "score": "1-2",
-        "count": 6
-      },
-      {
-        "score": "0-0",
-        "count": 3
+        "count": 7
       },
       {
         "score": "3-0",
+        "count": 4
+      },
+      {
+        "score": "0-0",
         "count": 3
       },
       {
@@ -146,14 +146,14 @@
       },
       {
         "score": "0-2",
-        "count": 2
+        "count": 1
       },
       {
         "score": "3-1",
         "count": 1
       },
       {
-        "score": "0-4",
+        "score": "1-3",
         "count": 1
       }
     ],

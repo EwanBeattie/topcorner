@@ -1,31 +1,31 @@
 {
   "number": 9,
-  "match": "Germany vs Curacao",
+  "match": "Germany vs Curaçao",
   "home": "Germany",
-  "away": "Curacao",
+  "away": "Curaçao",
   "competition": "World Cup 2026",
-  "kickoff_utc": "2026-06-14T17:00:00Z",
-  "status": "upcoming",
-  "frozen": false,
-  "last_updated_utc": "2026-06-14T13:12:27Z",
+  "kickoff_utc": "2026-06-14T11:00:00Z",
+  "status": "played",
+  "frozen": true,
+  "last_updated_utc": "2026-06-14T20:58:15Z",
   "weather": {
-    "local_time": "2026-06-14T12:00",
-    "temp_c": 33.1,
-    "feels_c": 37.1,
-    "humidity_pct": 58,
-    "cloud_pct": 62,
-    "precip_prob_pct": 16,
-    "weather_code": 2,
-    "emoji": "⛅",
-    "summary": "Partly cloudy",
-    "source": "forecast",
+    "local_time": "2026-06-14T06:00",
+    "temp_c": 27.2,
+    "feels_c": 33.9,
+    "humidity_pct": 88,
+    "cloud_pct": 100,
+    "precip_prob_pct": 3,
+    "weather_code": 3,
+    "emoji": "☁️",
+    "summary": "Overcast",
+    "source": "observed",
     "venue": "NRG Stadium, Houston, USA",
     "city": "houston"
   },
   "result": {
-    "home_goals": null,
-    "away_goals": null,
-    "outcome": null
+    "home_goals": 7,
+    "away_goals": 1,
+    "outcome": "HOME"
   },
   "betfair": {
     "match_odds": {
@@ -101,20 +101,20 @@
     ]
   },
   "crowd": {
-    "n": 84,
+    "n": 85,
     "outcome": {
-      "HOME": 80,
+      "HOME": 81,
       "DRAW": 0,
       "AWAY": 4
     },
     "scores": [
       {
         "score": "3-0",
-        "count": 24
+        "count": 29
       },
       {
         "score": "4-0",
-        "count": 18
+        "count": 17
       },
       {
         "score": "5-0",
@@ -122,7 +122,7 @@
       },
       {
         "score": "2-0",
-        "count": 10
+        "count": 9
       },
       {
         "score": "2-1",
@@ -137,23 +137,19 @@
         "count": 4
       },
       {
-        "score": "4-1",
-        "count": 3
-      },
-      {
         "score": "1-2",
         "count": 2
       },
       {
-        "score": "0-4",
-        "count": 1
+        "score": "4-1",
+        "count": 2
       },
       {
         "score": "7-0",
         "count": 1
       },
       {
-        "score": "1-0",
+        "score": "0-4",
         "count": 1
       },
       {
@@ -167,9 +163,12 @@
     "crowd_modal_score": "3-0",
     "crowd_modal_outcome": "HOME",
     "market_favourite_outcome": "HOME",
-    "exact_correct": null,
-    "exact_correct_pct": null,
-    "outcome_correct": null,
-    "outcome_correct_pct": null
+    "exact_correct": 0,
+    "exact_correct_pct": 0.0,
+    "outcome_correct": 81,
+    "outcome_correct_pct": 0.953,
+    "crowd_modal_score_correct": false,
+    "crowd_modal_outcome_correct": true,
+    "market_favourite_correct": true
   }
 }
