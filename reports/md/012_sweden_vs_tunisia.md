@@ -2,21 +2,22 @@
 
 - **Game #:** 12
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Mon 15 Jun 2026, 03:00 BST (02:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Sun 14 Jun 2026, 22:03 BST
+- **Kickoff:** Mon 15 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Mon 15 Jun 2026, 18:29 BST
 
 ## Weather at kickoff
 
 - **Venue:** Estadio BBVA, Monterrey, Mexico
-- **Conditions:** ☁️ Overcast — 30 °C (feels 32 °C)
-- **Humidity:** 60%  ·  **Cloud cover:** 100%
-- **Rain:** 22% chance
-- _Forecast for Sun 14 Jun, 20:00 local time_
+- **Conditions:** ⛅ Partly cloudy — 24 °C (feels 28 °C)
+- **Humidity:** 93%  ·  **Cloud cover:** 50%
+- **Rain:** 17% chance
+- _Observed at Mon 15 Jun, 05:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 5 – 1
+- **Outcome:** Sweden (HOME)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -28,7 +29,7 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
@@ -49,30 +50,31 @@ Most-likely first.
 | 0-3   | 100.00 |    1.0% |
 | 3-3   | 120.00 |    0.8% |
 
-## topcorner crowd — 83 predictions
+## topcorner crowd — 82 predictions
 
-- **Outcome split:** Sweden 59% · Draw 28% · Tunisia 13%
-- **Most predicted score:** 2-1 (23%)
+- **Outcome split:** Sweden 60% · Draw 27% · Tunisia 13%
+- **Most predicted score:** 2-1 (22%)
 
-| Score | Guesses | Share |       |
-| ----- | ------: | ----: | ----- |
-| 2-1   |      19 |   23% | █████ |
-| 2-0   |      14 |   17% | ███   |
-| 1-1   |      13 |   16% | ███   |
-| 1-0   |      11 |   13% | ███   |
-| 2-2   |       7 |    8% | ██    |
-| 1-2   |       7 |    8% | ██    |
-| 3-0   |       4 |    5% | █     |
-| 0-0   |       3 |    4% | █     |
-| 0-1   |       2 |    2% |       |
-| 0-2   |       1 |    1% |       |
-| 3-1   |       1 |    1% |       |
-| 1-3   |       1 |    1% |       |
+| Score | Guesses | Share |      |
+| ----- | ------: | ----: | ---- |
+| 2-1   |      18 |   22% | ████ |
+| 2-0   |      14 |   17% | ███  |
+| 1-1   |      13 |   16% | ███  |
+| 1-0   |      12 |   15% | ███  |
+| 1-2   |       7 |    9% | ██   |
+| 2-2   |       7 |    9% | ██   |
+| 3-0   |       4 |    5% | █    |
+| 0-0   |       2 |    2% |      |
+| 0-1   |       2 |    2% |      |
+| 0-2   |       1 |    1% |      |
+| 3-1   |       1 |    1% |      |
+| 1-3   |       1 |    1% |      |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 2-1
-- Crowd modal outcome: HOME
-- Market favourite: HOME
+- **Actual score:** 5-1 (HOME)
+- **Exact score correctly predicted by:** 0 / 82 (0%)
+- **Outcome correctly predicted by:** 49 / 82 (60%)
+- **Crowd modal score:** 2-1 — ❌ wrong
+- **Crowd modal outcome:** HOME — ✅ right
+- **Market favourite:** HOME — ✅ correct

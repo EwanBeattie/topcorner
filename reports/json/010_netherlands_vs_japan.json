@@ -4,28 +4,28 @@
   "home": "Netherlands",
   "away": "Japan",
   "competition": "World Cup 2026",
-  "kickoff_utc": "2026-06-14T20:00:00Z",
-  "status": "upcoming",
-  "frozen": false,
-  "last_updated_utc": "2026-06-14T13:12:27Z",
+  "kickoff_utc": "2026-06-14T11:00:00Z",
+  "status": "played",
+  "frozen": true,
+  "last_updated_utc": "2026-06-15T17:29:18Z",
   "weather": {
-    "local_time": "2026-06-14T15:00",
-    "temp_c": 31.0,
-    "feels_c": 34.8,
-    "humidity_pct": 66,
-    "cloud_pct": 100,
-    "precip_prob_pct": 21,
-    "weather_code": 3,
-    "emoji": "☁️",
-    "summary": "Overcast",
-    "source": "forecast",
+    "local_time": "2026-06-14T06:00",
+    "temp_c": 25.5,
+    "feels_c": 28.6,
+    "humidity_pct": 82,
+    "cloud_pct": 1,
+    "precip_prob_pct": 1,
+    "weather_code": 0,
+    "emoji": "☀️",
+    "summary": "Clear",
+    "source": "observed",
     "venue": "AT&T Stadium, Dallas, USA",
     "city": "dallas"
   },
   "result": {
-    "home_goals": null,
-    "away_goals": null,
-    "outcome": null
+    "home_goals": 2,
+    "away_goals": 2,
+    "outcome": "DRAW"
   },
   "betfair": {
     "match_odds": {
@@ -101,40 +101,40 @@
     ]
   },
   "crowd": {
-    "n": 82,
+    "n": 84,
     "outcome": {
-      "HOME": 38,
+      "HOME": 41,
       "DRAW": 28,
-      "AWAY": 16
+      "AWAY": 15
     },
     "scores": [
       {
         "score": "2-1",
-        "count": 21
+        "count": 23
       },
       {
         "score": "1-1",
-        "count": 20
+        "count": 21
       },
       {
         "score": "1-2",
-        "count": 9
-      },
-      {
-        "score": "2-2",
         "count": 8
       },
       {
+        "score": "2-2",
+        "count": 7
+      },
+      {
         "score": "3-1",
-        "count": 6
+        "count": 7
+      },
+      {
+        "score": "2-0",
+        "count": 5
       },
       {
         "score": "1-0",
         "count": 5
-      },
-      {
-        "score": "2-0",
-        "count": 4
       },
       {
         "score": "2-3",
@@ -149,10 +149,6 @@
         "count": 1
       },
       {
-        "score": "3-0",
-        "count": 1
-      },
-      {
         "score": "3-2",
         "count": 1
       }
@@ -163,9 +159,12 @@
     "crowd_modal_score": "2-1",
     "crowd_modal_outcome": "HOME",
     "market_favourite_outcome": "HOME",
-    "exact_correct": null,
-    "exact_correct_pct": null,
-    "outcome_correct": null,
-    "outcome_correct_pct": null
+    "exact_correct": 7,
+    "exact_correct_pct": 0.083,
+    "outcome_correct": 28,
+    "outcome_correct_pct": 0.333,
+    "crowd_modal_score_correct": false,
+    "crowd_modal_outcome_correct": false,
+    "market_favourite_correct": false
   }
 }

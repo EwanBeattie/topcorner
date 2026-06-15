@@ -4,28 +4,28 @@
   "home": "Sweden",
   "away": "Tunisia",
   "competition": "World Cup 2026",
-  "kickoff_utc": "2026-06-15T02:00:00Z",
-  "status": "upcoming",
-  "frozen": false,
-  "last_updated_utc": "2026-06-14T21:03:43Z",
+  "kickoff_utc": "2026-06-15T11:00:00Z",
+  "status": "played",
+  "frozen": true,
+  "last_updated_utc": "2026-06-15T17:29:18Z",
   "weather": {
-    "local_time": "2026-06-14T20:00",
-    "temp_c": 29.9,
-    "feels_c": 32.3,
-    "humidity_pct": 60,
-    "cloud_pct": 100,
-    "precip_prob_pct": 22,
-    "weather_code": 3,
-    "emoji": "☁️",
-    "summary": "Overcast",
-    "source": "forecast",
+    "local_time": "2026-06-15T05:00",
+    "temp_c": 24.0,
+    "feels_c": 28.3,
+    "humidity_pct": 93,
+    "cloud_pct": 50,
+    "precip_prob_pct": 17,
+    "weather_code": 2,
+    "emoji": "⛅",
+    "summary": "Partly cloudy",
+    "source": "observed",
     "venue": "Estadio BBVA, Monterrey, Mexico",
     "city": "monterrey"
   },
   "result": {
-    "home_goals": null,
-    "away_goals": null,
-    "outcome": null
+    "home_goals": 5,
+    "away_goals": 1,
+    "outcome": "HOME"
   },
   "betfair": {
     "match_odds": {
@@ -101,16 +101,16 @@
     ]
   },
   "crowd": {
-    "n": 83,
+    "n": 82,
     "outcome": {
       "HOME": 49,
-      "DRAW": 23,
+      "DRAW": 22,
       "AWAY": 11
     },
     "scores": [
       {
         "score": "2-1",
-        "count": 19
+        "count": 18
       },
       {
         "score": "2-0",
@@ -122,14 +122,14 @@
       },
       {
         "score": "1-0",
-        "count": 11
-      },
-      {
-        "score": "2-2",
-        "count": 7
+        "count": 12
       },
       {
         "score": "1-2",
+        "count": 7
+      },
+      {
+        "score": "2-2",
         "count": 7
       },
       {
@@ -138,7 +138,7 @@
       },
       {
         "score": "0-0",
-        "count": 3
+        "count": 2
       },
       {
         "score": "0-1",
@@ -163,9 +163,12 @@
     "crowd_modal_score": "2-1",
     "crowd_modal_outcome": "HOME",
     "market_favourite_outcome": "HOME",
-    "exact_correct": null,
-    "exact_correct_pct": null,
-    "outcome_correct": null,
-    "outcome_correct_pct": null
+    "exact_correct": 0,
+    "exact_correct_pct": 0.0,
+    "outcome_correct": 49,
+    "outcome_correct_pct": 0.598,
+    "crowd_modal_score_correct": false,
+    "crowd_modal_outcome_correct": true,
+    "market_favourite_correct": true
   }
 }
