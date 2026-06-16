@@ -2,21 +2,22 @@
 
 - **Game #:** 16
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Tue 16 Jun 2026, 02:00 BST (01:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Mon 15 Jun 2026, 18:29 BST
+- **Kickoff:** Tue 16 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Tue 16 Jun 2026, 07:21 BST
 
 ## Weather at kickoff
 
 - **Venue:** SoFi Stadium, Los Angeles, USA
-- **Conditions:** 🌤️ Mainly clear — 20 °C (feels 20 °C)
-- **Humidity:** 79%  ·  **Cloud cover:** 23%
+- **Conditions:** ☁️ Overcast — 16 °C (feels 18 °C)
+- **Humidity:** 96%  ·  **Cloud cover:** 100%
 - **Rain:** 0% chance
-- _Forecast for Mon 15 Jun, 18:00 local time_
+- _Forecast for Tue 16 Jun, 04:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 2 – 2
+- **Outcome:** Draw (DRAW)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -28,7 +29,7 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
@@ -41,7 +42,7 @@ Most-likely first.
 | 3-0   |  17.50 |    5.7% |
 | 1-2   |  20.00 |    5.0% |
 | 3-1   |  21.00 |    4.8% |
-| 2-2   |  28.00 |    3.6% |
+| 2-2 ✅ |  28.00 |    3.6% |
 | 0-2   |  36.00 |    2.8% |
 | 3-2   |  60.00 |    1.7% |
 | 1-3   |  95.00 |    1.1% |
@@ -49,32 +50,33 @@ Most-likely first.
 | 0-3   | 150.00 |    0.7% |
 | 3-3   | 190.00 |    0.5% |
 
-## topcorner crowd — 76 predictions
+## topcorner crowd — 79 predictions
 
-- **Outcome split:** Iran 39% · Draw 38% · New Zealand 22%
-- **Most predicted score:** 1-1 (25%)
+- **Outcome split:** Iran 42% · Draw 37% · New Zealand 22%
+- **Most predicted score:** 1-1 (22%)
 
-| Score | Guesses | Share |       |
-| ----- | ------: | ----: | ----- |
-| 1-1   |      19 |   25% | █████ |
-| 1-0   |      13 |   17% | ███   |
-| 2-1   |      10 |   13% | ███   |
-| 0-0   |       9 |   12% | ██    |
-| 0-1   |       7 |    9% | ██    |
-| 0-2   |       4 |    5% | █     |
-| 2-0   |       3 |    4% | █     |
-| 1-2   |       3 |    4% | █     |
-| 3-1   |       2 |    3% | █     |
-| 3-4   |       2 |    3% | █     |
-| 2-2   |       1 |    1% |       |
-| 3-2   |       1 |    1% |       |
-| 3-0   |       1 |    1% |       |
-| 2-4   |       1 |    1% |       |
+| Score | Guesses | Share |      |
+| ----- | ------: | ----: | ---- |
+| 1-1   |      17 |   22% | ████ |
+| 1-0   |      13 |   16% | ███  |
+| 2-1   |      12 |   15% | ███  |
+| 0-0   |      11 |   14% | ███  |
+| 0-1   |       8 |   10% | ██   |
+| 2-0   |       4 |    5% | █    |
+| 0-2   |       3 |    4% | █    |
+| 1-2   |       3 |    4% | █    |
+| 3-1   |       2 |    3% | █    |
+| 3-4   |       2 |    3% | █    |
+| 2-2 ✅ |       1 |    1% |      |
+| 3-2   |       1 |    1% |      |
+| 3-0   |       1 |    1% |      |
+| 2-4   |       1 |    1% |      |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 1-1
-- Crowd modal outcome: HOME
-- Market favourite: HOME
+- **Actual score:** 2-2 (DRAW)
+- **Exact score correctly predicted by:** 1 / 79 (1%)
+- **Outcome correctly predicted by:** 29 / 79 (37%)
+- **Crowd modal score:** 1-1 — ❌ wrong
+- **Crowd modal outcome:** HOME — ❌ wrong
+- **Market favourite:** HOME — ❌ wrong

@@ -2,21 +2,22 @@
 
 - **Game #:** 15
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Mon 15 Jun 2026, 23:00 BST (22:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Mon 15 Jun 2026, 18:29 BST
+- **Kickoff:** Mon 15 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Tue 16 Jun 2026, 07:21 BST
 
 ## Weather at kickoff
 
 - **Venue:** Hard Rock Stadium, Miami, USA
-- **Conditions:** 🌦️ Drizzle — 27 °C (feels 30 °C)
-- **Humidity:** 71%  ·  **Cloud cover:** 100%
-- **Rain:** 18% chance
-- _Forecast for Mon 15 Jun, 18:00 local time_
+- **Conditions:** ⛅ Partly cloudy — 26 °C (feels 32 °C)
+- **Humidity:** 89%  ·  **Cloud cover:** 50%
+- **Rain:** 1% chance
+- _Observed at Mon 15 Jun, 07:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 1 – 1
+- **Outcome:** Draw (DRAW)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -28,13 +29,13 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
 | 0-1   |   6.40 |   15.6% |
 | 0-2   |   6.80 |   14.7% |
-| 1-1   |  10.50 |    9.5% |
+| 1-1 ✅ |  10.50 |    9.5% |
 | 1-2   |  10.50 |    9.5% |
 | 0-0   |  11.00 |    9.1% |
 | 0-3   |  11.50 |    8.7% |
@@ -51,28 +52,28 @@ Most-likely first.
 
 ## topcorner crowd — 82 predictions
 
-- **Outcome split:** Saudi Arabia 4% · Draw 20% · Uruguay 77%
-- **Most predicted score:** 0-2 (29%)
+- **Outcome split:** Saudi Arabia 5% · Draw 17% · Uruguay 78%
+- **Most predicted score:** 0-2 (30%)
 
 | Score | Guesses | Share |        |
 | ----- | ------: | ----: | ------ |
-| 0-2   |      24 |   29% | ██████ |
+| 0-2   |      25 |   30% | ██████ |
 | 0-1   |      14 |   17% | ███    |
 | 1-2   |      12 |   15% | ███    |
-| 1-1   |      11 |   13% | ███    |
+| 1-1 ✅ |      10 |   12% | ██     |
 | 1-3   |       8 |   10% | ██     |
 | 0-3   |       4 |    5% | █      |
-| 0-0   |       3 |    4% | █      |
+| 2-1   |       3 |    4% | █      |
 | 2-2   |       2 |    2% |        |
-| 2-1   |       1 |    1% |        |
+| 0-0   |       2 |    2% |        |
 | 0-4   |       1 |    1% |        |
 | 3-0   |       1 |    1% |        |
-| 1-0   |       1 |    1% |        |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 0-2
-- Crowd modal outcome: AWAY
-- Market favourite: AWAY
+- **Actual score:** 1-1 (DRAW)
+- **Exact score correctly predicted by:** 10 / 82 (12%)
+- **Outcome correctly predicted by:** 14 / 82 (17%)
+- **Crowd modal score:** 0-2 — ❌ wrong
+- **Crowd modal outcome:** AWAY — ❌ wrong
+- **Market favourite:** AWAY — ❌ wrong

@@ -2,21 +2,22 @@
 
 - **Game #:** 14
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Mon 15 Jun 2026, 20:00 BST (19:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Mon 15 Jun 2026, 18:29 BST
+- **Kickoff:** Mon 15 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Tue 16 Jun 2026, 07:21 BST
 
 ## Weather at kickoff
 
 - **Venue:** Lumen Field, Seattle, USA
-- **Conditions:** ☁️ Overcast — 27 °C (feels 29 °C)
-- **Humidity:** 36%  ·  **Cloud cover:** 100%
+- **Conditions:** ☁️ Overcast — 17 °C (feels 17 °C)
+- **Humidity:** 70%  ·  **Cloud cover:** 99%
 - **Rain:** 0% chance
-- _Forecast for Mon 15 Jun, 12:00 local time_
+- _Observed at Mon 15 Jun, 04:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 1 – 1
+- **Outcome:** Draw (DRAW)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -28,13 +29,13 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
 | 1-0   |   7.80 |   12.8% |
 | 2-0   |   8.00 |   12.5% |
-| 1-1   |   9.00 |   11.1% |
+| 1-1 ✅ |   9.00 |   11.1% |
 | 2-1   |   9.60 |   10.4% |
 | 0-0   |  14.00 |    7.1% |
 | 3-0   |  14.00 |    7.1% |
@@ -51,29 +52,29 @@ Most-likely first.
 
 ## topcorner crowd — 84 predictions
 
-- **Outcome split:** Belgium 64% · Draw 25% · Egypt 11%
-- **Most predicted score:** 2-1 (30%)
+- **Outcome split:** Belgium 65% · Draw 24% · Egypt 11%
+- **Most predicted score:** 2-1 (31%)
 
 | Score | Guesses | Share |        |
 | ----- | ------: | ----: | ------ |
-| 2-1   |      25 |   30% | ██████ |
-| 1-1   |      14 |   17% | ███    |
-| 2-0   |      12 |   14% | ███    |
+| 2-1   |      26 |   31% | ██████ |
+| 1-1 ✅ |      14 |   17% | ███    |
+| 2-0   |      13 |   15% | ███    |
 | 3-1   |      11 |   13% | ███    |
 | 2-2   |       6 |    7% | █      |
 | 1-2   |       5 |    6% | █      |
-| 1-0   |       3 |    4% | █      |
+| 1-0   |       2 |    2% |        |
 | 3-2   |       2 |    2% |        |
 | 0-1   |       2 |    2% |        |
-| 0-0   |       1 |    1% |        |
 | 0-2   |       1 |    1% |        |
 | 1-3   |       1 |    1% |        |
 | 3-0   |       1 |    1% |        |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 2-1
-- Crowd modal outcome: HOME
-- Market favourite: HOME
+- **Actual score:** 1-1 (DRAW)
+- **Exact score correctly predicted by:** 14 / 84 (17%)
+- **Outcome correctly predicted by:** 20 / 84 (24%)
+- **Crowd modal score:** 2-1 — ❌ wrong
+- **Crowd modal outcome:** HOME — ❌ wrong
+- **Market favourite:** HOME — ❌ wrong
