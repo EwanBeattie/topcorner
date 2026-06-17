@@ -2,7 +2,7 @@
 # Edit values here and re-run; no code changes needed.
 
 # How many hours ahead to pull Betfair odds for upcoming games.
-window_hours = 24
+window_hours = 72
 
 # Only aggregate the top N users from the leaderboard into the crowd
 # distribution (sharper signal than the whole field). Set to 0 to include

@@ -4,7 +4,11 @@
 - **Competition:** World Cup 2026 — Group Stage
 - **Kickoff:** Wed 17 Jun 2026, 12:00 BST (11:00 UTC)
 - **Status:** ✅ PLAYED — _frozen_
+<<<<<<< Updated upstream
 - **Last updated:** Wed 17 Jun 2026, 18:16 BST
+=======
+- **Last updated:** Wed 17 Jun 2026, 18:21 BST
+>>>>>>> Stashed changes
 
 ## Weather at kickoff
 

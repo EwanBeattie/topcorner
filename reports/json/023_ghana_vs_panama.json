@@ -1,0 +1,179 @@
+{
+  "number": 23,
+  "match": "Ghana vs Panama",
+  "home": "Ghana",
+  "away": "Panama",
+  "competition": "World Cup 2026",
+  "kickoff_utc": "2026-06-17T23:00:00Z",
+  "status": "upcoming",
+  "frozen": false,
+  "last_updated_utc": "2026-06-17T17:21:50Z",
+  "weather": {
+    "local_time": "2026-06-17T19:00",
+    "temp_c": 17.1,
+    "feels_c": 15.5,
+    "humidity_pct": 70,
+    "cloud_pct": 100,
+    "precip_prob_pct": 3,
+    "weather_code": 3,
+    "emoji": "☁️",
+    "summary": "Overcast",
+    "source": "forecast",
+    "venue": "BMO Field, Toronto, Canada",
+    "city": "toronto"
+  },
+  "result": {
+    "home_goals": null,
+    "away_goals": null,
+    "outcome": null
+  },
+  "betfair": {
+    "match_odds": {
+      "home": 2.44,
+      "draw": 3.3,
+      "away": 3.4
+    },
+    "correct_score": [
+      {
+        "score": "1-1",
+        "odds": 7.0
+      },
+      {
+        "score": "1-0",
+        "odds": 8.0
+      },
+      {
+        "score": "0-0",
+        "odds": 9.6
+      },
+      {
+        "score": "0-1",
+        "odds": 9.8
+      },
+      {
+        "score": "2-1",
+        "odds": 11.5
+      },
+      {
+        "score": "2-0",
+        "odds": 12.5
+      },
+      {
+        "score": "1-2",
+        "odds": 14.5
+      },
+      {
+        "score": "0-2",
+        "odds": 20.0
+      },
+      {
+        "score": "2-2",
+        "odds": 21.0
+      },
+      {
+        "score": "3-1",
+        "odds": 29.0
+      },
+      {
+        "score": "3-0",
+        "odds": 32.0
+      },
+      {
+        "score": "1-3",
+        "odds": 44.0
+      },
+      {
+        "score": "3-2",
+        "odds": 50.0
+      },
+      {
+        "score": "0-3",
+        "odds": 65.0
+      },
+      {
+        "score": "2-3",
+        "odds": 65.0
+      },
+      {
+        "score": "3-3",
+        "odds": 130.0
+      }
+    ]
+  },
+  "crowd": {
+    "n": 80,
+    "outcome": {
+      "HOME": 47,
+      "DRAW": 24,
+      "AWAY": 9
+    },
+    "scores": [
+      {
+        "score": "2-1",
+        "count": 16
+      },
+      {
+        "score": "1-1",
+        "count": 16
+      },
+      {
+        "score": "2-0",
+        "count": 12
+      },
+      {
+        "score": "1-0",
+        "count": 11
+      },
+      {
+        "score": "1-2",
+        "count": 5
+      },
+      {
+        "score": "0-0",
+        "count": 4
+      },
+      {
+        "score": "2-2",
+        "count": 4
+      },
+      {
+        "score": "3-0",
+        "count": 3
+      },
+      {
+        "score": "0-1",
+        "count": 2
+      },
+      {
+        "score": "3-1",
+        "count": 2
+      },
+      {
+        "score": "0-2",
+        "count": 2
+      },
+      {
+        "score": "4-0",
+        "count": 1
+      },
+      {
+        "score": "4-3",
+        "count": 1
+      },
+      {
+        "score": "4-1",
+        "count": 1
+      }
+    ],
+    "others_count": 0
+  },
+  "analysis": {
+    "crowd_modal_score": "2-1",
+    "crowd_modal_outcome": "HOME",
+    "market_favourite_outcome": "HOME",
+    "exact_correct": null,
+    "exact_correct_pct": null,
+    "outcome_correct": null,
+    "outcome_correct_pct": null
+  }
+}
