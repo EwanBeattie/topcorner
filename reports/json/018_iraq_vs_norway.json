@@ -4,28 +4,28 @@
   "home": "Iraq",
   "away": "Norway",
   "competition": "World Cup 2026",
-  "kickoff_utc": "2026-06-16T22:00:00Z",
-  "status": "upcoming",
-  "frozen": false,
-  "last_updated_utc": "2026-06-16T06:21:25Z",
+  "kickoff_utc": "2026-06-16T11:00:00Z",
+  "status": "played",
+  "frozen": true,
+  "last_updated_utc": "2026-06-17T17:16:16Z",
   "weather": {
-    "local_time": "2026-06-16T18:00",
-    "temp_c": 24.5,
-    "feels_c": 21.9,
-    "humidity_pct": 30,
-    "cloud_pct": 41,
+    "local_time": "2026-06-16T07:00",
+    "temp_c": 14.6,
+    "feels_c": 13.6,
+    "humidity_pct": 79,
+    "cloud_pct": 0,
     "precip_prob_pct": 0,
-    "weather_code": 1,
-    "emoji": "🌤️",
-    "summary": "Mainly clear",
-    "source": "forecast",
+    "weather_code": 0,
+    "emoji": "☀️",
+    "summary": "Clear",
+    "source": "observed",
     "venue": "Gillette Stadium, Boston, USA",
     "city": "boston"
   },
   "result": {
-    "home_goals": null,
-    "away_goals": null,
-    "outcome": null
+    "home_goals": 1,
+    "away_goals": 4,
+    "outcome": "AWAY"
   },
   "betfair": {
     "match_odds": {
@@ -101,20 +101,20 @@
     ]
   },
   "crowd": {
-    "n": 79,
+    "n": 84,
     "outcome": {
-      "HOME": 2,
+      "HOME": 0,
       "DRAW": 12,
-      "AWAY": 65
+      "AWAY": 72
     },
     "scores": [
       {
         "score": "0-2",
-        "count": 26
+        "count": 31
       },
       {
         "score": "0-3",
-        "count": 12
+        "count": 14
       },
       {
         "score": "1-1",
@@ -122,23 +122,19 @@
       },
       {
         "score": "1-2",
-        "count": 10
+        "count": 9
       },
       {
         "score": "1-3",
-        "count": 7
+        "count": 8
       },
       {
         "score": "0-1",
-        "count": 6
+        "count": 5
       },
       {
         "score": "0-4",
-        "count": 2
-      },
-      {
-        "score": "4-0",
-        "count": 1
+        "count": 3
       },
       {
         "score": "2-2",
@@ -146,10 +142,6 @@
       },
       {
         "score": "2-22",
-        "count": 1
-      },
-      {
-        "score": "1-0",
         "count": 1
       },
       {
@@ -163,9 +155,12 @@
     "crowd_modal_score": "0-2",
     "crowd_modal_outcome": "AWAY",
     "market_favourite_outcome": "AWAY",
-    "exact_correct": null,
-    "exact_correct_pct": null,
-    "outcome_correct": null,
-    "outcome_correct_pct": null
+    "exact_correct": 0,
+    "exact_correct_pct": 0.0,
+    "outcome_correct": 72,
+    "outcome_correct_pct": 0.857,
+    "crowd_modal_score_correct": false,
+    "crowd_modal_outcome_correct": true,
+    "market_favourite_correct": true
   }
 }

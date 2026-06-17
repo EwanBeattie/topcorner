@@ -2,21 +2,22 @@
 
 - **Game #:** 18
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Tue 16 Jun 2026, 23:00 BST (22:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Tue 16 Jun 2026, 07:21 BST
+- **Kickoff:** Tue 16 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Wed 17 Jun 2026, 18:16 BST
 
 ## Weather at kickoff
 
 - **Venue:** Gillette Stadium, Boston, USA
-- **Conditions:** 🌤️ Mainly clear — 24 °C (feels 22 °C)
-- **Humidity:** 30%  ·  **Cloud cover:** 41%
+- **Conditions:** ☀️ Clear — 15 °C (feels 14 °C)
+- **Humidity:** 79%  ·  **Cloud cover:** 0%
 - **Rain:** 0% chance
-- _Forecast for Tue 16 Jun, 18:00 local time_
+- _Observed at Tue 16 Jun, 07:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 1 – 4
+- **Outcome:** Norway (AWAY)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -28,7 +29,7 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
@@ -49,30 +50,29 @@ Most-likely first.
 | 3-0   | 130.00 |    0.8% |
 | 2-0   | 140.00 |    0.7% |
 
-## topcorner crowd — 79 predictions
+## topcorner crowd — 84 predictions
 
-- **Outcome split:** Iraq 3% · Draw 15% · Norway 82%
-- **Most predicted score:** 0-2 (33%)
+- **Outcome split:** Iraq 0% · Draw 14% · Norway 86%
+- **Most predicted score:** 0-2 (37%)
 
 | Score | Guesses | Share |         |
 | ----- | ------: | ----: | ------- |
-| 0-2   |      26 |   33% | ███████ |
-| 0-3   |      12 |   15% | ███     |
-| 1-1   |      11 |   14% | ███     |
-| 1-2   |      10 |   13% | ███     |
-| 1-3   |       7 |    9% | ██      |
-| 0-1   |       6 |    8% | ██      |
-| 0-4   |       2 |    3% | █       |
-| 4-0   |       1 |    1% |         |
+| 0-2   |      31 |   37% | ███████ |
+| 0-3   |      14 |   17% | ███     |
+| 1-1   |      11 |   13% | ███     |
+| 1-2   |       9 |   11% | ██      |
+| 1-3   |       8 |   10% | ██      |
+| 0-1   |       5 |    6% | █       |
+| 0-4   |       3 |    4% | █       |
 | 2-2   |       1 |    1% |         |
 | 2-22  |       1 |    1% |         |
-| 1-0   |       1 |    1% |         |
 | 2-3   |       1 |    1% |         |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 0-2
-- Crowd modal outcome: AWAY
-- Market favourite: AWAY
+- **Actual score:** 1-4 (AWAY)
+- **Exact score correctly predicted by:** 0 / 84 (0%)
+- **Outcome correctly predicted by:** 72 / 84 (86%)
+- **Crowd modal score:** 0-2 — ❌ wrong
+- **Crowd modal outcome:** AWAY — ✅ right
+- **Market favourite:** AWAY — ✅ correct

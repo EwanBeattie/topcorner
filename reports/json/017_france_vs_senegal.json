@@ -4,28 +4,28 @@
   "home": "France",
   "away": "Senegal",
   "competition": "World Cup 2026",
-  "kickoff_utc": "2026-06-16T19:00:00Z",
-  "status": "upcoming",
-  "frozen": false,
-  "last_updated_utc": "2026-06-16T06:21:25Z",
+  "kickoff_utc": "2026-06-16T11:00:00Z",
+  "status": "played",
+  "frozen": true,
+  "last_updated_utc": "2026-06-17T17:16:16Z",
   "weather": {
-    "local_time": "2026-06-16T15:00",
-    "temp_c": 26.3,
-    "feels_c": 25.0,
-    "humidity_pct": 25,
+    "local_time": "2026-06-16T07:00",
+    "temp_c": 15.0,
+    "feels_c": 13.7,
+    "humidity_pct": 70,
     "cloud_pct": 0,
     "precip_prob_pct": 0,
     "weather_code": 0,
     "emoji": "☀️",
     "summary": "Clear",
-    "source": "forecast",
+    "source": "observed",
     "venue": "MetLife Stadium, New York/New Jersey, USA",
     "city": "new_york"
   },
   "result": {
-    "home_goals": null,
-    "away_goals": null,
-    "outcome": null
+    "home_goals": 3,
+    "away_goals": 1,
+    "outcome": "HOME"
   },
   "betfair": {
     "match_odds": {
@@ -101,51 +101,51 @@
     ]
   },
   "crowd": {
-    "n": 79,
+    "n": 82,
     "outcome": {
-      "HOME": 62,
-      "DRAW": 13,
-      "AWAY": 4
+      "HOME": 67,
+      "DRAW": 12,
+      "AWAY": 3
     },
     "scores": [
       {
-        "score": "3-1",
-        "count": 19
-      },
-      {
         "score": "2-1",
-        "count": 15
+        "count": 20
       },
       {
-        "score": "2-0",
-        "count": 9
+        "score": "3-1",
+        "count": 18
       },
       {
         "score": "3-0",
-        "count": 7
+        "count": 9
+      },
+      {
+        "score": "2-0",
+        "count": 8
       },
       {
         "score": "2-2",
+        "count": 7
+      },
+      {
+        "score": "1-0",
         "count": 6
       },
       {
         "score": "1-1",
-        "count": 6
-      },
-      {
-        "score": "4-1",
-        "count": 5
-      },
-      {
-        "score": "1-0",
         "count": 4
       },
       {
-        "score": "1-2",
+        "score": "4-1",
         "count": 3
       },
       {
         "score": "3-2",
+        "count": 2
+      },
+      {
+        "score": "1-2",
         "count": 2
       },
       {
@@ -164,12 +164,15 @@
     "others_count": 0
   },
   "analysis": {
-    "crowd_modal_score": "3-1",
+    "crowd_modal_score": "2-1",
     "crowd_modal_outcome": "HOME",
     "market_favourite_outcome": "HOME",
-    "exact_correct": null,
-    "exact_correct_pct": null,
-    "outcome_correct": null,
-    "outcome_correct_pct": null
+    "exact_correct": 18,
+    "exact_correct_pct": 0.22,
+    "outcome_correct": 67,
+    "outcome_correct_pct": 0.817,
+    "crowd_modal_score_correct": false,
+    "crowd_modal_outcome_correct": true,
+    "market_favourite_correct": true
   }
 }

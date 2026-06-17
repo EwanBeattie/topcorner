@@ -4,28 +4,28 @@
   "home": "Argentina",
   "away": "Algeria",
   "competition": "World Cup 2026",
-  "kickoff_utc": "2026-06-17T01:00:00Z",
-  "status": "upcoming",
-  "frozen": false,
-  "last_updated_utc": "2026-06-16T06:21:25Z",
+  "kickoff_utc": "2026-06-17T11:00:00Z",
+  "status": "played",
+  "frozen": true,
+  "last_updated_utc": "2026-06-17T17:16:16Z",
   "weather": {
-    "local_time": "2026-06-16T20:00",
-    "temp_c": 23.9,
-    "feels_c": 24.5,
-    "humidity_pct": 59,
-    "cloud_pct": 86,
-    "precip_prob_pct": 1,
-    "weather_code": 3,
-    "emoji": "☁️",
-    "summary": "Overcast",
-    "source": "forecast",
+    "local_time": "2026-06-17T06:00",
+    "temp_c": 23.8,
+    "feels_c": 23.2,
+    "humidity_pct": 79,
+    "cloud_pct": 8,
+    "precip_prob_pct": 2,
+    "weather_code": 0,
+    "emoji": "☀️",
+    "summary": "Clear",
+    "source": "observed",
     "venue": "Arrowhead Stadium, Kansas City, USA",
     "city": "kansas_city"
   },
   "result": {
-    "home_goals": null,
-    "away_goals": null,
-    "outcome": null
+    "home_goals": 3,
+    "away_goals": 0,
+    "outcome": "HOME"
   },
   "betfair": {
     "match_odds": {
@@ -101,28 +101,28 @@
     ]
   },
   "crowd": {
-    "n": 72,
+    "n": 84,
     "outcome": {
-      "HOME": 60,
-      "DRAW": 8,
-      "AWAY": 4
+      "HOME": 77,
+      "DRAW": 4,
+      "AWAY": 3
     },
     "scores": [
       {
         "score": "2-0",
-        "count": 24
-      },
-      {
-        "score": "3-1",
-        "count": 11
+        "count": 31
       },
       {
         "score": "2-1",
-        "count": 10
+        "count": 13
+      },
+      {
+        "score": "3-1",
+        "count": 13
       },
       {
         "score": "3-0",
-        "count": 6
+        "count": 10
       },
       {
         "score": "1-0",
@@ -130,27 +130,15 @@
       },
       {
         "score": "4-1",
-        "count": 3
-      },
-      {
-        "score": "1-1",
-        "count": 3
-      },
-      {
-        "score": "3-3",
-        "count": 2
+        "count": 4
       },
       {
         "score": "4-0",
         "count": 2
       },
       {
-        "score": "2-2",
-        "count": 1
-      },
-      {
-        "score": "0-1",
-        "count": 1
+        "score": "3-3",
+        "count": 2
       },
       {
         "score": "4-4",
@@ -165,7 +153,7 @@
         "count": 1
       },
       {
-        "score": "0-0",
+        "score": "1-1",
         "count": 1
       },
       {
@@ -179,9 +167,12 @@
     "crowd_modal_score": "2-0",
     "crowd_modal_outcome": "HOME",
     "market_favourite_outcome": "HOME",
-    "exact_correct": null,
-    "exact_correct_pct": null,
-    "outcome_correct": null,
-    "outcome_correct_pct": null
+    "exact_correct": 10,
+    "exact_correct_pct": 0.119,
+    "outcome_correct": 77,
+    "outcome_correct_pct": 0.917,
+    "crowd_modal_score_correct": false,
+    "crowd_modal_outcome_correct": true,
+    "market_favourite_correct": true
   }
 }
