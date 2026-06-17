@@ -1,0 +1,41 @@
+name: Daily Report
+
+on:
+  schedule:
+    - cron: "0 7 * * *"  # 7am UTC daily
+  workflow_dispatch:       # allows manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    environment: env
+
+    env:
+      BETFAIR_USERNAME: ${{ secrets.BETFAIR_USERNAME }}
+      BETFAIR_PASSWORD: ${{ secrets.BETFAIR_PASSWORD }}
+      BETFAIR_APP_KEY: ${{ secrets.BETFAIR_APP_KEY }}
+      TOPCORNER_USERNAME: ${{ secrets.TOPCORNER_USERNAME }}
+      TOPCORNER_PASSWORD: ${{ secrets.TOPCORNER_PASSWORD }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - run: python report.py
+
+      - name: Commit and push reports
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports/
+          git diff --cached --quiet || git commit -m "Daily report update"
+          git push
