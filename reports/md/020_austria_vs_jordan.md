@@ -4,11 +4,7 @@
 - **Competition:** World Cup 2026 — Group Stage
 - **Kickoff:** Wed 17 Jun 2026, 12:00 BST (11:00 UTC)
 - **Status:** ✅ PLAYED — _frozen_
-<<<<<<< Updated upstream
-- **Last updated:** Wed 17 Jun 2026, 18:16 BST
-=======
-- **Last updated:** Wed 17 Jun 2026, 18:21 BST
->>>>>>> Stashed changes
+- **Last updated:** Wed 17 Jun 2026, 18:32 BST
 
 ## Weather at kickoff
 
@@ -25,34 +21,11 @@
 
 ## Betfair Exchange — Match Odds (decimal)
 
-| Outcome | Odds | Implied |
-| ------- | ---: | ------: |
-| Austria | 1.39 |   71.9% |
-| Draw    | 5.60 |   17.9% |
-| Jordan  | 9.40 |   10.6% |
+_No Betfair odds captured._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first. ✅ marks the score that occurred.
-
-| Score |   Odds | Implied |
-| ----- | -----: | ------: |
-| 2-0   |   7.20 |   13.9% |
-| 1-0   |   7.60 |   13.2% |
-| 2-1   |   9.80 |   10.2% |
-| 3-0   |  10.50 |    9.5% |
-| 1-1   |  11.50 |    8.7% |
-| 3-1 ✅ |  14.00 |    7.1% |
-| 0-0   |  18.00 |    5.6% |
-| 0-1   |  24.00 |    4.2% |
-| 2-2   |  29.00 |    3.4% |
-| 1-2   |  32.00 |    3.1% |
-| 3-2   |  36.00 |    2.8% |
-| 0-3   |  55.00 |    1.8% |
-| 0-2   |  75.00 |    1.3% |
-| 2-3   | 110.00 |    0.9% |
-| 1-3   | 140.00 |    0.7% |
-| 3-3   | 150.00 |    0.7% |
+_No Betfair odds captured._
 
 ## topcorner crowd — 84 predictions
 
@@ -82,4 +55,4 @@ Most-likely first. ✅ marks the score that occurred.
 - **Outcome correctly predicted by:** 66 / 84 (79%)
 - **Crowd modal score:** 2-0 — ❌ wrong
 - **Crowd modal outcome:** HOME — ✅ right
-- **Market favourite:** HOME — ✅ correct
+- **Market favourite:** — (no odds captured)

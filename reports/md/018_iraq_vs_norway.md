@@ -4,11 +4,7 @@
 - **Competition:** World Cup 2026 — Group Stage
 - **Kickoff:** Tue 16 Jun 2026, 12:00 BST (11:00 UTC)
 - **Status:** ✅ PLAYED — _frozen_
-<<<<<<< Updated upstream
-- **Last updated:** Wed 17 Jun 2026, 18:16 BST
-=======
-- **Last updated:** Wed 17 Jun 2026, 18:21 BST
->>>>>>> Stashed changes
+- **Last updated:** Wed 17 Jun 2026, 18:32 BST
 
 ## Weather at kickoff
 
@@ -25,34 +21,11 @@
 
 ## Betfair Exchange — Match Odds (decimal)
 
-| Outcome |  Odds | Implied |
-| ------- | ----: | ------: |
-| Iraq    | 17.00 |    5.9% |
-| Draw    |  7.60 |   13.2% |
-| Norway  |  1.23 |   81.3% |
+_No Betfair odds captured._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first. ✅ marks the score that occurred.
-
-| Score |   Odds | Implied |
-| ----- | -----: | ------: |
-| 0-2   |   6.60 |   15.2% |
-| 0-3   |   7.80 |   12.8% |
-| 0-1   |   8.20 |   12.2% |
-| 1-2   |  11.50 |    8.7% |
-| 1-3   |  13.50 |    7.4% |
-| 1-1   |  16.50 |    6.1% |
-| 0-0   |  24.00 |    4.2% |
-| 1-0   |  44.00 |    2.3% |
-| 2-2   |  44.00 |    2.3% |
-| 2-3   |  48.00 |    2.1% |
-| 2-1   |  60.00 |    1.7% |
-| 3-1   |  70.00 |    1.4% |
-| 3-2   |  70.00 |    1.4% |
-| 3-3   | 120.00 |    0.8% |
-| 3-0   | 130.00 |    0.8% |
-| 2-0   | 140.00 |    0.7% |
+_No Betfair odds captured._
 
 ## topcorner crowd — 84 predictions
 
@@ -79,4 +52,4 @@ Most-likely first. ✅ marks the score that occurred.
 - **Outcome correctly predicted by:** 72 / 84 (86%)
 - **Crowd modal score:** 0-2 — ❌ wrong
 - **Crowd modal outcome:** AWAY — ✅ right
-- **Market favourite:** AWAY — ✅ correct
+- **Market favourite:** — (no odds captured)

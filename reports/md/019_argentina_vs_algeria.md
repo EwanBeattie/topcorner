@@ -4,11 +4,7 @@
 - **Competition:** World Cup 2026 — Group Stage
 - **Kickoff:** Wed 17 Jun 2026, 12:00 BST (11:00 UTC)
 - **Status:** ✅ PLAYED — _frozen_
-<<<<<<< Updated upstream
-- **Last updated:** Wed 17 Jun 2026, 18:16 BST
-=======
-- **Last updated:** Wed 17 Jun 2026, 18:21 BST
->>>>>>> Stashed changes
+- **Last updated:** Wed 17 Jun 2026, 18:32 BST
 
 ## Weather at kickoff
 
@@ -25,34 +21,11 @@
 
 ## Betfair Exchange — Match Odds (decimal)
 
-| Outcome   | Odds | Implied |
-| --------- | ---: | ------: |
-| Argentina | 1.45 |   69.0% |
-| Draw      | 4.70 |   21.3% |
-| Algeria   | 9.40 |   10.6% |
+_No Betfair odds captured._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first. ✅ marks the score that occurred.
-
-| Score |   Odds | Implied |
-| ----- | -----: | ------: |
-| 1-0   |   6.40 |   15.6% |
-| 2-0   |   6.80 |   14.7% |
-| 1-1   |  10.00 |   10.0% |
-| 2-1   |  10.00 |   10.0% |
-| 3-0 ✅ |  10.50 |    9.5% |
-| 0-0   |  13.50 |    7.4% |
-| 3-1   |  16.50 |    6.1% |
-| 0-1   |  22.00 |    4.5% |
-| 2-2   |  32.00 |    3.1% |
-| 1-2   |  34.00 |    2.9% |
-| 3-2   |  50.00 |    2.0% |
-| 0-2   |  75.00 |    1.3% |
-| 2-3   | 160.00 |    0.6% |
-| 1-3   | 170.00 |    0.6% |
-| 3-3   | 190.00 |    0.5% |
-| 0-3   | 290.00 |    0.3% |
+_No Betfair odds captured._
 
 ## topcorner crowd — 84 predictions
 
@@ -82,4 +55,4 @@ Most-likely first. ✅ marks the score that occurred.
 - **Outcome correctly predicted by:** 77 / 84 (92%)
 - **Crowd modal score:** 2-0 — ❌ wrong
 - **Crowd modal outcome:** HOME — ✅ right
-- **Market favourite:** HOME — ✅ correct
+- **Market favourite:** — (no odds captured)

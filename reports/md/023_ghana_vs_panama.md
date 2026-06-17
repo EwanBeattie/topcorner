@@ -4,7 +4,7 @@
 - **Competition:** World Cup 2026 — Group Stage
 - **Kickoff:** Thu 18 Jun 2026, 00:00 BST (23:00 UTC)
 - **Status:** ⚪ UPCOMING
-- **Last updated:** Wed 17 Jun 2026, 18:21 BST
+- **Last updated:** Wed 17 Jun 2026, 18:32 BST
 
 ## Weather at kickoff
 
@@ -24,7 +24,7 @@ _Not yet played._
 | ------- | ---: | ------: |
 | Ghana   | 2.44 |   41.0% |
 | Draw    | 3.30 |   30.3% |
-| Panama  | 3.40 |   29.4% |
+| Panama  | 3.45 |   29.0% |
 
 ## Betfair Exchange — Correct Score (decimal)
 

@@ -4,7 +4,7 @@
 - **Competition:** World Cup 2026 — Group Stage
 - **Kickoff:** Thu 18 Jun 2026, 17:00 BST (16:00 UTC)
 - **Status:** ⚪ UPCOMING
-- **Last updated:** Wed 17 Jun 2026, 18:21 BST
+- **Last updated:** Wed 17 Jun 2026, 18:32 BST
 
 ## Weather at kickoff
 
@@ -49,7 +49,7 @@ Most-likely first.
 | 0-3   | 120.00 |    0.8% |
 | 3-3   | 120.00 |    0.8% |
 
-## topcorner crowd — 71 predictions
+## topcorner crowd — 72 predictions
 
 - **Outcome split:** Czechia 54% · Draw 35% · South Africa 11%
 - **Most predicted score:** 1-1 (25%)
@@ -57,7 +57,7 @@ Most-likely first.
 | Score | Guesses | Share |       |
 | ----- | ------: | ----: | ----- |
 | 1-1   |      18 |   25% | █████ |
-| 2-1   |      12 |   17% | ███   |
+| 2-1   |      13 |   18% | ████  |
 | 2-0   |      11 |   15% | ███   |
 | 1-0   |       8 |   11% | ██    |
 | 0-2   |       5 |    7% | █     |
