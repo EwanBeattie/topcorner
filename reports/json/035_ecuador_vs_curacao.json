@@ -7,17 +7,17 @@
   "kickoff_utc": "2026-06-21T00:00:00Z",
   "status": "upcoming",
   "frozen": false,
-  "last_updated_utc": "2026-06-17T17:32:33Z",
+  "last_updated_utc": "2026-06-19T09:16:49Z",
   "weather": {
     "local_time": "2026-06-20T19:00",
-    "temp_c": 25.1,
-    "feels_c": 27.7,
-    "humidity_pct": 81,
-    "cloud_pct": 100,
-    "precip_prob_pct": 23,
-    "weather_code": 3,
-    "emoji": "☁️",
-    "summary": "Overcast",
+    "temp_c": 26.8,
+    "feels_c": 28.4,
+    "humidity_pct": 62,
+    "cloud_pct": 19,
+    "precip_prob_pct": 19,
+    "weather_code": 0,
+    "emoji": "☀️",
+    "summary": "Clear",
     "source": "forecast",
     "venue": "Arrowhead Stadium, Kansas City, USA",
     "city": "kansas_city"
@@ -29,53 +29,45 @@
   },
   "betfair": {
     "match_odds": {
-      "home": 1.13,
-      "draw": 12.0,
+      "home": 1.14,
+      "draw": 10.5,
       "away": 27.0
     },
     "correct_score": [
+      {
+        "score": "2-0",
+        "odds": 6.2
+      },
       {
         "score": "3-0",
         "odds": 6.2
       },
       {
-        "score": "2-0",
-        "odds": 6.4
-      },
-      {
         "score": "1-0",
-        "odds": 9.2
+        "odds": 9.0
       },
       {
         "score": "2-1",
-        "odds": 16.0
-      },
-      {
-        "score": "3-1",
         "odds": 16.5
       },
       {
+        "score": "3-1",
+        "odds": 17.0
+      },
+      {
         "score": "1-1",
-        "odds": 26.0
+        "odds": 25.0
       },
       {
         "score": "0-0",
-        "odds": 30.0
-      },
-      {
-        "score": "3-2",
-        "odds": 36.0
-      },
-      {
-        "score": "1-2",
-        "odds": 48.0
-      },
-      {
-        "score": "2-2",
-        "odds": 50.0
+        "odds": 28.0
       },
       {
         "score": "0-1",
+        "odds": 46.0
+      },
+      {
+        "score": "0-2",
         "odds": 55.0
       },
       {
@@ -83,12 +75,20 @@
         "odds": 55.0
       },
       {
-        "score": "0-2",
-        "odds": 60.0
+        "score": "2-2",
+        "odds": 75.0
+      },
+      {
+        "score": "3-2",
+        "odds": 75.0
+      },
+      {
+        "score": "1-2",
+        "odds": 80.0
       },
       {
         "score": "3-3",
-        "odds": 95.0
+        "odds": 120.0
       },
       {
         "score": "2-3",
@@ -101,24 +101,28 @@
     ]
   },
   "crowd": {
-    "n": 56,
+    "n": 67,
     "outcome": {
-      "HOME": 38,
-      "DRAW": 9,
-      "AWAY": 9
+      "HOME": 47,
+      "DRAW": 10,
+      "AWAY": 10
     },
     "scores": [
       {
         "score": "2-0",
-        "count": 14
+        "count": 16
+      },
+      {
+        "score": "3-0",
+        "count": 12
       },
       {
         "score": "2-1",
         "count": 7
       },
       {
-        "score": "3-0",
-        "count": 6
+        "score": "1-1",
+        "count": 5
       },
       {
         "score": "1-0",
@@ -129,7 +133,7 @@
         "count": 4
       },
       {
-        "score": "1-1",
+        "score": "3-1",
         "count": 4
       },
       {
@@ -141,8 +145,8 @@
         "count": 3
       },
       {
-        "score": "3-1",
-        "count": 3
+        "score": "0-2",
+        "count": 2
       },
       {
         "score": "2-2",
@@ -157,15 +161,11 @@
         "count": 1
       },
       {
-        "score": "4-0",
-        "count": 1
-      },
-      {
         "score": "2-3",
         "count": 1
       },
       {
-        "score": "0-2",
+        "score": "4-0",
         "count": 1
       },
       {

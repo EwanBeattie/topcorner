@@ -2,21 +2,22 @@
 
 - **Game #:** 22
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Wed 17 Jun 2026, 21:00 BST (20:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Wed 17 Jun 2026, 18:32 BST
+- **Kickoff:** Wed 17 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Fri 19 Jun 2026, 10:16 BST
 
 ## Weather at kickoff
 
 - **Venue:** AT&T Stadium, Dallas, USA
-- **Conditions:** ☀️ Clear — 33 °C (feels 36 °C)
-- **Humidity:** 56%  ·  **Cloud cover:** 4%
+- **Conditions:** ☀️ Clear — 24 °C (feels 28 °C)
+- **Humidity:** 88%  ·  **Cloud cover:** 2%
 - **Rain:** 0% chance
-- _Forecast for Wed 17 Jun, 15:00 local time_
+- _Observed at Wed 17 Jun, 06:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 4 – 2
+- **Outcome:** England (HOME)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -28,7 +29,7 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
@@ -49,32 +50,32 @@ Most-likely first.
 | 3-3   | 110.00 |    0.9% |
 | 0-3   | 140.00 |    0.7% |
 
-## topcorner crowd — 83 predictions
+## topcorner crowd — 85 predictions
 
-- **Outcome split:** England 69% · Draw 22% · Croatia 10%
-- **Most predicted score:** 2-1 (33%)
+- **Outcome split:** England 72% · Draw 20% · Croatia 8%
+- **Most predicted score:** 2-1 (34%)
 
 | Score | Guesses | Share |         |
 | ----- | ------: | ----: | ------- |
-| 2-1   |      27 |   33% | ███████ |
-| 1-1   |      12 |   14% | ███     |
+| 2-1   |      29 |   34% | ███████ |
+| 2-0   |      12 |   14% | ███     |
 | 1-0   |      12 |   14% | ███     |
-| 2-0   |      11 |   13% | ███     |
+| 1-1   |      11 |   13% | ███     |
+| 3-1   |       5 |    6% | █       |
 | 2-2   |       5 |    6% | █       |
 | 1-2   |       3 |    4% | █       |
-| 3-1   |       3 |    4% | █       |
-| 1-3   |       2 |    2% |         |
 | 3-2   |       2 |    2% |         |
 | 0-3   |       2 |    2% |         |
-| 3-0   |       1 |    1% |         |
 | 0-0   |       1 |    1% |         |
+| 1-3   |       1 |    1% |         |
 | 0-1   |       1 |    1% |         |
 | 4-3   |       1 |    1% |         |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 2-1
-- Crowd modal outcome: HOME
-- Market favourite: HOME
+- **Actual score:** 4-2 (HOME)
+- **Exact score correctly predicted by:** 0 / 85 (0%)
+- **Outcome correctly predicted by:** 61 / 85 (72%)
+- **Crowd modal score:** 2-1 — ❌ wrong
+- **Crowd modal outcome:** HOME — ✅ right
+- **Market favourite:** HOME — ✅ correct

@@ -2,21 +2,22 @@
 
 - **Game #:** 23
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Thu 18 Jun 2026, 00:00 BST (23:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Wed 17 Jun 2026, 18:32 BST
+- **Kickoff:** Thu 18 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Fri 19 Jun 2026, 10:16 BST
 
 ## Weather at kickoff
 
 - **Venue:** BMO Field, Toronto, Canada
-- **Conditions:** ☁️ Overcast — 17 °C (feels 16 °C)
-- **Humidity:** 70%  ·  **Cloud cover:** 100%
-- **Rain:** 3% chance
-- _Forecast for Wed 17 Jun, 19:00 local time_
+- **Conditions:** ☁️ Overcast — 14 °C (feels 13 °C)
+- **Humidity:** 99%  ·  **Cloud cover:** 100%
+- **Rain:** 58% chance
+- _Observed at Thu 18 Jun, 07:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 1 – 0
+- **Outcome:** Ghana (HOME)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -28,12 +29,12 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
 | 1-1   |   7.00 |   14.3% |
-| 1-0   |   8.00 |   12.5% |
+| 1-0 ✅ |   8.00 |   12.5% |
 | 0-0   |   9.60 |   10.4% |
 | 0-1   |   9.80 |   10.2% |
 | 2-1   |  11.50 |    8.7% |
@@ -49,32 +50,33 @@ Most-likely first.
 | 2-3   |  65.00 |    1.5% |
 | 3-3   | 130.00 |    0.8% |
 
-## topcorner crowd — 80 predictions
+## topcorner crowd — 83 predictions
 
-- **Outcome split:** Ghana 59% · Draw 30% · Panama 11%
+- **Outcome split:** Ghana 60% · Draw 28% · Panama 12%
 - **Most predicted score:** 2-1 (20%)
 
 | Score | Guesses | Share |      |
 | ----- | ------: | ----: | ---- |
-| 2-1   |      16 |   20% | ████ |
-| 1-1   |      16 |   20% | ████ |
-| 2-0   |      12 |   15% | ███  |
-| 1-0   |      11 |   14% | ███  |
-| 1-2   |       5 |    6% | █    |
+| 2-1   |      17 |   20% | ████ |
+| 1-1   |      15 |   18% | ████ |
+| 2-0   |      13 |   16% | ███  |
+| 1-0 ✅ |      11 |   13% | ███  |
+| 1-2   |       7 |    8% | ██   |
 | 0-0   |       4 |    5% | █    |
 | 2-2   |       4 |    5% | █    |
 | 3-0   |       3 |    4% | █    |
-| 0-1   |       2 |    2% |      |
-| 3-1   |       2 |    2% |      |
+| 3-1   |       3 |    4% | █    |
 | 0-2   |       2 |    2% |      |
+| 1-3   |       1 |    1% |      |
 | 4-0   |       1 |    1% |      |
 | 4-3   |       1 |    1% |      |
 | 4-1   |       1 |    1% |      |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 2-1
-- Crowd modal outcome: HOME
-- Market favourite: HOME
+- **Actual score:** 1-0 (HOME)
+- **Exact score correctly predicted by:** 11 / 83 (13%)
+- **Outcome correctly predicted by:** 50 / 83 (60%)
+- **Crowd modal score:** 2-1 — ❌ wrong
+- **Crowd modal outcome:** HOME — ✅ right
+- **Market favourite:** HOME — ✅ correct

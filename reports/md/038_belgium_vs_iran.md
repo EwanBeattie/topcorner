@@ -4,13 +4,13 @@
 - **Competition:** World Cup 2026 — Group Stage
 - **Kickoff:** Sun 21 Jun 2026, 20:00 BST (19:00 UTC)
 - **Status:** ⚪ UPCOMING
-- **Last updated:** Wed 17 Jun 2026, 18:32 BST
+- **Last updated:** Fri 19 Jun 2026, 10:16 BST
 
 ## Weather at kickoff
 
 - **Venue:** SoFi Stadium, Los Angeles, USA
-- **Conditions:** ☀️ Clear — 21 °C (feels 21 °C)
-- **Humidity:** 59%  ·  **Cloud cover:** 0%
+- **Conditions:** ☀️ Clear — 20 °C (feels 21 °C)
+- **Humidity:** 60%  ·  **Cloud cover:** 5%
 - **Rain:** 0% chance
 - _Forecast for Sun 21 Jun, 12:00 local time_
 
@@ -22,9 +22,9 @@ _Not yet played._
 
 | Outcome | Odds | Implied |
 | ------- | ---: | ------: |
-| Belgium | 1.46 |   68.5% |
+| Belgium | 1.48 |   67.6% |
 | Draw    | 4.80 |   20.8% |
-| Iran    | 8.60 |   11.6% |
+| Iran    | 8.40 |   11.9% |
 
 ## Betfair Exchange — Correct Score (decimal)
 
@@ -32,51 +32,51 @@ Most-likely first.
 
 | Score |  Odds | Implied |
 | ----- | ----: | ------: |
-| 1-0   |  6.80 |   14.7% |
-| 2-0   |  7.40 |   13.5% |
+| 1-0   |  7.40 |   13.5% |
+| 2-0   |  7.80 |   12.8% |
 | 2-1   |  9.20 |   10.9% |
 | 1-1   | 10.00 |   10.0% |
 | 3-0   | 11.00 |    9.1% |
-| 0-0   | 14.50 |    6.9% |
-| 3-1   | 15.00 |    6.7% |
-| 0-3   | 16.50 |    6.1% |
-| 1-3   | 16.50 |    6.1% |
-| 3-3   | 16.50 |    6.1% |
+| 0-3   | 13.00 |    7.7% |
+| 3-1   | 14.50 |    6.9% |
+| 0-0   | 16.00 |    6.2% |
 | 0-1   | 22.00 |    4.5% |
-| 2-2   | 25.00 |    4.0% |
-| 1-2   | 29.00 |    3.4% |
-| 0-2   | 34.00 |    2.9% |
-| 3-2   | 36.00 |    2.8% |
-| 2-3   | 42.00 |    2.4% |
+| 2-2   | 23.00 |    4.3% |
+| 1-2   | 26.00 |    3.8% |
+| 3-2   | 34.00 |    2.9% |
+| 1-3   | 42.00 |    2.4% |
+| 2-3   | 44.00 |    2.3% |
+| 0-2   | 50.00 |    2.0% |
+| 3-3   | 70.00 |    1.4% |
 
-## topcorner crowd — 54 predictions
+## topcorner crowd — 65 predictions
 
-- **Outcome split:** Belgium 59% · Draw 17% · Iran 24%
-- **Most predicted score:** 1-2 (15%)
+- **Outcome split:** Belgium 65% · Draw 15% · Iran 20%
+- **Most predicted score:** 2-0 (17%)
 
 | Score | Guesses | Share |     |
 | ----- | ------: | ----: | --- |
-| 1-2   |       8 |   15% | ███ |
-| 2-0   |       8 |   15% | ███ |
-| 1-0   |       7 |   13% | ███ |
-| 2-1   |       6 |   11% | ██  |
-| 1-1   |       4 |    7% | █   |
-| 0-0   |       4 |    7% | █   |
-| 0-1   |       3 |    6% | █   |
-| 5-0   |       2 |    4% | █   |
-| 3-2   |       2 |    4% | █   |
-| 3-1   |       2 |    4% | █   |
-| 3-0   |       2 |    4% | █   |
-| 4-1   |       2 |    4% | █   |
+| 2-0   |      11 |   17% | ███ |
+| 2-1   |       8 |   12% | ██  |
+| 1-2   |       8 |   12% | ██  |
+| 1-0   |       7 |   11% | ██  |
+| 1-1   |       5 |    8% | ██  |
+| 3-1   |       5 |    8% | ██  |
+| 0-0   |       4 |    6% | █   |
+| 3-0   |       4 |    6% | █   |
+| 0-1   |       3 |    5% | █   |
+| 5-0   |       2 |    3% | █   |
+| 3-2   |       2 |    3% | █   |
+| 4-0   |       2 |    3% | █   |
 | 2-2   |       1 |    2% |     |
-| 4-0   |       1 |    2% |     |
 | 1-3   |       1 |    2% |     |
 | 0-3   |       1 |    2% |     |
+| 4-1   |       1 |    2% |     |
 
 ## Analysis
 
 _Filled once the game has been played._
 
-- Crowd modal score: 1-2
+- Crowd modal score: 2-0
 - Crowd modal outcome: HOME
 - Market favourite: HOME

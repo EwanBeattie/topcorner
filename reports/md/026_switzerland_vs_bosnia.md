@@ -1,34 +1,35 @@
-# Switzerland vs Bosnia
+# Switzerland vs Bosnia & Herzegovina
 
 - **Game #:** 26
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Thu 18 Jun 2026, 20:00 BST (19:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Wed 17 Jun 2026, 18:32 BST
+- **Kickoff:** Thu 18 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Fri 19 Jun 2026, 10:16 BST
 
 ## Weather at kickoff
 
 - **Venue:** SoFi Stadium, Los Angeles, USA
-- **Conditions:** ☁️ Overcast — 19 °C (feels 20 °C)
-- **Humidity:** 81%  ·  **Cloud cover:** 100%
+- **Conditions:** ☁️ Overcast — 17 °C (feels 18 °C)
+- **Humidity:** 80%  ·  **Cloud cover:** 100%
 - **Rain:** 0% chance
-- _Forecast for Thu 18 Jun, 12:00 local time_
+- _Observed at Thu 18 Jun, 04:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 4 – 1
+- **Outcome:** Switzerland (HOME)
 
 ## Betfair Exchange — Match Odds (decimal)
 
-| Outcome     | Odds | Implied |
-| ----------- | ---: | ------: |
-| Switzerland | 1.59 |   62.9% |
-| Draw        | 4.40 |   22.7% |
-| Bosnia      | 6.80 |   14.7% |
+| Outcome              | Odds | Implied |
+| -------------------- | ---: | ------: |
+| Switzerland          | 1.59 |   62.9% |
+| Draw                 | 4.40 |   22.7% |
+| Bosnia & Herzegovina | 6.80 |   14.7% |
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
@@ -49,32 +50,31 @@ Most-likely first.
 | 3-3   | 140.00 |    0.7% |
 | 0-3   | 180.00 |    0.6% |
 
-## topcorner crowd — 71 predictions
+## topcorner crowd — 85 predictions
 
-- **Outcome split:** Switzerland 51% · Draw 35% · Bosnia 14%
-- **Most predicted score:** 1-1 (20%)
+- **Outcome split:** Switzerland 59% · Draw 33% · Bosnia & Herzegovina 8%
+- **Most predicted score:** 2-1 (24%)
 
-| Score | Guesses | Share |      |
-| ----- | ------: | ----: | ---- |
-| 1-1   |      14 |   20% | ████ |
-| 2-1   |      13 |   18% | ████ |
-| 1-0   |      10 |   14% | ███  |
-| 3-1   |       7 |   10% | ██   |
-| 0-0   |       6 |    8% | ██   |
-| 2-0   |       5 |    7% | █    |
-| 2-2   |       5 |    7% | █    |
-| 1-2   |       4 |    6% | █    |
-| 0-1   |       2 |    3% | █    |
-| 2-3   |       1 |    1% |      |
-| 4-0   |       1 |    1% |      |
-| 1-4   |       1 |    1% |      |
-| 2-5   |       1 |    1% |      |
-| 1-3   |       1 |    1% |      |
+| Score | Guesses | Share |       |
+| ----- | ------: | ----: | ----- |
+| 2-1   |      20 |   24% | █████ |
+| 1-1   |      18 |   21% | ████  |
+| 1-0   |      15 |   18% | ████  |
+| 2-0   |       8 |    9% | ██    |
+| 3-1   |       7 |    8% | ██    |
+| 0-0   |       5 |    6% | █     |
+| 2-2   |       5 |    6% | █     |
+| 1-2   |       3 |    4% | █     |
+| 0-1   |       1 |    1% |       |
+| 2-3   |       1 |    1% |       |
+| 1-3   |       1 |    1% |       |
+| 2-5   |       1 |    1% |       |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 1-1
-- Crowd modal outcome: HOME
-- Market favourite: HOME
+- **Actual score:** 4-1 (HOME)
+- **Exact score correctly predicted by:** 0 / 85 (0%)
+- **Outcome correctly predicted by:** 50 / 85 (59%)
+- **Crowd modal score:** 2-1 — ❌ wrong
+- **Crowd modal outcome:** HOME — ✅ right
+- **Market favourite:** HOME — ✅ correct

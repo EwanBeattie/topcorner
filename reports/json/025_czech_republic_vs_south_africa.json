@@ -1,31 +1,31 @@
 {
   "number": 25,
-  "match": "Czechia vs South Africa",
-  "home": "Czechia",
+  "match": "Czech Republic vs South Africa",
+  "home": "Czech Republic",
   "away": "South Africa",
   "competition": "World Cup 2026",
-  "kickoff_utc": "2026-06-18T16:00:00Z",
-  "status": "upcoming",
-  "frozen": false,
-  "last_updated_utc": "2026-06-17T17:32:32Z",
+  "kickoff_utc": "2026-06-18T11:00:00Z",
+  "status": "played",
+  "frozen": true,
+  "last_updated_utc": "2026-06-19T09:16:48Z",
   "weather": {
-    "local_time": "2026-06-18T12:00",
-    "temp_c": 26.1,
-    "feels_c": 29.6,
-    "humidity_pct": 83,
+    "local_time": "2026-06-18T07:00",
+    "temp_c": 24.1,
+    "feels_c": 27.9,
+    "humidity_pct": 91,
     "cloud_pct": 100,
-    "precip_prob_pct": 28,
-    "weather_code": 95,
-    "emoji": "⛈️",
-    "summary": "Thunderstorm",
-    "source": "forecast",
+    "precip_prob_pct": 2,
+    "weather_code": 3,
+    "emoji": "☁️",
+    "summary": "Overcast",
+    "source": "observed",
     "venue": "Mercedes-Benz Stadium, Atlanta, USA",
     "city": "atlanta"
   },
   "result": {
-    "home_goals": null,
-    "away_goals": null,
-    "outcome": null
+    "home_goals": 1,
+    "away_goals": 1,
+    "outcome": "DRAW"
   },
   "betfair": {
     "match_odds": {
@@ -101,44 +101,36 @@
     ]
   },
   "crowd": {
-    "n": 72,
+    "n": 83,
     "outcome": {
-      "HOME": 39,
-      "DRAW": 25,
-      "AWAY": 8
+      "HOME": 57,
+      "DRAW": 23,
+      "AWAY": 3
     },
     "scores": [
+      {
+        "score": "2-0",
+        "count": 19
+      },
       {
         "score": "1-1",
         "count": 18
       },
       {
         "score": "2-1",
-        "count": 13
-      },
-      {
-        "score": "2-0",
-        "count": 11
+        "count": 16
       },
       {
         "score": "1-0",
-        "count": 8
+        "count": 12
       },
       {
-        "score": "0-2",
+        "score": "3-1",
         "count": 5
       },
       {
         "score": "0-0",
         "count": 4
-      },
-      {
-        "score": "3-1",
-        "count": 2
-      },
-      {
-        "score": "2-2",
-        "count": 2
       },
       {
         "score": "3-0",
@@ -149,19 +141,15 @@
         "count": 2
       },
       {
-        "score": "3-3",
-        "count": 1
+        "score": "0-2",
+        "count": 2
       },
       {
-        "score": "1-4",
+        "score": "2-2",
         "count": 1
       },
       {
         "score": "3-4",
-        "count": 1
-      },
-      {
-        "score": "2-3",
         "count": 1
       },
       {
@@ -172,12 +160,15 @@
     "others_count": 0
   },
   "analysis": {
-    "crowd_modal_score": "1-1",
+    "crowd_modal_score": "2-0",
     "crowd_modal_outcome": "HOME",
     "market_favourite_outcome": "HOME",
-    "exact_correct": null,
-    "exact_correct_pct": null,
-    "outcome_correct": null,
-    "outcome_correct_pct": null
+    "exact_correct": 18,
+    "exact_correct_pct": 0.217,
+    "outcome_correct": 23,
+    "outcome_correct_pct": 0.277,
+    "crowd_modal_score_correct": false,
+    "crowd_modal_outcome_correct": false,
+    "market_favourite_correct": false
   }
 }

@@ -1,39 +1,40 @@
-# Czechia vs South Africa
+# Czech Republic vs South Africa
 
 - **Game #:** 25
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Thu 18 Jun 2026, 17:00 BST (16:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Wed 17 Jun 2026, 18:32 BST
+- **Kickoff:** Thu 18 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Fri 19 Jun 2026, 10:16 BST
 
 ## Weather at kickoff
 
 - **Venue:** Mercedes-Benz Stadium, Atlanta, USA
-- **Conditions:** ⛈️ Thunderstorm — 26 °C (feels 30 °C)
-- **Humidity:** 83%  ·  **Cloud cover:** 100%
-- **Rain:** 28% chance
-- _Forecast for Thu 18 Jun, 12:00 local time_
+- **Conditions:** ☁️ Overcast — 24 °C (feels 28 °C)
+- **Humidity:** 91%  ·  **Cloud cover:** 100%
+- **Rain:** 2% chance
+- _Observed at Thu 18 Jun, 07:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 1 – 1
+- **Outcome:** Draw (DRAW)
 
 ## Betfair Exchange — Match Odds (decimal)
 
-| Outcome      | Odds | Implied |
-| ------------ | ---: | ------: |
-| Czechia      | 1.81 |   55.2% |
-| Draw         | 3.90 |   25.6% |
-| South Africa | 5.00 |   20.0% |
+| Outcome        | Odds | Implied |
+| -------------- | ---: | ------: |
+| Czech Republic | 1.81 |   55.2% |
+| Draw           | 3.90 |   25.6% |
+| South Africa   | 5.00 |   20.0% |
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
 | 1-0   |   7.20 |   13.9% |
-| 1-1   |   8.00 |   12.5% |
+| 1-1 ✅ |   8.00 |   12.5% |
 | 2-0   |   9.40 |   10.6% |
 | 2-1   |   9.60 |   10.4% |
 | 0-0   |  12.00 |    8.3% |
@@ -49,33 +50,31 @@ Most-likely first.
 | 0-3   | 120.00 |    0.8% |
 | 3-3   | 120.00 |    0.8% |
 
-## topcorner crowd — 72 predictions
+## topcorner crowd — 83 predictions
 
-- **Outcome split:** Czechia 54% · Draw 35% · South Africa 11%
-- **Most predicted score:** 1-1 (25%)
+- **Outcome split:** Czech Republic 69% · Draw 28% · South Africa 4%
+- **Most predicted score:** 2-0 (23%)
 
 | Score | Guesses | Share |       |
 | ----- | ------: | ----: | ----- |
-| 1-1   |      18 |   25% | █████ |
-| 2-1   |      13 |   18% | ████  |
-| 2-0   |      11 |   15% | ███   |
-| 1-0   |       8 |   11% | ██    |
-| 0-2   |       5 |    7% | █     |
-| 0-0   |       4 |    6% | █     |
-| 3-1   |       2 |    3% | █     |
-| 2-2   |       2 |    3% | █     |
-| 3-0   |       2 |    3% | █     |
-| 3-2   |       2 |    3% | █     |
-| 3-3   |       1 |    1% |       |
-| 1-4   |       1 |    1% |       |
+| 2-0   |      19 |   23% | █████ |
+| 1-1 ✅ |      18 |   22% | ████  |
+| 2-1   |      16 |   19% | ████  |
+| 1-0   |      12 |   14% | ███   |
+| 3-1   |       5 |    6% | █     |
+| 0-0   |       4 |    5% | █     |
+| 3-0   |       2 |    2% |       |
+| 3-2   |       2 |    2% |       |
+| 0-2   |       2 |    2% |       |
+| 2-2   |       1 |    1% |       |
 | 3-4   |       1 |    1% |       |
-| 2-3   |       1 |    1% |       |
 | 4-3   |       1 |    1% |       |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 1-1
-- Crowd modal outcome: HOME
-- Market favourite: HOME
+- **Actual score:** 1-1 (DRAW)
+- **Exact score correctly predicted by:** 18 / 83 (22%)
+- **Outcome correctly predicted by:** 23 / 83 (28%)
+- **Crowd modal score:** 2-0 — ❌ wrong
+- **Crowd modal outcome:** HOME — ❌ wrong
+- **Market favourite:** HOME — ❌ wrong

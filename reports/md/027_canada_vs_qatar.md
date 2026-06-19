@@ -2,21 +2,22 @@
 
 - **Game #:** 27
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Thu 18 Jun 2026, 23:00 BST (22:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Wed 17 Jun 2026, 18:32 BST
+- **Kickoff:** Thu 18 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Fri 19 Jun 2026, 10:16 BST
 
 ## Weather at kickoff
 
 - **Venue:** BC Place, Vancouver, Canada
-- **Conditions:** ☀️ Clear — 22 °C (feels 21 °C)
-- **Humidity:** 55%  ·  **Cloud cover:** 0%
+- **Conditions:** ☀️ Clear — 12 °C (feels 12 °C)
+- **Humidity:** 87%  ·  **Cloud cover:** 4%
 - **Rain:** 0% chance
-- _Forecast for Thu 18 Jun, 15:00 local time_
+- _Observed at Thu 18 Jun, 04:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 6 – 0
+- **Outcome:** Canada (HOME)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -28,7 +29,7 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
@@ -49,34 +50,33 @@ Most-likely first.
 | 3-3   | 170.00 |    0.6% |
 | 1-3   | 180.00 |    0.6% |
 
-## topcorner crowd — 71 predictions
+## topcorner crowd — 85 predictions
 
-- **Outcome split:** Canada 59% · Draw 27% · Qatar 14%
-- **Most predicted score:** 1-0 (18%)
+- **Outcome split:** Canada 64% · Draw 31% · Qatar 6%
+- **Most predicted score:** 2-1 (29%)
 
-| Score | Guesses | Share |      |
-| ----- | ------: | ----: | ---- |
-| 1-0   |      13 |   18% | ████ |
-| 2-1   |      13 |   18% | ████ |
-| 1-1   |      11 |   15% | ███  |
-| 2-0   |      11 |   15% | ███  |
-| 2-2   |       4 |    6% | █    |
-| 0-0   |       3 |    4% | █    |
-| 1-2   |       2 |    3% | █    |
-| 3-1   |       2 |    3% | █    |
-| 1-3   |       2 |    3% | █    |
-| 2-3   |       2 |    3% | █    |
-| 2-4   |       2 |    3% | █    |
-| 0-1   |       2 |    3% | █    |
-| 3-3   |       1 |    1% |      |
-| 3-2   |       1 |    1% |      |
-| 4-0   |       1 |    1% |      |
-| 4-3   |       1 |    1% |      |
+| Score | Guesses | Share |        |
+| ----- | ------: | ----: | ------ |
+| 2-1   |      25 |   29% | ██████ |
+| 1-1   |      18 |   21% | ████   |
+| 2-0   |      15 |   18% | ████   |
+| 1-0   |       9 |   11% | ██     |
+| 2-2   |       5 |    6% | █      |
+| 3-1   |       3 |    4% | █      |
+| 0-0   |       3 |    4% | █      |
+| 3-0   |       1 |    1% |        |
+| 3-2   |       1 |    1% |        |
+| 1-3   |       1 |    1% |        |
+| 2-4   |       1 |    1% |        |
+| 1-2   |       1 |    1% |        |
+| 0-1   |       1 |    1% |        |
+| 2-3   |       1 |    1% |        |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 1-0
-- Crowd modal outcome: HOME
-- Market favourite: HOME
+- **Actual score:** 6-0 (HOME)
+- **Exact score correctly predicted by:** 0 / 85 (0%)
+- **Outcome correctly predicted by:** 54 / 85 (64%)
+- **Crowd modal score:** 2-1 — ❌ wrong
+- **Crowd modal outcome:** HOME — ✅ right
+- **Market favourite:** HOME — ✅ correct

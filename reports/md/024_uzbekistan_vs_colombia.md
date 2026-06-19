@@ -2,21 +2,22 @@
 
 - **Game #:** 24
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Thu 18 Jun 2026, 03:00 BST (02:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Wed 17 Jun 2026, 18:32 BST
+- **Kickoff:** Thu 18 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Fri 19 Jun 2026, 10:16 BST
 
 ## Weather at kickoff
 
 - **Venue:** Estadio Azteca, Mexico City, Mexico
-- **Conditions:** 🌦️ Drizzle — 17 °C (feels 18 °C)
-- **Humidity:** 85%  ·  **Cloud cover:** 64%
-- **Rain:** 73% chance
-- _Forecast for Wed 17 Jun, 20:00 local time_
+- **Conditions:** ⛅ Partly cloudy — 12 °C (feels 12 °C)
+- **Humidity:** 87%  ·  **Cloud cover:** 75%
+- **Rain:** 0% chance
+- _Observed at Thu 18 Jun, 05:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 1 – 3
+- **Outcome:** Colombia (AWAY)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -28,7 +29,7 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
@@ -38,7 +39,7 @@ Most-likely first.
 | 1-2   |  10.00 |   10.0% |
 | 1-1   |  10.50 |    9.5% |
 | 0-0   |  14.50 |    6.9% |
-| 1-3   |  15.50 |    6.5% |
+| 1-3 ✅ |  15.50 |    6.5% |
 | 1-0   |  26.00 |    3.8% |
 | 2-2   |  32.00 |    3.1% |
 | 2-1   |  38.00 |    2.6% |
@@ -49,32 +50,32 @@ Most-likely first.
 | 3-1   | 180.00 |    0.6% |
 | 3-3   | 180.00 |    0.6% |
 
-## topcorner crowd — 78 predictions
+## topcorner crowd — 82 predictions
 
-- **Outcome split:** Uzbekistan 13% · Draw 14% · Colombia 73%
+- **Outcome split:** Uzbekistan 11% · Draw 11% · Colombia 78%
 - **Most predicted score:** 0-2 (32%)
 
 | Score | Guesses | Share |        |
 | ----- | ------: | ----: | ------ |
-| 0-2   |      25 |   32% | ██████ |
-| 1-2   |      12 |   15% | ███    |
-| 0-1   |      10 |   13% | ███    |
-| 1-1   |       7 |    9% | ██     |
+| 0-2   |      26 |   32% | ██████ |
+| 1-2   |      15 |   18% | ████   |
+| 0-1   |      12 |   15% | ███    |
+| 1-1   |       6 |    7% | █      |
 | 2-1   |       5 |    6% | █      |
-| 1-3   |       5 |    6% | █      |
-| 0-0   |       4 |    5% | █      |
-| 0-3   |       2 |    3% | █      |
-| 0-4   |       2 |    3% | █      |
-| 2-0   |       2 |    3% | █      |
+| 1-3 ✅ |       4 |    5% | █      |
+| 0-4   |       3 |    4% | █      |
+| 0-3   |       3 |    4% | █      |
+| 0-0   |       3 |    4% | █      |
+| 2-0   |       2 |    2% |        |
 | 1-0   |       1 |    1% |        |
-| 4-0   |       1 |    1% |        |
 | 3-1   |       1 |    1% |        |
 | 1-4   |       1 |    1% |        |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 0-2
-- Crowd modal outcome: AWAY
-- Market favourite: AWAY
+- **Actual score:** 1-3 (AWAY)
+- **Exact score correctly predicted by:** 4 / 82 (5%)
+- **Outcome correctly predicted by:** 64 / 82 (78%)
+- **Crowd modal score:** 0-2 — ❌ wrong
+- **Crowd modal outcome:** AWAY — ✅ right
+- **Market favourite:** AWAY — ✅ correct

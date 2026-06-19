@@ -7,17 +7,17 @@
   "kickoff_utc": "2026-06-22T17:00:00Z",
   "status": "upcoming",
   "frozen": false,
-  "last_updated_utc": "2026-06-17T17:32:33Z",
+  "last_updated_utc": "2026-06-19T09:16:49Z",
   "weather": {
     "local_time": "2026-06-22T12:00",
-    "temp_c": 31.4,
-    "feels_c": 35.0,
-    "humidity_pct": 55,
-    "cloud_pct": 14,
-    "precip_prob_pct": 6,
-    "weather_code": 0,
-    "emoji": "☀️",
-    "summary": "Clear",
+    "temp_c": 32.9,
+    "feels_c": 35.8,
+    "humidity_pct": 50,
+    "cloud_pct": 29,
+    "precip_prob_pct": 3,
+    "weather_code": 1,
+    "emoji": "🌤️",
+    "summary": "Mainly clear",
     "source": "forecast",
     "venue": "AT&T Stadium, Dallas, USA",
     "city": "dallas"
@@ -30,8 +30,8 @@
   "betfair": {
     "match_odds": {
       "home": 1.63,
-      "draw": 4.1,
-      "away": 6.6
+      "draw": 4.2,
+      "away": 6.4
     },
     "correct_score": [
       {
@@ -44,7 +44,7 @@
       },
       {
         "score": "2-0",
-        "odds": 8.6
+        "odds": 8.4
       },
       {
         "score": "2-1",
@@ -56,7 +56,7 @@
       },
       {
         "score": "0-0",
-        "odds": 13.5
+        "odds": 13.0
       },
       {
         "score": "3-1",
@@ -64,7 +64,7 @@
       },
       {
         "score": "0-1",
-        "odds": 17.5
+        "odds": 17.0
       },
       {
         "score": "2-2",
@@ -75,61 +75,61 @@
         "odds": 22.0
       },
       {
+        "score": "0-2",
+        "odds": 27.0
+      },
+      {
         "score": "3-2",
-        "odds": 36.0
+        "odds": 30.0
+      },
+      {
+        "score": "2-3",
+        "odds": 38.0
       },
       {
         "score": "1-3",
-        "odds": 42.0
-      },
-      {
-        "score": "0-2",
         "odds": 46.0
-      },
-      {
-        "score": "3-3",
-        "odds": 48.0
       },
       {
         "score": "0-3",
         "odds": 50.0
       },
       {
-        "score": "2-3",
-        "odds": 65.0
+        "score": "3-3",
+        "odds": 85.0
       }
     ]
   },
   "crowd": {
-    "n": 52,
+    "n": 59,
     "outcome": {
-      "HOME": 26,
+      "HOME": 32,
       "DRAW": 12,
-      "AWAY": 14
+      "AWAY": 15
     },
     "scores": [
+      {
+        "score": "2-1",
+        "count": 9
+      },
+      {
+        "score": "1-1",
+        "count": 8
+      },
       {
         "score": "1-0",
         "count": 7
       },
       {
-        "score": "2-1",
-        "count": 7
-      },
-      {
-        "score": "1-1",
-        "count": 7
-      },
-      {
         "score": "2-0",
-        "count": 4
-      },
-      {
-        "score": "0-1",
-        "count": 4
+        "count": 7
       },
       {
         "score": "3-1",
+        "count": 6
+      },
+      {
+        "score": "0-1",
         "count": 4
       },
       {
@@ -141,11 +141,11 @@
         "count": 2
       },
       {
-        "score": "2-3",
+        "score": "0-4",
         "count": 2
       },
       {
-        "score": "1-2",
+        "score": "2-3",
         "count": 2
       },
       {
@@ -153,7 +153,7 @@
         "count": 2
       },
       {
-        "score": "2-2",
+        "score": "1-2",
         "count": 2
       },
       {
@@ -161,19 +161,15 @@
         "count": 1
       },
       {
+        "score": "2-2",
+        "count": 1
+      },
+      {
         "score": "4-1",
         "count": 1
       },
       {
-        "score": "0-4",
-        "count": 1
-      },
-      {
         "score": "1-3",
-        "count": 1
-      },
-      {
-        "score": "3-0",
         "count": 1
       },
       {
@@ -184,7 +180,7 @@
     "others_count": 0
   },
   "analysis": {
-    "crowd_modal_score": "1-0",
+    "crowd_modal_score": "2-1",
     "crowd_modal_outcome": "HOME",
     "market_favourite_outcome": "HOME",
     "exact_correct": null,
