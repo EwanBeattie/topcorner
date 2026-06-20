@@ -7,14 +7,14 @@
   "kickoff_utc": "2026-06-23T20:00:00Z",
   "status": "upcoming",
   "frozen": false,
-  "last_updated_utc": "2026-06-19T09:16:49Z",
+  "last_updated_utc": "2026-06-20T08:51:01Z",
   "weather": {
     "local_time": "2026-06-23T16:00",
-    "temp_c": 28.6,
-    "feels_c": 27.1,
-    "humidity_pct": 28,
+    "temp_c": 18.5,
+    "feels_c": 19.3,
+    "humidity_pct": 81,
     "cloud_pct": 100,
-    "precip_prob_pct": 17,
+    "precip_prob_pct": 13,
     "weather_code": 3,
     "emoji": "☁️",
     "summary": "Overcast",
@@ -29,9 +29,9 @@
   },
   "betfair": {
     "match_odds": {
-      "home": 1.24,
+      "home": 1.25,
       "draw": 7.0,
-      "away": 16.5
+      "away": 16.0
     },
     "correct_score": [
       {
@@ -60,27 +60,31 @@
       },
       {
         "score": "0-0",
-        "odds": 20.0
-      },
-      {
-        "score": "1-2",
-        "odds": 36.0
+        "odds": 19.5
       },
       {
         "score": "0-1",
-        "odds": 38.0
+        "odds": 36.0
       },
       {
         "score": "2-2",
         "odds": 40.0
       },
       {
+        "score": "0-2",
+        "odds": 42.0
+      },
+      {
         "score": "3-2",
         "odds": 46.0
       },
       {
-        "score": "0-2",
-        "odds": 70.0
+        "score": "1-2",
+        "odds": 50.0
+      },
+      {
+        "score": "1-3",
+        "odds": 75.0
       },
       {
         "score": "2-3",
@@ -91,54 +95,50 @@
         "odds": 100.0
       },
       {
-        "score": "1-3",
-        "odds": 110.0
-      },
-      {
         "score": "0-3",
         "odds": 140.0
       }
     ]
   },
   "crowd": {
-    "n": 55,
+    "n": 60,
     "outcome": {
-      "HOME": 34,
+      "HOME": 39,
       "DRAW": 8,
       "AWAY": 13
     },
     "scores": [
       {
-        "score": "2-0",
-        "count": 8
-      },
-      {
-        "score": "1-0",
-        "count": 7
-      },
-      {
         "score": "2-1",
-        "count": 7
+        "count": 9
       },
       {
         "score": "3-1",
+        "count": 8
+      },
+      {
+        "score": "2-0",
         "count": 7
       },
       {
-        "score": "0-0",
+        "score": "1-0",
         "count": 6
+      },
+      {
+        "score": "0-0",
+        "count": 5
+      },
+      {
+        "score": "3-0",
+        "count": 4
+      },
+      {
+        "score": "1-1",
+        "count": 3
       },
       {
         "score": "2-3",
         "count": 3
-      },
-      {
-        "score": "3-0",
-        "count": 2
-      },
-      {
-        "score": "1-1",
-        "count": 2
       },
       {
         "score": "0-1",
@@ -157,15 +157,11 @@
         "count": 2
       },
       {
-        "score": "3-4",
-        "count": 1
+        "score": "4-0",
+        "count": 2
       },
       {
-        "score": "1-2",
-        "count": 1
-      },
-      {
-        "score": "0-3",
+        "score": "4-1",
         "count": 1
       },
       {
@@ -173,14 +169,22 @@
         "count": 1
       },
       {
-        "score": "4-0",
+        "score": "3-4",
+        "count": 1
+      },
+      {
+        "score": "0-3",
+        "count": 1
+      },
+      {
+        "score": "1-2",
         "count": 1
       }
     ],
     "others_count": 0
   },
   "analysis": {
-    "crowd_modal_score": "2-0",
+    "crowd_modal_score": "2-1",
     "crowd_modal_outcome": "HOME",
     "market_favourite_outcome": "HOME",
     "exact_correct": null,

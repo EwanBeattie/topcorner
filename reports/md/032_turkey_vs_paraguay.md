@@ -1,34 +1,35 @@
-# Türkiye vs Paraguay
+# Turkey vs Paraguay
 
 - **Game #:** 32
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Sat 20 Jun 2026, 04:00 BST (03:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Fri 19 Jun 2026, 10:16 BST
+- **Kickoff:** Sat 20 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Sat 20 Jun 2026, 09:51 BST
 
 ## Weather at kickoff
 
 - **Venue:** Levi's Stadium, San Francisco Bay Area, USA
-- **Conditions:** ☀️ Clear — 19 °C (feels 17 °C)
-- **Humidity:** 67%  ·  **Cloud cover:** 2%
+- **Conditions:** 🌤️ Mainly clear — 16 °C (feels 16 °C)
+- **Humidity:** 80%  ·  **Cloud cover:** 49%
 - **Rain:** 0% chance
-- _Forecast for Fri 19 Jun, 20:00 local time_
+- _Forecast for Sat 20 Jun, 04:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 0 – 1
+- **Outcome:** Paraguay (AWAY)
 
 ## Betfair Exchange — Match Odds (decimal)
 
 | Outcome  | Odds | Implied |
 | -------- | ---: | ------: |
-| Türkiye  | 2.12 |   47.2% |
+| Turkey   | 2.12 |   47.2% |
 | Draw     | 3.50 |   28.6% |
 | Paraguay | 4.00 |   25.0% |
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |  Odds | Implied |
 | ----- | ----: | ------: |
@@ -37,7 +38,7 @@ Most-likely first.
 | 2-1   | 10.00 |   10.0% |
 | 0-0   | 11.50 |    8.7% |
 | 2-0   | 11.50 |    8.7% |
-| 0-1   | 12.50 |    8.0% |
+| 0-1 ✅ | 12.50 |    8.0% |
 | 1-2   | 16.00 |    6.2% |
 | 2-2   | 18.50 |    5.4% |
 | 3-1   | 21.00 |    4.8% |
@@ -49,34 +50,34 @@ Most-likely first.
 | 0-3   | 75.00 |    1.3% |
 | 3-3   | 95.00 |    1.1% |
 
-## topcorner crowd — 75 predictions
+## topcorner crowd — 82 predictions
 
-- **Outcome split:** Türkiye 44% · Draw 31% · Paraguay 25%
-- **Most predicted score:** 1-1 (20%)
+- **Outcome split:** Turkey 46% · Draw 34% · Paraguay 20%
+- **Most predicted score:** 1-1 (24%)
 
-| Score | Guesses | Share |      |
-| ----- | ------: | ----: | ---- |
-| 1-1   |      15 |   20% | ████ |
-| 2-1   |      13 |   17% | ███  |
-| 1-0   |      11 |   15% | ███  |
-| 1-2   |       8 |   11% | ██   |
-| 0-1   |       5 |    7% | █    |
-| 2-2   |       5 |    7% | █    |
-| 1-3   |       3 |    4% | █    |
-| 3-1   |       3 |    4% | █    |
-| 1-4   |       2 |    3% | █    |
-| 3-2   |       2 |    3% | █    |
-| 2-0   |       2 |    3% | █    |
-| 0-0   |       2 |    3% | █    |
-| 3-0   |       1 |    1% |      |
-| 2-4   |       1 |    1% |      |
-| 3-3   |       1 |    1% |      |
-| 4-0   |       1 |    1% |      |
+| Score | Guesses | Share |       |
+| ----- | ------: | ----: | ----- |
+| 1-1   |      20 |   24% | █████ |
+| 2-1   |      18 |   22% | ████  |
+| 1-2   |       9 |   11% | ██    |
+| 1-0   |       8 |   10% | ██    |
+| 2-0   |       5 |    6% | █     |
+| 2-2   |       5 |    6% | █     |
+| 0-1 ✅ |       3 |    4% | █     |
+| 3-0   |       3 |    4% | █     |
+| 3-1   |       3 |    4% | █     |
+| 1-3   |       2 |    2% |       |
+| 0-0   |       2 |    2% |       |
+| 1-4   |       1 |    1% |       |
+| 2-4   |       1 |    1% |       |
+| 3-3   |       1 |    1% |       |
+| 4-0   |       1 |    1% |       |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 1-1
-- Crowd modal outcome: HOME
-- Market favourite: HOME
+- **Actual score:** 0-1 (AWAY)
+- **Exact score correctly predicted by:** 3 / 82 (4%)
+- **Outcome correctly predicted by:** 16 / 82 (20%)
+- **Crowd modal score:** 1-1 — ❌ wrong
+- **Crowd modal outcome:** HOME — ❌ wrong
+- **Market favourite:** HOME — ❌ wrong

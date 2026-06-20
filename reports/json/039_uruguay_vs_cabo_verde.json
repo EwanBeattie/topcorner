@@ -7,17 +7,17 @@
   "kickoff_utc": "2026-06-21T22:00:00Z",
   "status": "upcoming",
   "frozen": false,
-  "last_updated_utc": "2026-06-19T09:16:49Z",
+  "last_updated_utc": "2026-06-20T08:51:01Z",
   "weather": {
     "local_time": "2026-06-21T18:00",
-    "temp_c": 30.8,
-    "feels_c": 34.0,
-    "humidity_pct": 56,
+    "temp_c": 25.4,
+    "feels_c": 29.6,
+    "humidity_pct": 89,
     "cloud_pct": 100,
-    "precip_prob_pct": 57,
-    "weather_code": 95,
-    "emoji": "⛈️",
-    "summary": "Thunderstorm",
+    "precip_prob_pct": 79,
+    "weather_code": 80,
+    "emoji": "🌦️",
+    "summary": "Light showers",
     "source": "forecast",
     "venue": "Hard Rock Stadium, Miami, USA",
     "city": "miami"
@@ -29,38 +29,38 @@
   },
   "betfair": {
     "match_odds": {
-      "home": 1.5,
-      "draw": 4.4,
-      "away": 9.0
+      "home": 1.48,
+      "draw": 4.5,
+      "away": 9.6
     },
     "correct_score": [
       {
         "score": "1-0",
-        "odds": 5.6
+        "odds": 5.5
       },
       {
         "score": "2-0",
-        "odds": 6.6
+        "odds": 6.2
       },
       {
         "score": "1-1",
-        "odds": 9.4
+        "odds": 10.0
       },
       {
         "score": "0-0",
-        "odds": 10.0
+        "odds": 10.5
       },
       {
         "score": "2-1",
-        "odds": 10.0
+        "odds": 10.5
       },
       {
         "score": "3-0",
-        "odds": 12.5
+        "odds": 11.0
       },
       {
         "score": "0-1",
-        "odds": 18.5
+        "odds": 19.5
       },
       {
         "score": "3-1",
@@ -68,31 +68,31 @@
       },
       {
         "score": "1-2",
-        "odds": 32.0
+        "odds": 36.0
       },
       {
         "score": "2-2",
-        "odds": 34.0
-      },
-      {
-        "score": "1-3",
-        "odds": 48.0
-      },
-      {
-        "score": "2-3",
-        "odds": 48.0
+        "odds": 36.0
       },
       {
         "score": "3-2",
         "odds": 55.0
       },
       {
-        "score": "0-2",
-        "odds": 60.0
+        "score": "3-3",
+        "odds": 55.0
       },
       {
-        "score": "3-3",
+        "score": "0-2",
         "odds": 70.0
+      },
+      {
+        "score": "1-3",
+        "odds": 90.0
+      },
+      {
+        "score": "2-3",
+        "odds": 95.0
       },
       {
         "score": "0-3",
@@ -101,28 +101,28 @@
     ]
   },
   "crowd": {
-    "n": 64,
+    "n": 71,
     "outcome": {
-      "HOME": 40,
-      "DRAW": 12,
-      "AWAY": 12
+      "HOME": 47,
+      "DRAW": 13,
+      "AWAY": 11
     },
     "scores": [
       {
         "score": "2-0",
-        "count": 10
+        "count": 13
       },
       {
         "score": "3-0",
-        "count": 8
+        "count": 10
       },
       {
         "score": "1-0",
-        "count": 8
+        "count": 9
       },
       {
         "score": "1-1",
-        "count": 8
+        "count": 9
       },
       {
         "score": "3-1",
@@ -134,11 +134,7 @@
       },
       {
         "score": "2-1",
-        "count": 4
-      },
-      {
-        "score": "0-2",
-        "count": 3
+        "count": 5
       },
       {
         "score": "0-1",
@@ -147,6 +143,10 @@
       {
         "score": "4-0",
         "count": 3
+      },
+      {
+        "score": "0-2",
+        "count": 2
       },
       {
         "score": "3-2",

@@ -1,39 +1,40 @@
-# USA vs Australia
+# United States vs Australia
 
 - **Game #:** 29
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Fri 19 Jun 2026, 20:00 BST (19:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Fri 19 Jun 2026, 10:16 BST
+- **Kickoff:** Fri 19 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Sat 20 Jun 2026, 09:51 BST
 
 ## Weather at kickoff
 
 - **Venue:** Lumen Field, Seattle, USA
-- **Conditions:** ☀️ Clear — 24 °C (feels 26 °C)
-- **Humidity:** 49%  ·  **Cloud cover:** 0%
+- **Conditions:** ☀️ Clear — 14 °C (feels 13 °C)
+- **Humidity:** 75%  ·  **Cloud cover:** 3%
 - **Rain:** 0% chance
-- _Forecast for Fri 19 Jun, 12:00 local time_
+- _Observed at Fri 19 Jun, 04:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 2 – 0
+- **Outcome:** United States (HOME)
 
 ## Betfair Exchange — Match Odds (decimal)
 
-| Outcome   | Odds | Implied |
-| --------- | ---: | ------: |
-| USA       | 1.65 |   60.6% |
-| Draw      | 4.50 |   22.2% |
-| Australia | 5.50 |   18.2% |
+| Outcome       | Odds | Implied |
+| ------------- | ---: | ------: |
+| United States | 1.65 |   60.6% |
+| Draw          | 4.50 |   22.2% |
+| Australia     | 5.50 |   18.2% |
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
 | 1-0   |   8.00 |   12.5% |
-| 2-0   |   8.60 |   11.6% |
+| 2-0 ✅ |   8.60 |   11.6% |
 | 1-1   |   9.20 |   10.9% |
 | 2-1   |   9.60 |   10.4% |
 | 3-0   |  15.50 |    6.5% |
@@ -49,35 +50,36 @@ Most-likely first.
 | 3-3   | 110.00 |    0.9% |
 | 0-3   | 130.00 |    0.8% |
 
-## topcorner crowd — 81 predictions
+## topcorner crowd — 84 predictions
 
-- **Outcome split:** USA 57% · Draw 26% · Australia 17%
-- **Most predicted score:** 2-1 (22%)
+- **Outcome split:** United States 62% · Draw 24% · Australia 14%
+- **Most predicted score:** 2-1 (27%)
 
-| Score | Guesses | Share |      |
-| ----- | ------: | ----: | ---- |
-| 2-1   |      18 |   22% | ████ |
-| 1-1   |      12 |   15% | ███  |
-| 3-1   |       9 |   11% | ██   |
-| 1-2   |       7 |    9% | ██   |
-| 1-0   |       7 |    9% | ██   |
-| 2-2   |       6 |    7% | █    |
-| 2-0   |       5 |    6% | █    |
-| 0-1   |       4 |    5% | █    |
-| 3-2   |       3 |    4% | █    |
-| 0-0   |       2 |    2% |      |
-| 0-2   |       2 |    2% |      |
-| 4-0   |       1 |    1% |      |
-| 2-4   |       1 |    1% |      |
-| 4-2   |       1 |    1% |      |
-| 3-0   |       1 |    1% |      |
-| 3-3   |       1 |    1% |      |
-| 4-1   |       1 |    1% |      |
+| Score | Guesses | Share |       |
+| ----- | ------: | ----: | ----- |
+| 2-1   |      23 |   27% | █████ |
+| 3-1   |      11 |   13% | ███   |
+| 1-1   |      11 |   13% | ███   |
+| 1-0   |       6 |    7% | █     |
+| 1-2   |       6 |    7% | █     |
+| 2-2   |       6 |    7% | █     |
+| 2-0 ✅ |       5 |    6% | █     |
+| 3-2   |       3 |    4% | █     |
+| 0-1   |       3 |    4% | █     |
+| 0-2   |       2 |    2% |       |
+| 0-0   |       2 |    2% |       |
+| 4-0   |       1 |    1% |       |
+| 2-4   |       1 |    1% |       |
+| 4-2   |       1 |    1% |       |
+| 3-0   |       1 |    1% |       |
+| 4-1   |       1 |    1% |       |
+| 3-3   |       1 |    1% |       |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 2-1
-- Crowd modal outcome: HOME
-- Market favourite: HOME
+- **Actual score:** 2-0 (HOME)
+- **Exact score correctly predicted by:** 5 / 84 (6%)
+- **Outcome correctly predicted by:** 52 / 84 (62%)
+- **Crowd modal score:** 2-1 — ❌ wrong
+- **Crowd modal outcome:** HOME — ✅ right
+- **Market favourite:** HOME — ✅ correct

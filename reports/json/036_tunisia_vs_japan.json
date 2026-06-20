@@ -7,17 +7,17 @@
   "kickoff_utc": "2026-06-21T04:00:00Z",
   "status": "upcoming",
   "frozen": false,
-  "last_updated_utc": "2026-06-19T09:16:49Z",
+  "last_updated_utc": "2026-06-20T08:51:01Z",
   "weather": {
     "local_time": "2026-06-20T22:00",
-    "temp_c": 24.5,
-    "feels_c": 27.6,
-    "humidity_pct": 82,
-    "cloud_pct": 47,
-    "precip_prob_pct": 30,
-    "weather_code": 1,
-    "emoji": "🌤️",
-    "summary": "Mainly clear",
+    "temp_c": 24.0,
+    "feels_c": 26.5,
+    "humidity_pct": 77,
+    "cloud_pct": 97,
+    "precip_prob_pct": 11,
+    "weather_code": 3,
+    "emoji": "☁️",
+    "summary": "Overcast",
     "source": "forecast",
     "venue": "Estadio BBVA, Monterrey, Mexico",
     "city": "monterrey"
@@ -29,9 +29,9 @@
   },
   "betfair": {
     "match_odds": {
-      "home": 7.6,
-      "draw": 4.2,
-      "away": 1.57
+      "home": 7.0,
+      "draw": 4.1,
+      "away": 1.61
     },
     "correct_score": [
       {
@@ -40,11 +40,11 @@
       },
       {
         "score": "0-2",
-        "odds": 7.6
+        "odds": 7.8
       },
       {
         "score": "1-1",
-        "odds": 9.0
+        "odds": 8.8
       },
       {
         "score": "1-2",
@@ -56,61 +56,61 @@
       },
       {
         "score": "0-3",
-        "odds": 12.5
-      },
-      {
-        "score": "1-3",
-        "odds": 17.0
+        "odds": 14.0
       },
       {
         "score": "1-0",
-        "odds": 18.0
+        "odds": 17.5
       },
       {
-        "score": "2-2",
-        "odds": 25.0
+        "score": "1-3",
+        "odds": 17.5
       },
       {
         "score": "2-1",
-        "odds": 27.0
+        "odds": 26.0
+      },
+      {
+        "score": "2-2",
+        "odds": 26.0
       },
       {
         "score": "2-3",
         "odds": 42.0
       },
       {
-        "score": "3-0",
-        "odds": 48.0
+        "score": "3-3",
+        "odds": 46.0
       },
       {
         "score": "2-0",
-        "odds": 55.0
-      },
-      {
-        "score": "3-3",
-        "odds": 80.0
+        "odds": 50.0
       },
       {
         "score": "3-1",
-        "odds": 110.0
+        "odds": 100.0
       },
       {
         "score": "3-2",
-        "odds": 110.0
+        "odds": 100.0
+      },
+      {
+        "score": "3-0",
+        "odds": 200.0
       }
     ]
   },
   "crowd": {
-    "n": 66,
+    "n": 76,
     "outcome": {
       "HOME": 13,
-      "DRAW": 18,
-      "AWAY": 35
+      "DRAW": 17,
+      "AWAY": 46
     },
     "scores": [
       {
         "score": "1-2",
-        "count": 14
+        "count": 18
       },
       {
         "score": "1-1",
@@ -118,18 +118,18 @@
       },
       {
         "score": "0-1",
-        "count": 8
+        "count": 11
       },
       {
         "score": "0-2",
-        "count": 6
+        "count": 8
       },
       {
         "score": "2-1",
         "count": 5
       },
       {
-        "score": "0-0",
+        "score": "0-3",
         "count": 4
       },
       {
@@ -137,7 +137,15 @@
         "count": 4
       },
       {
+        "score": "0-0",
+        "count": 3
+      },
+      {
         "score": "3-0",
+        "count": 3
+      },
+      {
+        "score": "1-3",
         "count": 3
       },
       {
@@ -145,23 +153,11 @@
         "count": 2
       },
       {
-        "score": "1-3",
-        "count": 2
-      },
-      {
-        "score": "0-3",
-        "count": 2
-      },
-      {
-        "score": "3-3",
-        "count": 1
-      },
-      {
         "score": "2-2",
         "count": 1
       },
       {
-        "score": "0-4",
+        "score": "3-3",
         "count": 1
       },
       {

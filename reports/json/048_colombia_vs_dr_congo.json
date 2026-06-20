@@ -7,14 +7,14 @@
   "kickoff_utc": "2026-06-24T02:00:00Z",
   "status": "upcoming",
   "frozen": false,
-  "last_updated_utc": "2026-06-19T09:16:49Z",
+  "last_updated_utc": "2026-06-20T08:51:01Z",
   "weather": {
     "local_time": "2026-06-23T20:00",
-    "temp_c": 18.1,
-    "feels_c": 19.9,
+    "temp_c": 18.2,
+    "feels_c": 20.4,
     "humidity_pct": 98,
-    "cloud_pct": 58,
-    "precip_prob_pct": 89,
+    "cloud_pct": 75,
+    "precip_prob_pct": 80,
     "weather_code": 51,
     "emoji": "🌦️",
     "summary": "Light drizzle",
@@ -36,7 +36,7 @@
     "correct_score": [
       {
         "score": "1-0",
-        "odds": 5.9
+        "odds": 5.8
       },
       {
         "score": "2-0",
@@ -44,7 +44,7 @@
       },
       {
         "score": "1-1",
-        "odds": 9.0
+        "odds": 8.8
       },
       {
         "score": "2-1",
@@ -60,7 +60,7 @@
       },
       {
         "score": "0-1",
-        "odds": 17.0
+        "odds": 16.5
       },
       {
         "score": "3-1",
@@ -75,10 +75,6 @@
         "odds": 29.0
       },
       {
-        "score": "0-2",
-        "odds": 34.0
-      },
-      {
         "score": "1-3",
         "odds": 44.0
       },
@@ -87,25 +83,29 @@
         "odds": 46.0
       },
       {
+        "score": "0-3",
+        "odds": 50.0
+      },
+      {
         "score": "3-2",
         "odds": 50.0
       },
       {
-        "score": "0-3",
-        "odds": 55.0
+        "score": "3-3",
+        "odds": 50.0
       },
       {
-        "score": "3-3",
+        "score": "0-2",
         "odds": 55.0
       }
     ]
   },
   "crowd": {
-    "n": 52,
+    "n": 55,
     "outcome": {
-      "HOME": 31,
-      "DRAW": 9,
-      "AWAY": 12
+      "HOME": 33,
+      "DRAW": 11,
+      "AWAY": 11
     },
     "scores": [
       {
@@ -113,32 +113,32 @@
         "count": 10
       },
       {
+        "score": "2-1",
+        "count": 9
+      },
+      {
         "score": "2-0",
         "count": 8
       },
       {
-        "score": "2-1",
-        "count": 7
+        "score": "1-1",
+        "count": 4
+      },
+      {
+        "score": "1-2",
+        "count": 4
       },
       {
         "score": "0-1",
-        "count": 6
+        "count": 4
       },
       {
-        "score": "1-1",
+        "score": "2-2",
         "count": 3
       },
       {
         "score": "3-3",
         "count": 3
-      },
-      {
-        "score": "1-2",
-        "count": 3
-      },
-      {
-        "score": "2-2",
-        "count": 2
       },
       {
         "score": "3-2",

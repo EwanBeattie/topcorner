@@ -7,17 +7,17 @@
   "kickoff_utc": "2026-06-21T16:00:00Z",
   "status": "upcoming",
   "frozen": false,
-  "last_updated_utc": "2026-06-19T09:16:49Z",
+  "last_updated_utc": "2026-06-20T08:51:01Z",
   "weather": {
     "local_time": "2026-06-21T12:00",
-    "temp_c": 29.7,
-    "feels_c": 30.8,
-    "humidity_pct": 32,
-    "cloud_pct": 5,
-    "precip_prob_pct": 9,
-    "weather_code": 0,
-    "emoji": "☀️",
-    "summary": "Clear",
+    "temp_c": 28.0,
+    "feels_c": 32.7,
+    "humidity_pct": 66,
+    "cloud_pct": 29,
+    "precip_prob_pct": 3,
+    "weather_code": 1,
+    "emoji": "🌤️",
+    "summary": "Mainly clear",
     "source": "forecast",
     "venue": "Mercedes-Benz Stadium, Atlanta, USA",
     "city": "atlanta"
@@ -29,34 +29,34 @@
   },
   "betfair": {
     "match_odds": {
-      "home": 1.13,
-      "draw": 11.5,
-      "away": 28.0
+      "home": 1.12,
+      "draw": 12.0,
+      "away": 30.0
     },
     "correct_score": [
       {
         "score": "3-0",
-        "odds": 6.2
-      },
-      {
-        "score": "2-0",
         "odds": 6.4
       },
       {
+        "score": "2-0",
+        "odds": 6.8
+      },
+      {
         "score": "1-0",
-        "odds": 9.6
+        "odds": 10.0
       },
       {
         "score": "2-1",
-        "odds": 15.0
+        "odds": 16.5
       },
       {
         "score": "3-1",
-        "odds": 15.5
+        "odds": 16.5
       },
       {
         "score": "1-1",
-        "odds": 25.0
+        "odds": 26.0
       },
       {
         "score": "0-0",
@@ -64,19 +64,19 @@
       },
       {
         "score": "1-2",
-        "odds": 38.0
-      },
-      {
-        "score": "0-2",
-        "odds": 50.0
+        "odds": 40.0
       },
       {
         "score": "0-1",
-        "odds": 55.0
+        "odds": 60.0
       },
       {
         "score": "3-2",
-        "odds": 55.0
+        "odds": 70.0
+      },
+      {
+        "score": "0-2",
+        "odds": 75.0
       },
       {
         "score": "2-2",
@@ -96,41 +96,41 @@
       },
       {
         "score": "0-3",
-        "odds": 180.0
+        "odds": 210.0
       }
     ]
   },
   "crowd": {
-    "n": 66,
+    "n": 74,
     "outcome": {
-      "HOME": 45,
-      "DRAW": 9,
-      "AWAY": 12
+      "HOME": 57,
+      "DRAW": 8,
+      "AWAY": 9
     },
     "scores": [
       {
         "score": "3-0",
-        "count": 17
+        "count": 23
       },
       {
         "score": "2-0",
-        "count": 7
+        "count": 10
       },
       {
         "score": "3-1",
-        "count": 6
-      },
-      {
-        "score": "1-2",
-        "count": 5
+        "count": 8
       },
       {
         "score": "4-1",
         "count": 5
       },
       {
-        "score": "2-2",
+        "score": "1-2",
         "count": 4
+      },
+      {
+        "score": "2-2",
+        "count": 3
       },
       {
         "score": "1-0",
@@ -145,7 +145,7 @@
         "count": 3
       },
       {
-        "score": "6-0",
+        "score": "4-0",
         "count": 2
       },
       {
@@ -157,19 +157,23 @@
         "count": 2
       },
       {
-        "score": "1-3",
-        "count": 2
+        "score": "6-0",
+        "count": 1
       },
       {
-        "score": "0-1",
-        "count": 2
-      },
-      {
-        "score": "4-0",
+        "score": "5-0",
         "count": 1
       },
       {
         "score": "0-4",
+        "count": 1
+      },
+      {
+        "score": "0-1",
+        "count": 1
+      },
+      {
+        "score": "1-3",
         "count": 1
       },
       {

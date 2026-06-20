@@ -2,21 +2,22 @@
 
 - **Game #:** 31
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Sat 20 Jun 2026, 01:30 BST (00:30 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Fri 19 Jun 2026, 10:16 BST
+- **Kickoff:** Sat 20 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Sat 20 Jun 2026, 09:51 BST
 
 ## Weather at kickoff
 
 - **Venue:** Lincoln Financial Field, Philadelphia, USA
-- **Conditions:** ☀️ Clear — 26 °C (feels 23 °C)
-- **Humidity:** 29%  ·  **Cloud cover:** 0%
+- **Conditions:** ☀️ Clear — 20 °C (feels 18 °C)
+- **Humidity:** 56%  ·  **Cloud cover:** 0%
 - **Rain:** 0% chance
-- _Forecast for Fri 19 Jun, 20:00 local time_
+- _Forecast for Sat 20 Jun, 07:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 3 – 0
+- **Outcome:** Brazil (HOME)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -28,11 +29,11 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
-| 3-0   |   7.60 |   13.2% |
+| 3-0 ✅ |   7.60 |   13.2% |
 | 2-0   |   8.40 |   11.9% |
 | 1-0   |  13.50 |    7.4% |
 | 3-1   |  13.50 |    7.4% |
@@ -49,37 +50,36 @@ Most-likely first.
 | 0-2   | 240.00 |    0.4% |
 | 0-3   | 280.00 |    0.4% |
 
-## topcorner crowd — 75 predictions
+## topcorner crowd — 82 predictions
 
-- **Outcome split:** Brazil 85% · Draw 8% · Haiti 7%
-- **Most predicted score:** 3-0 (25%)
+- **Outcome split:** Brazil 93% · Draw 2% · Haiti 5%
+- **Most predicted score:** 3-0 (26%)
 
 | Score | Guesses | Share |       |
 | ----- | ------: | ----: | ----- |
-| 3-0   |      19 |   25% | █████ |
-| 2-0   |      15 |   20% | ████  |
-| 4-0   |       8 |   11% | ██    |
-| 3-1   |       7 |    9% | ██    |
-| 5-0   |       6 |    8% | ██    |
-| 1-1   |       3 |    4% | █     |
-| 2-1   |       2 |    3% | █     |
-| 0-0   |       2 |    3% | █     |
-| 4-1   |       2 |    3% | █     |
-| 0-1   |       2 |    3% | █     |
+| 3-0 ✅ |      21 |   26% | █████ |
+| 2-0   |      16 |   20% | ████  |
+| 4-0   |      13 |   16% | ███   |
+| 3-1   |       8 |   10% | ██    |
+| 5-0   |       7 |    9% | ██    |
+| 2-1   |       3 |    4% | █     |
+| 5-1   |       2 |    2% |       |
+| 4-1   |       2 |    2% |       |
+| 0-1   |       2 |    2% |       |
 | 0-2   |       1 |    1% |       |
+| 0-0   |       1 |    1% |       |
 | 8-0   |       1 |    1% |       |
 | 6-0   |       1 |    1% |       |
-| 2-2   |       1 |    1% |       |
 | 3-2   |       1 |    1% |       |
-| 0-4   |       1 |    1% |       |
 | 2-3   |       1 |    1% |       |
-| 5-1   |       1 |    1% |       |
 | 6-1   |       1 |    1% |       |
+| 1-1   |       1 |    1% |       |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 3-0
-- Crowd modal outcome: HOME
-- Market favourite: HOME
+- **Actual score:** 3-0 (HOME)
+- **Exact score correctly predicted by:** 21 / 82 (26%)
+- **Outcome correctly predicted by:** 76 / 82 (93%)
+- **Crowd modal score:** 3-0 — ✅ right
+- **Crowd modal outcome:** HOME — ✅ right
+- **Market favourite:** HOME — ✅ correct
