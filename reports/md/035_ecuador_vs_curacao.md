@@ -1,22 +1,23 @@
-# Ecuador vs Curacao
+# Ecuador vs Curaçao
 
 - **Game #:** 35
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Sun 21 Jun 2026, 01:00 BST (00:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Sat 20 Jun 2026, 09:51 BST
+- **Kickoff:** Sun 21 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Sun 21 Jun 2026, 10:57 BST
 
 ## Weather at kickoff
 
 - **Venue:** Arrowhead Stadium, Kansas City, USA
-- **Conditions:** ☀️ Clear — 31 °C (feels 32 °C)
-- **Humidity:** 40%  ·  **Cloud cover:** 0%
-- **Rain:** 5% chance
-- _Forecast for Sat 20 Jun, 19:00 local time_
+- **Conditions:** 🌧️ Light rain — 22 °C (feels 25 °C)
+- **Humidity:** 89%  ·  **Cloud cover:** 100%
+- **Rain:** 85% chance
+- _Forecast for Sun 21 Jun, 06:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 0 – 0
+- **Outcome:** Draw (DRAW)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -24,11 +25,11 @@ _Not yet played._
 | ------- | ----: | ------: |
 | Ecuador |  1.15 |   87.0% |
 | Draw    | 10.00 |   10.0% |
-| Curacao | 25.00 |    4.0% |
+| Curaçao | 25.00 |    4.0% |
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
@@ -38,7 +39,7 @@ Most-likely first.
 | 2-1   |  15.00 |    6.7% |
 | 3-1   |  16.50 |    6.1% |
 | 1-1   |  22.00 |    4.5% |
-| 0-0   |  27.00 |    3.7% |
+| 0-0 ✅ |  27.00 |    3.7% |
 | 0-1   |  50.00 |    2.0% |
 | 1-3   |  55.00 |    1.8% |
 | 2-2   |  70.00 |    1.4% |
@@ -49,34 +50,35 @@ Most-likely first.
 | 0-3   | 210.00 |    0.5% |
 | 3-3   | 220.00 |    0.5% |
 
-## topcorner crowd — 78 predictions
+## topcorner crowd — 82 predictions
 
-- **Outcome split:** Ecuador 74% · Draw 14% · Curacao 12%
-- **Most predicted score:** 2-0 (26%)
+- **Outcome split:** Ecuador 79% · Draw 12% · Curaçao 9%
+- **Most predicted score:** 2-0 (27%)
 
 | Score | Guesses | Share |       |
 | ----- | ------: | ----: | ----- |
-| 2-0   |      20 |   26% | █████ |
-| 3-0   |      14 |   18% | ████  |
-| 2-1   |       9 |   12% | ██    |
+| 2-0   |      22 |   27% | █████ |
+| 3-0   |      18 |   22% | ████  |
+| 1-0   |       9 |   11% | ██    |
+| 2-1   |       8 |   10% | ██    |
 | 1-1   |       7 |    9% | ██    |
-| 1-0   |       7 |    9% | ██    |
-| 3-1   |       5 |    6% | █     |
-| 0-1   |       3 |    4% | █     |
-| 0-0   |       2 |    3% | █     |
-| 0-2   |       2 |    3% | █     |
-| 3-2   |       2 |    3% | █     |
-| 2-2   |       2 |    3% | █     |
+| 3-1   |       6 |    7% | █     |
+| 2-2   |       2 |    2% |       |
+| 0-1   |       2 |    2% |       |
+| 0-0 ✅ |       1 |    1% |       |
 | 0-4   |       1 |    1% |       |
 | 0-3   |       1 |    1% |       |
+| 0-2   |       1 |    1% |       |
 | 2-3   |       1 |    1% |       |
 | 4-0   |       1 |    1% |       |
+| 3-2   |       1 |    1% |       |
 | 1-4   |       1 |    1% |       |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 2-0
-- Crowd modal outcome: HOME
-- Market favourite: HOME
+- **Actual score:** 0-0 (DRAW)
+- **Exact score correctly predicted by:** 1 / 82 (1%)
+- **Outcome correctly predicted by:** 10 / 82 (12%)
+- **Crowd modal score:** 2-0 — ❌ wrong
+- **Crowd modal outcome:** HOME — ❌ wrong
+- **Market favourite:** HOME — ❌ wrong

@@ -1,31 +1,31 @@
 {
   "number": 34,
-  "match": "Germany vs Ivory Coast",
+  "match": "Germany vs Côte d'Ivoire",
   "home": "Germany",
-  "away": "Ivory Coast",
+  "away": "Côte d'Ivoire",
   "competition": "World Cup 2026",
-  "kickoff_utc": "2026-06-20T20:00:00Z",
-  "status": "upcoming",
-  "frozen": false,
-  "last_updated_utc": "2026-06-20T08:51:00Z",
+  "kickoff_utc": "2026-06-20T11:00:00Z",
+  "status": "played",
+  "frozen": true,
+  "last_updated_utc": "2026-06-21T09:57:21Z",
   "weather": {
-    "local_time": "2026-06-20T16:00",
-    "temp_c": 24.1,
-    "feels_c": 23.6,
-    "humidity_pct": 37,
-    "cloud_pct": 89,
-    "precip_prob_pct": 3,
-    "weather_code": 3,
-    "emoji": "☁️",
-    "summary": "Overcast",
-    "source": "forecast",
+    "local_time": "2026-06-20T07:00",
+    "temp_c": 12.4,
+    "feels_c": 10.9,
+    "humidity_pct": 78,
+    "cloud_pct": 3,
+    "precip_prob_pct": 0,
+    "weather_code": 0,
+    "emoji": "☀️",
+    "summary": "Clear",
+    "source": "observed",
     "venue": "BMO Field, Toronto, Canada",
     "city": "toronto"
   },
   "result": {
-    "home_goals": null,
-    "away_goals": null,
-    "outcome": null
+    "home_goals": 2,
+    "away_goals": 1,
+    "outcome": "HOME"
   },
   "betfair": {
     "match_odds": {
@@ -101,63 +101,71 @@
     ]
   },
   "crowd": {
-    "n": 82,
+    "n": 84,
     "outcome": {
-      "HOME": 72,
-      "DRAW": 5,
-      "AWAY": 5
+      "HOME": 78,
+      "DRAW": 3,
+      "AWAY": 3
     },
     "scores": [
       {
         "score": "2-1",
-        "count": 20
+        "count": 18
       },
       {
         "score": "3-1",
-        "count": 11
+        "count": 15
       },
       {
         "score": "3-0",
-        "count": 10
+        "count": 11
       },
       {
         "score": "2-0",
-        "count": 9
-      },
-      {
-        "score": "1-0",
-        "count": 9
+        "count": 10
       },
       {
         "score": "4-1",
-        "count": 5
+        "count": 7
       },
       {
-        "score": "2-2",
-        "count": 4
+        "score": "1-0",
+        "count": 6
       },
       {
         "score": "4-2",
         "count": 3
       },
       {
+        "score": "2-2",
+        "count": 3
+      },
+      {
         "score": "1-2",
-        "count": 3
-      },
-      {
-        "score": "5-1",
-        "count": 3
-      },
-      {
-        "score": "0-2",
         "count": 2
       },
       {
-        "score": "1-1",
+        "score": "4-0",
+        "count": 2
+      },
+      {
+        "score": "5-1",
+        "count": 2
+      },
+      {
+        "score": "5-2",
+        "count": 1
+      },
+      {
+        "score": "3-2",
         "count": 1
       },
       {
         "score": "5-0",
+        "count": 1
+      },
+      {
+        "score": "0-2",
         "count": 1
       },
       {
@@ -171,9 +179,12 @@
     "crowd_modal_score": "2-1",
     "crowd_modal_outcome": "HOME",
     "market_favourite_outcome": "HOME",
-    "exact_correct": null,
-    "exact_correct_pct": null,
-    "outcome_correct": null,
-    "outcome_correct_pct": null
+    "exact_correct": 18,
+    "exact_correct_pct": 0.214,
+    "outcome_correct": 78,
+    "outcome_correct_pct": 0.929,
+    "crowd_modal_score_correct": true,
+    "crowd_modal_outcome_correct": true,
+    "market_favourite_correct": true
   }
 }

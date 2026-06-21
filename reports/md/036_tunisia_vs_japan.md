@@ -2,21 +2,22 @@
 
 - **Game #:** 36
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Sun 21 Jun 2026, 05:00 BST (04:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Sat 20 Jun 2026, 09:51 BST
+- **Kickoff:** Sun 21 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Sun 21 Jun 2026, 10:57 BST
 
 ## Weather at kickoff
 
 - **Venue:** Estadio BBVA, Monterrey, Mexico
-- **Conditions:** ☁️ Overcast — 24 °C (feels 26 °C)
-- **Humidity:** 77%  ·  **Cloud cover:** 97%
+- **Conditions:** 🌫️ Fog — 22 °C (feels 27 °C)
+- **Humidity:** 100%  ·  **Cloud cover:** 100%
 - **Rain:** 11% chance
-- _Forecast for Sat 20 Jun, 22:00 local time_
+- _Forecast for Sun 21 Jun, 05:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 0 – 4
+- **Outcome:** Japan (AWAY)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -28,7 +29,7 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
@@ -49,32 +50,32 @@ Most-likely first.
 | 3-2   | 100.00 |    1.0% |
 | 3-0   | 200.00 |    0.5% |
 
-## topcorner crowd — 76 predictions
+## topcorner crowd — 80 predictions
 
-- **Outcome split:** Tunisia 17% · Draw 22% · Japan 61%
-- **Most predicted score:** 1-2 (24%)
+- **Outcome split:** Tunisia 15% · Draw 18% · Japan 68%
+- **Most predicted score:** 1-2 (28%)
 
-| Score | Guesses | Share |       |
-| ----- | ------: | ----: | ----- |
-| 1-2   |      18 |   24% | █████ |
-| 1-1   |      12 |   16% | ███   |
-| 0-1   |      11 |   14% | ███   |
-| 0-2   |       8 |   11% | ██    |
-| 2-1   |       5 |    7% | █     |
-| 0-3   |       4 |    5% | █     |
-| 1-0   |       4 |    5% | █     |
-| 0-0   |       3 |    4% | █     |
-| 3-0   |       3 |    4% | █     |
-| 1-3   |       3 |    4% | █     |
-| 2-3   |       2 |    3% | █     |
-| 2-2   |       1 |    1% |       |
-| 3-3   |       1 |    1% |       |
-| 2-0   |       1 |    1% |       |
+| Score | Guesses | Share |        |
+| ----- | ------: | ----: | ------ |
+| 1-2   |      22 |   28% | ██████ |
+| 0-1   |      11 |   14% | ███    |
+| 1-1   |      11 |   14% | ███    |
+| 0-2   |      10 |   12% | ██     |
+| 0-3   |       7 |    9% | ██     |
+| 2-1   |       5 |    6% | █      |
+| 1-0   |       4 |    5% | █      |
+| 1-3   |       3 |    4% | █      |
+| 0-0   |       2 |    2% |        |
+| 3-0   |       2 |    2% |        |
+| 2-2   |       1 |    1% |        |
+| 2-3   |       1 |    1% |        |
+| 2-0   |       1 |    1% |        |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 1-2
-- Crowd modal outcome: AWAY
-- Market favourite: AWAY
+- **Actual score:** 0-4 (AWAY)
+- **Exact score correctly predicted by:** 0 / 80 (0%)
+- **Outcome correctly predicted by:** 54 / 80 (68%)
+- **Crowd modal score:** 1-2 — ❌ wrong
+- **Crowd modal outcome:** AWAY — ✅ right
+- **Market favourite:** AWAY — ✅ correct

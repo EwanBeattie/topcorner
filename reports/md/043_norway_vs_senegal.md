@@ -4,14 +4,14 @@
 - **Competition:** World Cup 2026 — Group Stage
 - **Kickoff:** Tue 23 Jun 2026, 01:00 BST (00:00 UTC)
 - **Status:** ⚪ UPCOMING
-- **Last updated:** Sat 20 Jun 2026, 09:51 BST
+- **Last updated:** Sun 21 Jun 2026, 10:57 BST
 
 ## Weather at kickoff
 
 - **Venue:** MetLife Stadium, New York/New Jersey, USA
-- **Conditions:** 🌦️ Heavy drizzle — 20 °C (feels 24 °C)
-- **Humidity:** 99%  ·  **Cloud cover:** 100%
-- **Rain:** 85% chance
+- **Conditions:** ☁️ Overcast — 23 °C (feels 22 °C)
+- **Humidity:** 76%  ·  **Cloud cover:** 100%
+- **Rain:** 79% chance
 - _Forecast for Mon 22 Jun, 20:00 local time_
 
 ## Result
@@ -22,8 +22,8 @@ _Not yet played._
 
 | Outcome | Odds | Implied |
 | ------- | ---: | ------: |
-| Norway  | 2.38 |   42.0% |
-| Draw    | 3.60 |   27.8% |
+| Norway  | 2.34 |   42.7% |
+| Draw    | 3.65 |   27.4% |
 | Senegal | 3.25 |   30.8% |
 
 ## Betfair Exchange — Correct Score (decimal)
@@ -32,41 +32,40 @@ Most-likely first.
 
 | Score |  Odds | Implied |
 | ----- | ----: | ------: |
-| 1-1   |  7.20 |   13.9% |
-| 1-0   |  9.20 |   10.9% |
-| 2-1   | 10.00 |   10.0% |
-| 0-1   | 10.50 |    9.5% |
-| 0-0   | 12.50 |    8.0% |
+| 1-1   |  7.60 |   13.2% |
+| 1-0   |  9.80 |   10.2% |
+| 2-1   | 10.50 |    9.5% |
+| 0-1   | 12.00 |    8.3% |
 | 1-2   | 12.50 |    8.0% |
-| 2-0   | 13.50 |    7.4% |
-| 2-2   | 16.00 |    6.2% |
-| 0-2   | 19.00 |    5.3% |
+| 0-0   | 13.50 |    7.4% |
+| 2-0   | 14.00 |    7.1% |
+| 2-2   | 17.00 |    5.9% |
+| 0-2   | 20.00 |    5.0% |
 | 3-1   | 22.00 |    4.5% |
 | 3-0   | 29.00 |    3.4% |
 | 1-3   | 32.00 |    3.1% |
 | 3-2   | 34.00 |    2.9% |
-| 3-3   | 38.00 |    2.6% |
 | 2-3   | 42.00 |    2.4% |
-| 0-3   | 46.00 |    2.2% |
+| 0-3   | 50.00 |    2.0% |
+| 3-3   | 75.00 |    1.3% |
 
-## topcorner crowd — 60 predictions
+## topcorner crowd — 61 predictions
 
-- **Outcome split:** Norway 30% · Draw 37% · Senegal 33%
+- **Outcome split:** Norway 33% · Draw 38% · Senegal 30%
 - **Most predicted score:** 1-1 (23%)
 
 | Score | Guesses | Share |       |
 | ----- | ------: | ----: | ----- |
 | 1-1   |      14 |   23% | █████ |
-| 2-1   |       7 |   12% | ██    |
-| 2-2   |       7 |   12% | ██    |
-| 1-2   |       7 |   12% | ██    |
-| 0-1   |       6 |   10% | ██    |
-| 0-2   |       4 |    7% | █     |
-| 3-1   |       4 |    7% | █     |
+| 2-1   |       8 |   13% | ███   |
+| 2-2   |       8 |   13% | ███   |
+| 1-2   |       8 |   13% | ███   |
+| 0-1   |       5 |    8% | ██    |
+| 3-1   |       5 |    8% | ██    |
+| 0-2   |       3 |    5% | █     |
 | 3-2   |       3 |    5% | █     |
 | 1-0   |       2 |    3% | █     |
 | 2-0   |       2 |    3% | █     |
-| 0-4   |       1 |    2% |       |
 | 3-3   |       1 |    2% |       |
 | 2-3   |       1 |    2% |       |
 | 0-3   |       1 |    2% |       |

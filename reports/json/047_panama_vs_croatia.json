@@ -7,17 +7,17 @@
   "kickoff_utc": "2026-06-23T23:00:00Z",
   "status": "upcoming",
   "frozen": false,
-  "last_updated_utc": "2026-06-20T08:51:01Z",
+  "last_updated_utc": "2026-06-21T09:57:22Z",
   "weather": {
     "local_time": "2026-06-23T19:00",
-    "temp_c": 21.9,
-    "feels_c": 19.6,
-    "humidity_pct": 47,
-    "cloud_pct": 100,
-    "precip_prob_pct": 2,
-    "weather_code": 3,
-    "emoji": "☁️",
-    "summary": "Overcast",
+    "temp_c": 22.5,
+    "feels_c": 20.2,
+    "humidity_pct": 44,
+    "cloud_pct": 17,
+    "precip_prob_pct": 0,
+    "weather_code": 0,
+    "emoji": "☀️",
+    "summary": "Clear",
     "source": "forecast",
     "venue": "BMO Field, Toronto, Canada",
     "city": "toronto"
@@ -29,62 +29,54 @@
   },
   "betfair": {
     "match_odds": {
-      "home": 7.4,
+      "home": 7.2,
       "draw": 4.2,
       "away": 1.59
     },
     "correct_score": [
       {
         "score": "0-1",
-        "odds": 6.8
+        "odds": 7.6
       },
       {
         "score": "0-2",
-        "odds": 8.0
+        "odds": 8.4
       },
       {
         "score": "1-1",
-        "odds": 8.6
+        "odds": 8.8
       },
       {
         "score": "1-2",
-        "odds": 9.2
-      },
-      {
-        "score": "0-0",
-        "odds": 12.5
+        "odds": 9.4
       },
       {
         "score": "0-3",
         "odds": 12.5
       },
       {
-        "score": "3-0",
-        "odds": 14.5
+        "score": "0-0",
+        "odds": 13.0
       },
       {
         "score": "1-3",
-        "odds": 16.0
-      },
-      {
-        "score": "3-3",
-        "odds": 16.0
+        "odds": 15.0
       },
       {
         "score": "1-0",
-        "odds": 19.0
+        "odds": 19.5
       },
       {
         "score": "2-2",
-        "odds": 22.0
+        "odds": 21.0
       },
       {
         "score": "2-1",
-        "odds": 24.0
+        "odds": 23.0
       },
       {
         "score": "2-3",
-        "odds": 36.0
+        "odds": 34.0
       },
       {
         "score": "3-1",
@@ -95,17 +87,25 @@
         "odds": 40.0
       },
       {
+        "score": "3-3",
+        "odds": 44.0
+      },
+      {
+        "score": "3-0",
+        "odds": 48.0
+      },
+      {
         "score": "2-0",
-        "odds": 50.0
+        "odds": 55.0
       }
     ]
   },
   "crowd": {
-    "n": 55,
+    "n": 56,
     "outcome": {
       "HOME": 12,
       "DRAW": 7,
-      "AWAY": 36
+      "AWAY": 37
     },
     "scores": [
       {
@@ -118,7 +118,7 @@
       },
       {
         "score": "1-2",
-        "count": 6
+        "count": 7
       },
       {
         "score": "1-3",
@@ -161,11 +161,11 @@
         "count": 2
       },
       {
-        "score": "4-0",
+        "score": "2-1",
         "count": 1
       },
       {
-        "score": "2-1",
+        "score": "4-0",
         "count": 1
       },
       {

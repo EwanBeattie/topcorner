@@ -4,28 +4,28 @@
   "home": "Netherlands",
   "away": "Sweden",
   "competition": "World Cup 2026",
-  "kickoff_utc": "2026-06-20T17:00:00Z",
-  "status": "upcoming",
-  "frozen": false,
-  "last_updated_utc": "2026-06-20T08:51:00Z",
+  "kickoff_utc": "2026-06-20T11:00:00Z",
+  "status": "played",
+  "frozen": true,
+  "last_updated_utc": "2026-06-21T09:57:21Z",
   "weather": {
-    "local_time": "2026-06-20T12:00",
-    "temp_c": 26.2,
-    "feels_c": 29.9,
-    "humidity_pct": 90,
-    "cloud_pct": 99,
-    "precip_prob_pct": 15,
-    "weather_code": 3,
-    "emoji": "☁️",
-    "summary": "Overcast",
-    "source": "forecast",
+    "local_time": "2026-06-20T06:00",
+    "temp_c": 27.2,
+    "feels_c": 32.5,
+    "humidity_pct": 92,
+    "cloud_pct": 64,
+    "precip_prob_pct": 23,
+    "weather_code": 95,
+    "emoji": "⛈️",
+    "summary": "Thunderstorm",
+    "source": "observed",
     "venue": "NRG Stadium, Houston, USA",
     "city": "houston"
   },
   "result": {
-    "home_goals": null,
-    "away_goals": null,
-    "outcome": null
+    "home_goals": 5,
+    "away_goals": 1,
+    "outcome": "HOME"
   },
   "betfair": {
     "match_odds": {
@@ -101,47 +101,47 @@
     ]
   },
   "crowd": {
-    "n": 82,
+    "n": 84,
     "outcome": {
-      "HOME": 36,
-      "DRAW": 36,
-      "AWAY": 10
+      "HOME": 37,
+      "DRAW": 34,
+      "AWAY": 13
     },
     "scores": [
       {
-        "score": "1-1",
-        "count": 21
+        "score": "2-1",
+        "count": 22
       },
       {
-        "score": "2-1",
-        "count": 19
+        "score": "1-1",
+        "count": 20
       },
       {
         "score": "2-2",
-        "count": 15
-      },
-      {
-        "score": "1-0",
-        "count": 6
+        "count": 14
       },
       {
         "score": "1-2",
-        "count": 5
+        "count": 7
       },
       {
         "score": "2-0",
         "count": 5
       },
       {
+        "score": "1-0",
+        "count": 4
+      },
+      {
         "score": "3-1",
         "count": 3
       },
       {
-        "score": "3-0",
-        "count": 2
+        "score": "2-3",
+        "count": 3
       },
       {
-        "score": "2-3",
+        "score": "3-2",
         "count": 2
       },
       {
@@ -149,7 +149,7 @@
         "count": 1
       },
       {
-        "score": "3-2",
+        "score": "3-0",
         "count": 1
       },
       {
@@ -164,12 +164,15 @@
     "others_count": 0
   },
   "analysis": {
-    "crowd_modal_score": "1-1",
-    "crowd_modal_outcome": "DRAW",
+    "crowd_modal_score": "2-1",
+    "crowd_modal_outcome": "HOME",
     "market_favourite_outcome": "HOME",
-    "exact_correct": null,
-    "exact_correct_pct": null,
-    "outcome_correct": null,
-    "outcome_correct_pct": null
+    "exact_correct": 0,
+    "exact_correct_pct": 0.0,
+    "outcome_correct": 37,
+    "outcome_correct_pct": 0.44,
+    "crowd_modal_score_correct": false,
+    "crowd_modal_outcome_correct": true,
+    "market_favourite_correct": true
   }
 }

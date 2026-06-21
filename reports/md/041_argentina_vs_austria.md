@@ -4,14 +4,14 @@
 - **Competition:** World Cup 2026 — Group Stage
 - **Kickoff:** Mon 22 Jun 2026, 18:00 BST (17:00 UTC)
 - **Status:** ⚪ UPCOMING
-- **Last updated:** Sat 20 Jun 2026, 09:51 BST
+- **Last updated:** Sun 21 Jun 2026, 10:57 BST
 
 ## Weather at kickoff
 
 - **Venue:** AT&T Stadium, Dallas, USA
-- **Conditions:** ⛈️ Thunderstorm — 33 °C (feels 36 °C)
-- **Humidity:** 54%  ·  **Cloud cover:** 36%
-- **Rain:** 6% chance
+- **Conditions:** ⛈️ Thunderstorm — 30 °C (feels 35 °C)
+- **Humidity:** 71%  ·  **Cloud cover:** 45%
+- **Rain:** 1% chance
 - _Forecast for Mon 22 Jun, 12:00 local time_
 
 ## Result
@@ -22,54 +22,53 @@ _Not yet played._
 
 | Outcome   | Odds | Implied |
 | --------- | ---: | ------: |
-| Argentina | 1.60 |   62.5% |
-| Draw      | 4.20 |   23.8% |
-| Austria   | 6.80 |   14.7% |
+| Argentina | 1.57 |   63.7% |
+| Draw      | 4.30 |   23.3% |
+| Austria   | 7.20 |   13.9% |
 
 ## Betfair Exchange — Correct Score (decimal)
 
 Most-likely first.
 
-| Score |  Odds | Implied |
-| ----- | ----: | ------: |
-| 1-0   |  7.40 |   13.5% |
-| 2-0   |  8.20 |   12.2% |
-| 1-1   |  8.60 |   11.6% |
-| 2-1   |  9.60 |   10.4% |
-| 3-0   | 12.00 |    8.3% |
-| 0-0   | 13.50 |    7.4% |
-| 3-1   | 16.00 |    6.2% |
-| 0-1   | 18.00 |    5.6% |
-| 2-2   | 22.00 |    4.5% |
-| 1-2   | 23.00 |    4.3% |
-| 3-2   | 34.00 |    2.9% |
-| 0-2   | 44.00 |    2.3% |
-| 1-3   | 50.00 |    2.0% |
-| 0-3   | 60.00 |    1.7% |
-| 2-3   | 80.00 |    1.2% |
-| 3-3   | 85.00 |    1.2% |
+| Score |   Odds | Implied |
+| ----- | -----: | ------: |
+| 1-0   |   7.40 |   13.5% |
+| 2-0   |   8.20 |   12.2% |
+| 1-1   |   9.00 |   11.1% |
+| 2-1   |   9.60 |   10.4% |
+| 3-0   |  13.00 |    7.7% |
+| 0-0   |  13.50 |    7.4% |
+| 3-1   |  16.00 |    6.2% |
+| 0-1   |  19.50 |    5.1% |
+| 2-2   |  23.00 |    4.3% |
+| 1-2   |  26.00 |    3.8% |
+| 3-2   |  38.00 |    2.6% |
+| 0-2   |  55.00 |    1.8% |
+| 1-3   | 100.00 |    1.0% |
+| 2-3   | 100.00 |    1.0% |
+| 3-3   | 140.00 |    0.7% |
+| 0-3   | 180.00 |    0.6% |
 
-## topcorner crowd — 65 predictions
+## topcorner crowd — 66 predictions
 
-- **Outcome split:** Argentina 62% · Draw 18% · Austria 20%
+- **Outcome split:** Argentina 68% · Draw 17% · Austria 15%
 - **Most predicted score:** 2-0 (17%)
 
 | Score | Guesses | Share |     |
 | ----- | ------: | ----: | --- |
 | 2-0   |      11 |   17% | ███ |
-| 2-1   |       9 |   14% | ███ |
-| 1-0   |       8 |   12% | ██  |
-| 1-1   |       8 |   12% | ██  |
-| 3-1   |       8 |   12% | ██  |
+| 2-1   |      11 |   17% | ███ |
+| 3-1   |      11 |   17% | ███ |
+| 1-1   |       7 |   11% | ██  |
+| 1-0   |       7 |   11% | ██  |
 | 0-0   |       3 |    5% | █   |
-| 0-1   |       3 |    5% | █   |
 | 4-0   |       3 |    5% | █   |
 | 2-3   |       2 |    3% | █   |
-| 0-4   |       2 |    3% | █   |
+| 4-1   |       2 |    3% | █   |
+| 0-1   |       2 |    3% | █   |
 | 1-2   |       2 |    3% | █   |
 | 0-2   |       1 |    2% |     |
 | 1-4   |       1 |    2% |     |
-| 4-1   |       1 |    2% |     |
 | 2-2   |       1 |    2% |     |
 | 1-3   |       1 |    2% |     |
 | 0-3   |       1 |    2% |     |

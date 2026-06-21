@@ -7,14 +7,14 @@
   "kickoff_utc": "2026-06-24T02:00:00Z",
   "status": "upcoming",
   "frozen": false,
-  "last_updated_utc": "2026-06-20T08:51:01Z",
+  "last_updated_utc": "2026-06-21T09:57:22Z",
   "weather": {
     "local_time": "2026-06-23T20:00",
     "temp_c": 18.2,
-    "feels_c": 20.4,
-    "humidity_pct": 98,
-    "cloud_pct": 75,
-    "precip_prob_pct": 80,
+    "feels_c": 19.4,
+    "humidity_pct": 95,
+    "cloud_pct": 9,
+    "precip_prob_pct": 91,
     "weather_code": 51,
     "emoji": "🌦️",
     "summary": "Light drizzle",
@@ -36,15 +36,15 @@
     "correct_score": [
       {
         "score": "1-0",
-        "odds": 5.8
+        "odds": 6.0
       },
       {
         "score": "2-0",
-        "odds": 6.8
+        "odds": 7.0
       },
       {
         "score": "1-1",
-        "odds": 8.8
+        "odds": 9.4
       },
       {
         "score": "2-1",
@@ -60,7 +60,7 @@
       },
       {
         "score": "0-1",
-        "odds": 16.5
+        "odds": 17.0
       },
       {
         "score": "3-1",
@@ -91,19 +91,19 @@
         "odds": 50.0
       },
       {
-        "score": "3-3",
-        "odds": 50.0
-      },
-      {
         "score": "0-2",
         "odds": 55.0
+      },
+      {
+        "score": "3-3",
+        "odds": 80.0
       }
     ]
   },
   "crowd": {
-    "n": 55,
+    "n": 56,
     "outcome": {
-      "HOME": 33,
+      "HOME": 34,
       "DRAW": 11,
       "AWAY": 11
     },
@@ -141,6 +141,10 @@
         "count": 3
       },
       {
+        "score": "3-0",
+        "count": 2
+      },
+      {
         "score": "3-2",
         "count": 2
       },
@@ -158,10 +162,6 @@
       },
       {
         "score": "0-3",
-        "count": 1
-      },
-      {
-        "score": "3-0",
         "count": 1
       },
       {

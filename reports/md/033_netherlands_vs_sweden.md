@@ -2,21 +2,22 @@
 
 - **Game #:** 33
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Sat 20 Jun 2026, 18:00 BST (17:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Sat 20 Jun 2026, 09:51 BST
+- **Kickoff:** Sat 20 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Sun 21 Jun 2026, 10:57 BST
 
 ## Weather at kickoff
 
 - **Venue:** NRG Stadium, Houston, USA
-- **Conditions:** ☁️ Overcast — 26 °C (feels 30 °C)
-- **Humidity:** 90%  ·  **Cloud cover:** 99%
-- **Rain:** 15% chance
-- _Forecast for Sat 20 Jun, 12:00 local time_
+- **Conditions:** ⛈️ Thunderstorm — 27 °C (feels 32 °C)
+- **Humidity:** 92%  ·  **Cloud cover:** 64%
+- **Rain:** 23% chance
+- _Observed at Sat 20 Jun, 06:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 5 – 1
+- **Outcome:** Netherlands (HOME)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -28,7 +29,7 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
@@ -49,31 +50,32 @@ Most-likely first.
 | 3-3   |  65.00 |    1.5% |
 | 0-3   | 110.00 |    0.9% |
 
-## topcorner crowd — 82 predictions
+## topcorner crowd — 84 predictions
 
-- **Outcome split:** Netherlands 44% · Draw 44% · Sweden 12%
-- **Most predicted score:** 1-1 (26%)
+- **Outcome split:** Netherlands 44% · Draw 40% · Sweden 15%
+- **Most predicted score:** 2-1 (26%)
 
 | Score | Guesses | Share |       |
 | ----- | ------: | ----: | ----- |
-| 1-1   |      21 |   26% | █████ |
-| 2-1   |      19 |   23% | █████ |
-| 2-2   |      15 |   18% | ████  |
-| 1-0   |       6 |    7% | █     |
-| 1-2   |       5 |    6% | █     |
+| 2-1   |      22 |   26% | █████ |
+| 1-1   |      20 |   24% | █████ |
+| 2-2   |      14 |   17% | ███   |
+| 1-2   |       7 |    8% | ██    |
 | 2-0   |       5 |    6% | █     |
+| 1-0   |       4 |    5% | █     |
 | 3-1   |       3 |    4% | █     |
-| 3-0   |       2 |    2% |       |
-| 2-3   |       2 |    2% |       |
+| 2-3   |       3 |    4% | █     |
+| 3-2   |       2 |    2% |       |
 | 1-3   |       1 |    1% |       |
-| 3-2   |       1 |    1% |       |
+| 3-0   |       1 |    1% |       |
 | 0-2   |       1 |    1% |       |
 | 0-1   |       1 |    1% |       |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 1-1
-- Crowd modal outcome: DRAW
-- Market favourite: HOME
+- **Actual score:** 5-1 (HOME)
+- **Exact score correctly predicted by:** 0 / 84 (0%)
+- **Outcome correctly predicted by:** 37 / 84 (44%)
+- **Crowd modal score:** 2-1 — ❌ wrong
+- **Crowd modal outcome:** HOME — ✅ right
+- **Market favourite:** HOME — ✅ correct

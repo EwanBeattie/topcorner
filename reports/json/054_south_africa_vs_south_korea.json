@@ -1,26 +1,26 @@
 {
-  "number": 44,
-  "match": "Jordan vs Algeria",
-  "home": "Jordan",
-  "away": "Algeria",
+  "number": 54,
+  "match": "South Africa vs South Korea",
+  "home": "South Africa",
+  "away": "South Korea",
   "competition": "World Cup 2026",
-  "kickoff_utc": "2026-06-23T03:00:00Z",
+  "kickoff_utc": "2026-06-25T01:00:00Z",
   "status": "upcoming",
   "frozen": false,
   "last_updated_utc": "2026-06-21T09:57:22Z",
   "weather": {
-    "local_time": "2026-06-22T20:00",
-    "temp_c": 16.6,
-    "feels_c": 15.3,
-    "humidity_pct": 76,
-    "cloud_pct": 2,
+    "local_time": "2026-06-24T19:00",
+    "temp_c": 30.6,
+    "feels_c": 29.5,
+    "humidity_pct": 41,
+    "cloud_pct": 0,
     "precip_prob_pct": 0,
     "weather_code": 0,
     "emoji": "☀️",
     "summary": "Clear",
     "source": "forecast",
-    "venue": "Levi's Stadium, San Francisco Bay Area, USA",
-    "city": "bay_area"
+    "venue": "Estadio BBVA, Monterrey, Mexico",
+    "city": "monterrey"
   },
   "result": {
     "home_goals": null,
@@ -29,135 +29,135 @@
   },
   "betfair": {
     "match_odds": {
-      "home": 6.4,
-      "draw": 4.2,
-      "away": 1.63
+      "home": 6.2,
+      "draw": 4.1,
+      "away": 1.66
     },
     "correct_score": [
       {
         "score": "0-1",
-        "odds": 7.6
+        "odds": 6.8
       },
       {
         "score": "0-2",
-        "odds": 8.6
+        "odds": 8.2
       },
       {
         "score": "1-1",
-        "odds": 8.8
+        "odds": 8.6
       },
       {
         "score": "1-2",
-        "odds": 9.6
+        "odds": 9.4
       },
       {
         "score": "0-0",
-        "odds": 13.5
+        "odds": 11.5
+      },
+      {
+        "score": "3-3",
+        "odds": 13.0
+      },
+      {
+        "score": "3-0",
+        "odds": 14.0
       },
       {
         "score": "0-3",
         "odds": 14.5
       },
       {
-        "score": "1-3",
+        "score": "1-0",
         "odds": 16.0
       },
       {
-        "score": "1-0",
-        "odds": 17.5
+        "score": "1-3",
+        "odds": 16.5
+      },
+      {
+        "score": "2-1",
+        "odds": 21.0
       },
       {
         "score": "2-2",
         "odds": 22.0
       },
       {
-        "score": "2-1",
-        "odds": 23.0
-      },
-      {
         "score": "2-3",
-        "odds": 34.0
-      },
-      {
-        "score": "2-0",
-        "odds": 46.0
-      },
-      {
-        "score": "3-0",
-        "odds": 46.0
-      },
-      {
-        "score": "3-3",
-        "odds": 46.0
-      },
-      {
-        "score": "3-2",
-        "odds": 80.0
+        "odds": 36.0
       },
       {
         "score": "3-1",
-        "odds": 85.0
+        "odds": 38.0
+      },
+      {
+        "score": "3-2",
+        "odds": 38.0
+      },
+      {
+        "score": "2-0",
+        "odds": 44.0
       }
     ]
   },
   "crowd": {
-    "n": 61,
+    "n": 53,
     "outcome": {
-      "HOME": 14,
-      "DRAW": 21,
-      "AWAY": 26
+      "HOME": 13,
+      "DRAW": 12,
+      "AWAY": 28
     },
     "scores": [
       {
+        "score": "0-2",
+        "count": 9
+      },
+      {
         "score": "1-1",
-        "count": 12
-      },
-      {
-        "score": "0-1",
-        "count": 10
-      },
-      {
-        "score": "1-2",
         "count": 8
       },
       {
-        "score": "0-0",
+        "score": "2-1",
         "count": 6
       },
       {
-        "score": "0-2",
+        "score": "1-2",
+        "count": 6
+      },
+      {
+        "score": "0-1",
         "count": 4
       },
       {
-        "score": "2-1",
-        "count": 4
+        "score": "0-0",
+        "count": 3
+      },
+      {
+        "score": "1-3",
+        "count": 3
+      },
+      {
+        "score": "1-4",
+        "count": 2
       },
       {
         "score": "1-0",
-        "count": 3
-      },
-      {
-        "score": "2-0",
-        "count": 3
-      },
-      {
-        "score": "2-2",
-        "count": 3
+        "count": 2
       },
       {
         "score": "3-2",
         "count": 2
       },
       {
-        "score": "1-3",
+        "score": "2-4",
         "count": 2
       },
       {
-        "score": "3-1",
+        "score": "4-2",
         "count": 1
       },
       {
-        "score": "2-4",
+        "score": "2-2",
         "count": 1
       },
       {
@@ -165,14 +165,22 @@
         "count": 1
       },
       {
-        "score": "4-0",
+        "score": "3-0",
+        "count": 1
+      },
+      {
+        "score": "0-3",
+        "count": 1
+      },
+      {
+        "score": "3-1",
         "count": 1
       }
     ],
     "others_count": 0
   },
   "analysis": {
-    "crowd_modal_score": "1-1",
+    "crowd_modal_score": "0-2",
     "crowd_modal_outcome": "AWAY",
     "market_favourite_outcome": "AWAY",
     "exact_correct": null,
