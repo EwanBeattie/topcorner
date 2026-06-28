@@ -4,28 +4,28 @@
   "home": "Spain",
   "away": "Saudi Arabia",
   "competition": "World Cup 2026",
-  "kickoff_utc": "2026-06-21T16:00:00Z",
-  "status": "upcoming",
-  "frozen": false,
-  "last_updated_utc": "2026-06-21T09:57:21Z",
+  "kickoff_utc": "2026-06-21T11:00:00Z",
+  "status": "played",
+  "frozen": true,
+  "last_updated_utc": "2026-06-28T16:55:52Z",
   "weather": {
-    "local_time": "2026-06-21T12:00",
-    "temp_c": 27.4,
-    "feels_c": 31.5,
-    "humidity_pct": 65,
-    "cloud_pct": 26,
+    "local_time": "2026-06-21T07:00",
+    "temp_c": 21.5,
+    "feels_c": 24.8,
+    "humidity_pct": 95,
+    "cloud_pct": 100,
     "precip_prob_pct": 0,
-    "weather_code": 1,
-    "emoji": "🌤️",
-    "summary": "Mainly clear",
-    "source": "forecast",
+    "weather_code": 3,
+    "emoji": "☁️",
+    "summary": "Overcast",
+    "source": "observed",
     "venue": "Mercedes-Benz Stadium, Atlanta, USA",
     "city": "atlanta"
   },
   "result": {
-    "home_goals": null,
-    "away_goals": null,
-    "outcome": null
+    "home_goals": 4,
+    "away_goals": 0,
+    "outcome": "HOME"
   },
   "betfair": {
     "match_odds": {
@@ -101,36 +101,40 @@
     ]
   },
   "crowd": {
-    "n": 79,
+    "n": 82,
     "outcome": {
-      "HOME": 69,
+      "HOME": 74,
       "DRAW": 5,
-      "AWAY": 5
+      "AWAY": 3
     },
     "scores": [
       {
         "score": "3-0",
-        "count": 25
+        "count": 26
       },
       {
         "score": "2-0",
-        "count": 12
+        "count": 13
       },
       {
         "score": "3-1",
-        "count": 10
+        "count": 12
       },
       {
         "score": "4-0",
-        "count": 6
+        "count": 8
       },
       {
         "score": "2-1",
-        "count": 5
+        "count": 4
       },
       {
         "score": "4-1",
-        "count": 4
+        "count": 3
+      },
+      {
+        "score": "5-0",
+        "count": 3
       },
       {
         "score": "1-0",
@@ -145,23 +149,11 @@
         "count": 2
       },
       {
-        "score": "5-0",
-        "count": 2
-      },
-      {
         "score": "1-1",
         "count": 2
       },
       {
         "score": "6-0",
-        "count": 1
-      },
-      {
-        "score": "0-4",
-        "count": 1
-      },
-      {
-        "score": "1-3",
         "count": 1
       },
       {
@@ -183,9 +175,12 @@
     "crowd_modal_score": "3-0",
     "crowd_modal_outcome": "HOME",
     "market_favourite_outcome": "HOME",
-    "exact_correct": null,
-    "exact_correct_pct": null,
-    "outcome_correct": null,
-    "outcome_correct_pct": null
+    "exact_correct": 8,
+    "exact_correct_pct": 0.098,
+    "outcome_correct": 74,
+    "outcome_correct_pct": 0.902,
+    "crowd_modal_score_correct": false,
+    "crowd_modal_outcome_correct": true,
+    "market_favourite_correct": true
   }
 }

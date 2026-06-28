@@ -2,21 +2,22 @@
 
 - **Game #:** 51
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Wed 24 Jun 2026, 23:00 BST (22:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Sun 21 Jun 2026, 10:57 BST
+- **Kickoff:** Wed 24 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Sun 28 Jun 2026, 17:55 BST
 
 ## Weather at kickoff
 
 - **Venue:** Mercedes-Benz Stadium, Atlanta, USA
-- **Conditions:** ☀️ Clear — 33 °C (feels 32 °C)
-- **Humidity:** 31%  ·  **Cloud cover:** 5%
-- **Rain:** 22% chance
-- _Forecast for Wed 24 Jun, 18:00 local time_
+- **Conditions:** ☀️ Clear — 18 °C (feels 19 °C)
+- **Humidity:** 93%  ·  **Cloud cover:** 3%
+- **Rain:** 0% chance
+- _Observed at Wed 24 Jun, 07:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 4 – 2
+- **Outcome:** Morocco (HOME)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -28,7 +29,7 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |  Odds | Implied |
 | ----- | ----: | ------: |
@@ -49,33 +50,30 @@ Most-likely first.
 | 1-3   | 90.00 |    1.1% |
 | 0-3   | 95.00 |    1.1% |
 
-## topcorner crowd — 54 predictions
+## topcorner crowd — 81 predictions
 
-- **Outcome split:** Morocco 63% · Draw 19% · Haiti 19%
-- **Most predicted score:** 2-0 (17%)
+- **Outcome split:** Morocco 94% · Draw 5% · Haiti 1%
+- **Most predicted score:** 3-0 (32%)
 
-| Score | Guesses | Share |     |
-| ----- | ------: | ----: | --- |
-| 2-0   |       9 |   17% | ███ |
-| 1-0   |       8 |   15% | ███ |
-| 2-1   |       6 |   11% | ██  |
-| 3-0   |       5 |    9% | ██  |
-| 1-1   |       5 |    9% | ██  |
-| 1-2   |       5 |    9% | ██  |
-| 4-1   |       3 |    6% | █   |
-| 0-0   |       3 |    6% | █   |
-| 3-2   |       2 |    4% | █   |
-| 0-3   |       2 |    4% | █   |
-| 2-2   |       2 |    4% | █   |
-| 3-1   |       1 |    2% |     |
-| 0-2   |       1 |    2% |     |
-| 3-4   |       1 |    2% |     |
-| 0-1   |       1 |    2% |     |
+| Score | Guesses | Share |        |
+| ----- | ------: | ----: | ------ |
+| 3-0   |      26 |   32% | ██████ |
+| 2-0   |      21 |   26% | █████  |
+| 4-0   |       8 |   10% | ██     |
+| 2-1   |       8 |   10% | ██     |
+| 1-0   |       7 |    9% | ██     |
+| 3-1   |       3 |    4% | █      |
+| 1-1   |       3 |    4% | █      |
+| 4-1   |       2 |    2% |        |
+| 5-1   |       1 |    1% |        |
+| 0-3   |       1 |    1% |        |
+| 2-2   |       1 |    1% |        |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 2-0
-- Crowd modal outcome: HOME
-- Market favourite: HOME
+- **Actual score:** 4-2 (HOME)
+- **Exact score correctly predicted by:** 0 / 81 (0%)
+- **Outcome correctly predicted by:** 76 / 81 (94%)
+- **Crowd modal score:** 3-0 — ❌ wrong
+- **Crowd modal outcome:** HOME — ✅ right
+- **Market favourite:** HOME — ✅ correct

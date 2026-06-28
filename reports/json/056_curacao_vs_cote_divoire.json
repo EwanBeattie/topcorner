@@ -1,0 +1,114 @@
+{
+  "number": 56,
+  "match": "Curaçao vs Côte d'Ivoire",
+  "home": "Curaçao",
+  "away": "Côte d'Ivoire",
+  "competition": "World Cup 2026",
+  "kickoff_utc": "2026-06-25T11:00:00Z",
+  "status": "played",
+  "frozen": true,
+  "last_updated_utc": "2026-06-28T16:55:52Z",
+  "weather": {
+    "local_time": "2026-06-25T07:00",
+    "temp_c": 18.4,
+    "feels_c": 20.3,
+    "humidity_pct": 90,
+    "cloud_pct": 1,
+    "precip_prob_pct": 0,
+    "weather_code": 0,
+    "emoji": "☀️",
+    "summary": "Clear",
+    "source": "observed",
+    "venue": "Lincoln Financial Field, Philadelphia, USA",
+    "city": "philadelphia"
+  },
+  "result": {
+    "home_goals": 0,
+    "away_goals": 2,
+    "outcome": "AWAY"
+  },
+  "betfair": null,
+  "crowd": {
+    "n": 82,
+    "outcome": {
+      "HOME": 10,
+      "DRAW": 13,
+      "AWAY": 59
+    },
+    "scores": [
+      {
+        "score": "1-2",
+        "count": 16
+      },
+      {
+        "score": "0-2",
+        "count": 15
+      },
+      {
+        "score": "1-3",
+        "count": 9
+      },
+      {
+        "score": "1-1",
+        "count": 9
+      },
+      {
+        "score": "0-3",
+        "count": 8
+      },
+      {
+        "score": "0-1",
+        "count": 8
+      },
+      {
+        "score": "2-1",
+        "count": 5
+      },
+      {
+        "score": "2-2",
+        "count": 3
+      },
+      {
+        "score": "1-0",
+        "count": 3
+      },
+      {
+        "score": "0-0",
+        "count": 1
+      },
+      {
+        "score": "0-4",
+        "count": 1
+      },
+      {
+        "score": "1-4",
+        "count": 1
+      },
+      {
+        "score": "2-3",
+        "count": 1
+      },
+      {
+        "score": "4-0",
+        "count": 1
+      },
+      {
+        "score": "2-0",
+        "count": 1
+      }
+    ],
+    "others_count": 0
+  },
+  "analysis": {
+    "crowd_modal_score": "1-2",
+    "crowd_modal_outcome": "AWAY",
+    "market_favourite_outcome": null,
+    "exact_correct": 15,
+    "exact_correct_pct": 0.183,
+    "outcome_correct": 59,
+    "outcome_correct_pct": 0.72,
+    "crowd_modal_score_correct": false,
+    "crowd_modal_outcome_correct": true,
+    "market_favourite_correct": null
+  }
+}

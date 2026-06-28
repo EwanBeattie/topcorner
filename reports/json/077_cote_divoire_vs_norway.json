@@ -1,0 +1,170 @@
+{
+  "number": 77,
+  "match": "Ivory Coast vs Norway",
+  "home": "Ivory Coast",
+  "away": "Norway",
+  "competition": "World Cup 2026",
+  "kickoff_utc": "2026-06-30T17:00:00Z",
+  "status": "upcoming",
+  "frozen": false,
+  "last_updated_utc": "2026-06-28T16:55:53Z",
+  "weather": null,
+  "result": {
+    "home_goals": null,
+    "away_goals": null,
+    "outcome": null
+  },
+  "betfair": {
+    "match_odds": {
+      "home": 3.95,
+      "draw": 3.6,
+      "away": 2.1
+    },
+    "correct_score": [
+      {
+        "score": "1-1",
+        "odds": 7.8
+      },
+      {
+        "score": "0-1",
+        "odds": 9.6
+      },
+      {
+        "score": "1-2",
+        "odds": 10.0
+      },
+      {
+        "score": "0-2",
+        "odds": 13.0
+      },
+      {
+        "score": "0-0",
+        "odds": 14.0
+      },
+      {
+        "score": "1-0",
+        "odds": 14.0
+      },
+      {
+        "score": "2-1",
+        "odds": 14.0
+      },
+      {
+        "score": "2-2",
+        "odds": 15.0
+      },
+      {
+        "score": "1-3",
+        "odds": 19.0
+      },
+      {
+        "score": "0-3",
+        "odds": 22.0
+      },
+      {
+        "score": "2-0",
+        "odds": 26.0
+      },
+      {
+        "score": "2-3",
+        "odds": 30.0
+      },
+      {
+        "score": "3-1",
+        "odds": 40.0
+      },
+      {
+        "score": "3-2",
+        "odds": 46.0
+      },
+      {
+        "score": "3-3",
+        "odds": 55.0
+      },
+      {
+        "score": "3-0",
+        "odds": 65.0
+      }
+    ]
+  },
+  "crowd": {
+    "n": 67,
+    "outcome": {
+      "HOME": 17,
+      "DRAW": 19,
+      "AWAY": 31
+    },
+    "scores": [
+      {
+        "score": "1-2",
+        "count": 16
+      },
+      {
+        "score": "1-1",
+        "count": 11
+      },
+      {
+        "score": "1-0",
+        "count": 6
+      },
+      {
+        "score": "2-2",
+        "count": 6
+      },
+      {
+        "score": "2-1",
+        "count": 6
+      },
+      {
+        "score": "0-2",
+        "count": 5
+      },
+      {
+        "score": "0-1",
+        "count": 5
+      },
+      {
+        "score": "1-3",
+        "count": 3
+      },
+      {
+        "score": "3-1",
+        "count": 2
+      },
+      {
+        "score": "0-0",
+        "count": 2
+      },
+      {
+        "score": "3-2",
+        "count": 1
+      },
+      {
+        "score": "4-0",
+        "count": 1
+      },
+      {
+        "score": "2-4",
+        "count": 1
+      },
+      {
+        "score": "2-0",
+        "count": 1
+      },
+      {
+        "score": "0-3",
+        "count": 1
+      }
+    ],
+    "others_count": 0
+  },
+  "analysis": {
+    "crowd_modal_score": "1-2",
+    "crowd_modal_outcome": "AWAY",
+    "market_favourite_outcome": "AWAY",
+    "exact_correct": null,
+    "exact_correct_pct": null,
+    "outcome_correct": null,
+    "outcome_correct_pct": null
+  }
+}

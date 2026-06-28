@@ -2,21 +2,22 @@
 
 - **Game #:** 54
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Thu 25 Jun 2026, 02:00 BST (01:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Sun 21 Jun 2026, 10:57 BST
+- **Kickoff:** Thu 25 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Sun 28 Jun 2026, 17:55 BST
 
 ## Weather at kickoff
 
 - **Venue:** Estadio BBVA, Monterrey, Mexico
-- **Conditions:** ☀️ Clear — 31 °C (feels 30 °C)
-- **Humidity:** 41%  ·  **Cloud cover:** 0%
+- **Conditions:** ☀️ Clear — 23 °C (feels 26 °C)
+- **Humidity:** 86%  ·  **Cloud cover:** 2%
 - **Rain:** 0% chance
-- _Forecast for Wed 24 Jun, 19:00 local time_
+- _Observed at Thu 25 Jun, 05:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 1 – 0
+- **Outcome:** South Africa (HOME)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -28,7 +29,7 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |  Odds | Implied |
 | ----- | ----: | ------: |
@@ -40,7 +41,7 @@ Most-likely first.
 | 3-3   | 13.00 |    7.7% |
 | 3-0   | 14.00 |    7.1% |
 | 0-3   | 14.50 |    6.9% |
-| 1-0   | 16.00 |    6.2% |
+| 1-0 ✅ | 16.00 |    6.2% |
 | 1-3   | 16.50 |    6.1% |
 | 2-1   | 21.00 |    4.8% |
 | 2-2   | 22.00 |    4.5% |
@@ -49,35 +50,36 @@ Most-likely first.
 | 3-2   | 38.00 |    2.6% |
 | 2-0   | 44.00 |    2.3% |
 
-## topcorner crowd — 53 predictions
+## topcorner crowd — 80 predictions
 
-- **Outcome split:** South Africa 25% · Draw 23% · South Korea 53%
-- **Most predicted score:** 0-2 (17%)
+- **Outcome split:** South Africa 11% · Draw 19% · South Korea 70%
+- **Most predicted score:** 0-2 (24%)
 
-| Score | Guesses | Share |     |
-| ----- | ------: | ----: | --- |
-| 0-2   |       9 |   17% | ███ |
-| 1-1   |       8 |   15% | ███ |
-| 2-1   |       6 |   11% | ██  |
-| 1-2   |       6 |   11% | ██  |
-| 0-1   |       4 |    8% | ██  |
-| 0-0   |       3 |    6% | █   |
-| 1-3   |       3 |    6% | █   |
-| 1-4   |       2 |    4% | █   |
-| 1-0   |       2 |    4% | █   |
-| 3-2   |       2 |    4% | █   |
-| 2-4   |       2 |    4% | █   |
-| 4-2   |       1 |    2% |     |
-| 2-2   |       1 |    2% |     |
-| 2-3   |       1 |    2% |     |
-| 3-0   |       1 |    2% |     |
-| 0-3   |       1 |    2% |     |
-| 3-1   |       1 |    2% |     |
+| Score | Guesses | Share |       |
+| ----- | ------: | ----: | ----- |
+| 0-2   |      19 |   24% | █████ |
+| 1-2   |      16 |   20% | ████  |
+| 0-1   |      10 |   12% | ██    |
+| 1-1   |      10 |   12% | ██    |
+| 1-3   |       5 |    6% | █     |
+| 2-1   |       3 |    4% | █     |
+| 2-2   |       3 |    4% | █     |
+| 1-0 ✅ |       2 |    2% |       |
+| 0-0   |       2 |    2% |       |
+| 1-4   |       2 |    2% |       |
+| 2-4   |       2 |    2% |       |
+| 3-2   |       1 |    1% |       |
+| 4-2   |       1 |    1% |       |
+| 3-0   |       1 |    1% |       |
+| 2-3   |       1 |    1% |       |
+| 0-3   |       1 |    1% |       |
+| 3-1   |       1 |    1% |       |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 0-2
-- Crowd modal outcome: AWAY
-- Market favourite: AWAY
+- **Actual score:** 1-0 (HOME)
+- **Exact score correctly predicted by:** 2 / 80 (2%)
+- **Outcome correctly predicted by:** 9 / 80 (11%)
+- **Crowd modal score:** 0-2 — ❌ wrong
+- **Crowd modal outcome:** AWAY — ❌ wrong
+- **Market favourite:** AWAY — ❌ wrong

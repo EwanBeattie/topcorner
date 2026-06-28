@@ -2,21 +2,22 @@
 
 - **Game #:** 43
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Tue 23 Jun 2026, 01:00 BST (00:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Sun 21 Jun 2026, 10:57 BST
+- **Kickoff:** Tue 23 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Sun 28 Jun 2026, 17:55 BST
 
 ## Weather at kickoff
 
 - **Venue:** MetLife Stadium, New York/New Jersey, USA
-- **Conditions:** ☁️ Overcast — 23 °C (feels 22 °C)
-- **Humidity:** 76%  ·  **Cloud cover:** 100%
-- **Rain:** 79% chance
-- _Forecast for Mon 22 Jun, 20:00 local time_
+- **Conditions:** ☁️ Overcast — 21 °C (feels 25 °C)
+- **Humidity:** 99%  ·  **Cloud cover:** 100%
+- **Rain:** 20% chance
+- _Observed at Tue 23 Jun, 07:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 3 – 2
+- **Outcome:** Norway (HOME)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -28,7 +29,7 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |  Odds | Implied |
 | ----- | ----: | ------: |
@@ -44,36 +45,39 @@ Most-likely first.
 | 3-1   | 22.00 |    4.5% |
 | 3-0   | 29.00 |    3.4% |
 | 1-3   | 32.00 |    3.1% |
-| 3-2   | 34.00 |    2.9% |
+| 3-2 ✅ | 34.00 |    2.9% |
 | 2-3   | 42.00 |    2.4% |
 | 0-3   | 50.00 |    2.0% |
 | 3-3   | 75.00 |    1.3% |
 
-## topcorner crowd — 61 predictions
+## topcorner crowd — 82 predictions
 
-- **Outcome split:** Norway 33% · Draw 38% · Senegal 30%
-- **Most predicted score:** 1-1 (23%)
+- **Outcome split:** Norway 43% · Draw 35% · Senegal 22%
+- **Most predicted score:** 2-1 (22%)
 
-| Score | Guesses | Share |       |
-| ----- | ------: | ----: | ----- |
-| 1-1   |      14 |   23% | █████ |
-| 2-1   |       8 |   13% | ███   |
-| 2-2   |       8 |   13% | ███   |
-| 1-2   |       8 |   13% | ███   |
-| 0-1   |       5 |    8% | ██    |
-| 3-1   |       5 |    8% | ██    |
-| 0-2   |       3 |    5% | █     |
-| 3-2   |       3 |    5% | █     |
-| 1-0   |       2 |    3% | █     |
-| 2-0   |       2 |    3% | █     |
-| 3-3   |       1 |    2% |       |
-| 2-3   |       1 |    2% |       |
-| 0-3   |       1 |    2% |       |
+| Score | Guesses | Share |      |
+| ----- | ------: | ----: | ---- |
+| 2-1   |      18 |   22% | ████ |
+| 1-1   |      15 |   18% | ████ |
+| 2-2   |      12 |   15% | ███  |
+| 1-2   |       7 |    9% | ██   |
+| 3-2 ✅ |       6 |    7% | █    |
+| 3-1   |       4 |    5% | █    |
+| 0-1   |       4 |    5% | █    |
+| 1-0   |       3 |    4% | █    |
+| 1-3   |       3 |    4% | █    |
+| 2-0   |       3 |    4% | █    |
+| 3-3   |       2 |    2% |      |
+| 0-2   |       2 |    2% |      |
+| 2-3   |       1 |    1% |      |
+| 3-0   |       1 |    1% |      |
+| 0-3   |       1 |    1% |      |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 1-1
-- Crowd modal outcome: DRAW
-- Market favourite: HOME
+- **Actual score:** 3-2 (HOME)
+- **Exact score correctly predicted by:** 6 / 82 (7%)
+- **Outcome correctly predicted by:** 35 / 82 (43%)
+- **Crowd modal score:** 2-1 — ❌ wrong
+- **Crowd modal outcome:** HOME — ✅ right
+- **Market favourite:** HOME — ✅ correct

@@ -1,0 +1,71 @@
+# South Africa vs Canada
+
+- **Game #:** 73
+- **Competition:** World Cup 2026 — Group Stage
+- **Kickoff:** Sun 28 Jun 2026, 20:00 BST (19:00 UTC)
+- **Status:** ⚪ UPCOMING
+- **Last updated:** Sun 28 Jun 2026, 17:55 BST
+
+## Result
+
+_Not yet played._
+
+## Betfair Exchange — Match Odds (decimal)
+
+| Outcome      | Odds | Implied |
+| ------------ | ---: | ------: |
+| South Africa | 6.00 |   16.7% |
+| Draw         | 3.65 |   27.4% |
+| Canada       | 1.77 |   56.5% |
+
+## Betfair Exchange — Correct Score (decimal)
+
+Most-likely first.
+
+| Score |   Odds | Implied |
+| ----- | -----: | ------: |
+| 0-1   |   7.00 |   14.3% |
+| 1-1   |   7.60 |   13.2% |
+| 0-2   |   8.00 |   12.5% |
+| 0-0   |  10.00 |   10.0% |
+| 1-2   |  10.00 |   10.0% |
+| 1-0   |  15.50 |    6.5% |
+| 0-3   |  17.50 |    5.7% |
+| 1-3   |  18.50 |    5.4% |
+| 2-1   |  22.00 |    4.5% |
+| 2-2   |  26.00 |    3.8% |
+| 2-0   |  40.00 |    2.5% |
+| 2-3   |  50.00 |    2.0% |
+| 3-1   | 100.00 |    1.0% |
+| 3-2   | 100.00 |    1.0% |
+| 3-3   | 150.00 |    0.7% |
+| 3-0   | 190.00 |    0.5% |
+
+## topcorner crowd — 71 predictions
+
+- **Outcome split:** South Africa 25% · Draw 23% · Canada 52%
+- **Most predicted score:** 1-2 (24%)
+
+| Score | Guesses | Share |       |
+| ----- | ------: | ----: | ----- |
+| 1-2   |      17 |   24% | █████ |
+| 1-1   |      11 |   15% | ███   |
+| 2-1   |       7 |   10% | ██    |
+| 0-1   |       6 |    8% | ██    |
+| 0-2   |       6 |    8% | ██    |
+| 2-0   |       5 |    7% | █     |
+| 1-3   |       5 |    7% | █     |
+| 1-0   |       4 |    6% | █     |
+| 2-2   |       3 |    4% | █     |
+| 2-3   |       3 |    4% | █     |
+| 0-0   |       2 |    3% | █     |
+| 3-1   |       1 |    1% |       |
+| 5-3   |       1 |    1% |       |
+
+## Analysis
+
+_Filled once the game has been played._
+
+- Crowd modal score: 1-2
+- Crowd modal outcome: AWAY
+- Market favourite: AWAY

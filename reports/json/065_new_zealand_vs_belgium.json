@@ -1,0 +1,118 @@
+{
+  "number": 65,
+  "match": "New Zealand vs Belgium",
+  "home": "New Zealand",
+  "away": "Belgium",
+  "competition": "World Cup 2026",
+  "kickoff_utc": "2026-06-27T11:00:00Z",
+  "status": "played",
+  "frozen": true,
+  "last_updated_utc": "2026-06-28T16:55:53Z",
+  "weather": {
+    "local_time": "2026-06-27T04:00",
+    "temp_c": 10.3,
+    "feels_c": 8.6,
+    "humidity_pct": 88,
+    "cloud_pct": 50,
+    "precip_prob_pct": 3,
+    "weather_code": 2,
+    "emoji": "⛅",
+    "summary": "Partly cloudy",
+    "source": "observed",
+    "venue": "BC Place, Vancouver, Canada",
+    "city": "vancouver"
+  },
+  "result": {
+    "home_goals": 1,
+    "away_goals": 5,
+    "outcome": "AWAY"
+  },
+  "betfair": null,
+  "crowd": {
+    "n": 81,
+    "outcome": {
+      "HOME": 8,
+      "DRAW": 11,
+      "AWAY": 62
+    },
+    "scores": [
+      {
+        "score": "0-2",
+        "count": 16
+      },
+      {
+        "score": "1-2",
+        "count": 15
+      },
+      {
+        "score": "1-3",
+        "count": 10
+      },
+      {
+        "score": "0-3",
+        "count": 9
+      },
+      {
+        "score": "1-1",
+        "count": 8
+      },
+      {
+        "score": "0-1",
+        "count": 5
+      },
+      {
+        "score": "2-1",
+        "count": 4
+      },
+      {
+        "score": "1-0",
+        "count": 3
+      },
+      {
+        "score": "2-3",
+        "count": 2
+      },
+      {
+        "score": "0-4",
+        "count": 2
+      },
+      {
+        "score": "0-0",
+        "count": 2
+      },
+      {
+        "score": "0-5",
+        "count": 1
+      },
+      {
+        "score": "2-4",
+        "count": 1
+      },
+      {
+        "score": "1-4",
+        "count": 1
+      },
+      {
+        "score": "2-0",
+        "count": 1
+      },
+      {
+        "score": "2-2",
+        "count": 1
+      }
+    ],
+    "others_count": 0
+  },
+  "analysis": {
+    "crowd_modal_score": "0-2",
+    "crowd_modal_outcome": "AWAY",
+    "market_favourite_outcome": null,
+    "exact_correct": 0,
+    "exact_correct_pct": 0.0,
+    "outcome_correct": 62,
+    "outcome_correct_pct": 0.765,
+    "crowd_modal_score_correct": false,
+    "crowd_modal_outcome_correct": true,
+    "market_favourite_correct": null
+  }
+}

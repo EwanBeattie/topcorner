@@ -1,22 +1,23 @@
-# Uruguay vs Cape Verde
+# Uruguay vs Cabo Verde
 
 - **Game #:** 39
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Sun 21 Jun 2026, 23:00 BST (22:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Sun 21 Jun 2026, 10:57 BST
+- **Kickoff:** Sun 21 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Sun 28 Jun 2026, 17:55 BST
 
 ## Weather at kickoff
 
 - **Venue:** Hard Rock Stadium, Miami, USA
-- **Conditions:** ⛈️ Thunderstorm — 30 °C (feels 34 °C)
-- **Humidity:** 70%  ·  **Cloud cover:** 100%
-- **Rain:** 25% chance
-- _Forecast for Sun 21 Jun, 18:00 local time_
+- **Conditions:** ☀️ Clear — 25 °C (feels 30 °C)
+- **Humidity:** 93%  ·  **Cloud cover:** 0%
+- **Rain:** 0% chance
+- _Observed at Sun 21 Jun, 07:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 2 – 2
+- **Outcome:** Draw (DRAW)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -24,11 +25,11 @@ _Not yet played._
 | ---------- | ---: | ------: |
 | Uruguay    | 1.48 |   67.6% |
 | Draw       | 4.40 |   22.7% |
-| Cape Verde | 9.60 |   10.4% |
+| Cabo Verde | 9.60 |   10.4% |
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
@@ -40,7 +41,7 @@ Most-likely first.
 | 3-0   |  12.00 |    8.3% |
 | 0-1   |  20.00 |    5.0% |
 | 3-1   |  20.00 |    5.0% |
-| 2-2   |  36.00 |    2.8% |
+| 2-2 ✅ |  36.00 |    2.8% |
 | 1-2   |  38.00 |    2.6% |
 | 3-2   |  60.00 |    1.7% |
 | 0-2   |  70.00 |    1.4% |
@@ -49,33 +50,34 @@ Most-likely first.
 | 1-3   | 210.00 |    0.5% |
 | 3-3   | 250.00 |    0.4% |
 
-## topcorner crowd — 76 predictions
+## topcorner crowd — 82 predictions
 
-- **Outcome split:** Uruguay 70% · Draw 18% · Cape Verde 12%
-- **Most predicted score:** 2-0 (21%)
+- **Outcome split:** Uruguay 73% · Draw 17% · Cabo Verde 10%
+- **Most predicted score:** 2-0 (20%)
 
 | Score | Guesses | Share |      |
 | ----- | ------: | ----: | ---- |
-| 2-0   |      16 |   21% | ████ |
-| 3-0   |      11 |   14% | ███  |
-| 1-0   |      10 |   13% | ███  |
-| 1-1   |      10 |   13% | ███  |
-| 2-1   |       6 |    8% | ██   |
-| 3-1   |       5 |    7% | █    |
-| 1-2   |       4 |    5% | █    |
-| 0-2   |       2 |    3% | █    |
-| 3-2   |       2 |    3% | █    |
-| 4-0   |       2 |    3% | █    |
-| 0-1   |       2 |    3% | █    |
-| 2-2   |       2 |    3% | █    |
-| 0-0   |       2 |    3% | █    |
-| 2-3   |       1 |    1% |      |
+| 2-0   |      16 |   20% | ████ |
+| 1-0   |      15 |   18% | ████ |
+| 3-0   |      13 |   16% | ███  |
+| 1-1   |      10 |   12% | ██   |
+| 2-1   |       7 |    9% | ██   |
+| 3-1   |       5 |    6% | █    |
+| 1-2   |       3 |    4% | █    |
+| 0-1   |       3 |    4% | █    |
+| 4-0   |       2 |    2% |      |
+| 2-2 ✅ |       2 |    2% |      |
+| 0-0   |       2 |    2% |      |
+| 0-2   |       1 |    1% |      |
 | 4-1   |       1 |    1% |      |
+| 2-3   |       1 |    1% |      |
+| 3-2   |       1 |    1% |      |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 2-0
-- Crowd modal outcome: HOME
-- Market favourite: HOME
+- **Actual score:** 2-2 (DRAW)
+- **Exact score correctly predicted by:** 2 / 82 (2%)
+- **Outcome correctly predicted by:** 14 / 82 (17%)
+- **Crowd modal score:** 2-0 — ❌ wrong
+- **Crowd modal outcome:** HOME — ❌ wrong
+- **Market favourite:** HOME — ❌ wrong

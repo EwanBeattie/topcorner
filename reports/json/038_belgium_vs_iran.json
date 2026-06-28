@@ -4,28 +4,28 @@
   "home": "Belgium",
   "away": "Iran",
   "competition": "World Cup 2026",
-  "kickoff_utc": "2026-06-21T19:00:00Z",
-  "status": "upcoming",
-  "frozen": false,
-  "last_updated_utc": "2026-06-21T09:57:21Z",
+  "kickoff_utc": "2026-06-21T11:00:00Z",
+  "status": "played",
+  "frozen": true,
+  "last_updated_utc": "2026-06-28T16:55:52Z",
   "weather": {
-    "local_time": "2026-06-21T12:00",
-    "temp_c": 22.2,
-    "feels_c": 23.9,
-    "humidity_pct": 66,
-    "cloud_pct": 15,
+    "local_time": "2026-06-21T04:00",
+    "temp_c": 13.8,
+    "feels_c": 13.8,
+    "humidity_pct": 88,
+    "cloud_pct": 10,
     "precip_prob_pct": 0,
     "weather_code": 0,
     "emoji": "☀️",
     "summary": "Clear",
-    "source": "forecast",
+    "source": "observed",
     "venue": "SoFi Stadium, Los Angeles, USA",
     "city": "los_angeles"
   },
   "result": {
-    "home_goals": null,
-    "away_goals": null,
-    "outcome": null
+    "home_goals": 0,
+    "away_goals": 0,
+    "outcome": "DRAW"
   },
   "betfair": {
     "match_odds": {
@@ -101,32 +101,32 @@
     ]
   },
   "crowd": {
-    "n": 75,
+    "n": 82,
     "outcome": {
-      "HOME": 59,
+      "HOME": 65,
       "DRAW": 7,
-      "AWAY": 9
+      "AWAY": 10
     },
     "scores": [
       {
-        "score": "2-0",
-        "count": 16
-      },
-      {
         "score": "2-1",
-        "count": 15
+        "count": 18
       },
       {
-        "score": "1-0",
-        "count": 9
+        "score": "2-0",
+        "count": 17
       },
       {
         "score": "3-1",
-        "count": 6
+        "count": 10
+      },
+      {
+        "score": "1-0",
+        "count": 7
       },
       {
         "score": "1-2",
-        "count": 6
+        "count": 7
       },
       {
         "score": "3-0",
@@ -141,15 +141,15 @@
         "count": 3
       },
       {
+        "score": "5-0",
+        "count": 2
+      },
+      {
         "score": "3-2",
         "count": 2
       },
       {
         "score": "0-1",
-        "count": 2
-      },
-      {
-        "score": "5-0",
         "count": 2
       },
       {
@@ -168,12 +168,15 @@
     "others_count": 0
   },
   "analysis": {
-    "crowd_modal_score": "2-0",
+    "crowd_modal_score": "2-1",
     "crowd_modal_outcome": "HOME",
     "market_favourite_outcome": "HOME",
-    "exact_correct": null,
-    "exact_correct_pct": null,
-    "outcome_correct": null,
-    "outcome_correct_pct": null
+    "exact_correct": 1,
+    "exact_correct_pct": 0.012,
+    "outcome_correct": 7,
+    "outcome_correct_pct": 0.085,
+    "crowd_modal_score_correct": false,
+    "crowd_modal_outcome_correct": false,
+    "market_favourite_correct": false
   }
 }

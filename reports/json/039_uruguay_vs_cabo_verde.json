@@ -1,31 +1,31 @@
 {
   "number": 39,
-  "match": "Uruguay vs Cape Verde",
+  "match": "Uruguay vs Cabo Verde",
   "home": "Uruguay",
-  "away": "Cape Verde",
+  "away": "Cabo Verde",
   "competition": "World Cup 2026",
-  "kickoff_utc": "2026-06-21T22:00:00Z",
-  "status": "upcoming",
-  "frozen": false,
-  "last_updated_utc": "2026-06-21T09:57:21Z",
+  "kickoff_utc": "2026-06-21T11:00:00Z",
+  "status": "played",
+  "frozen": true,
+  "last_updated_utc": "2026-06-28T16:55:52Z",
   "weather": {
-    "local_time": "2026-06-21T18:00",
-    "temp_c": 29.8,
-    "feels_c": 34.3,
-    "humidity_pct": 70,
-    "cloud_pct": 100,
-    "precip_prob_pct": 25,
-    "weather_code": 95,
-    "emoji": "⛈️",
-    "summary": "Thunderstorm",
-    "source": "forecast",
+    "local_time": "2026-06-21T07:00",
+    "temp_c": 24.7,
+    "feels_c": 30.4,
+    "humidity_pct": 93,
+    "cloud_pct": 0,
+    "precip_prob_pct": 0,
+    "weather_code": 0,
+    "emoji": "☀️",
+    "summary": "Clear",
+    "source": "observed",
     "venue": "Hard Rock Stadium, Miami, USA",
     "city": "miami"
   },
   "result": {
-    "home_goals": null,
-    "away_goals": null,
-    "outcome": null
+    "home_goals": 2,
+    "away_goals": 2,
+    "outcome": "DRAW"
   },
   "betfair": {
     "match_odds": {
@@ -101,11 +101,11 @@
     ]
   },
   "crowd": {
-    "n": 76,
+    "n": 82,
     "outcome": {
-      "HOME": 53,
+      "HOME": 60,
       "DRAW": 14,
-      "AWAY": 9
+      "AWAY": 8
     },
     "scores": [
       {
@@ -113,12 +113,12 @@
         "count": 16
       },
       {
-        "score": "3-0",
-        "count": 11
+        "score": "1-0",
+        "count": 15
       },
       {
-        "score": "1-0",
-        "count": 10
+        "score": "3-0",
+        "count": 13
       },
       {
         "score": "1-1",
@@ -126,7 +126,7 @@
       },
       {
         "score": "2-1",
-        "count": 6
+        "count": 7
       },
       {
         "score": "3-1",
@@ -134,22 +134,14 @@
       },
       {
         "score": "1-2",
-        "count": 4
-      },
-      {
-        "score": "0-2",
-        "count": 2
-      },
-      {
-        "score": "3-2",
-        "count": 2
-      },
-      {
-        "score": "4-0",
-        "count": 2
+        "count": 3
       },
       {
         "score": "0-1",
+        "count": 3
+      },
+      {
+        "score": "4-0",
         "count": 2
       },
       {
@@ -161,11 +153,19 @@
         "count": 2
       },
       {
-        "score": "2-3",
+        "score": "0-2",
         "count": 1
       },
       {
         "score": "4-1",
+        "count": 1
+      },
+      {
+        "score": "2-3",
+        "count": 1
+      },
+      {
+        "score": "3-2",
         "count": 1
       }
     ],
@@ -175,9 +175,12 @@
     "crowd_modal_score": "2-0",
     "crowd_modal_outcome": "HOME",
     "market_favourite_outcome": "HOME",
-    "exact_correct": null,
-    "exact_correct_pct": null,
-    "outcome_correct": null,
-    "outcome_correct_pct": null
+    "exact_correct": 2,
+    "exact_correct_pct": 0.024,
+    "outcome_correct": 14,
+    "outcome_correct_pct": 0.171,
+    "crowd_modal_score_correct": false,
+    "crowd_modal_outcome_correct": false,
+    "market_favourite_correct": false
   }
 }

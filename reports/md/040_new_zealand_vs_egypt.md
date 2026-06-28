@@ -2,21 +2,22 @@
 
 - **Game #:** 40
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Mon 22 Jun 2026, 02:00 BST (01:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Sun 21 Jun 2026, 10:57 BST
+- **Kickoff:** Mon 22 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Sun 28 Jun 2026, 17:55 BST
 
 ## Weather at kickoff
 
 - **Venue:** BC Place, Vancouver, Canada
-- **Conditions:** ☀️ Clear — 23 °C (feels 21 °C)
-- **Humidity:** 46%  ·  **Cloud cover:** 3%
-- **Rain:** 1% chance
-- _Forecast for Sun 21 Jun, 18:00 local time_
+- **Conditions:** ☀️ Clear — 16 °C (feels 14 °C)
+- **Humidity:** 67%  ·  **Cloud cover:** 0%
+- **Rain:** 0% chance
+- _Observed at Mon 22 Jun, 04:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 1 – 3
+- **Outcome:** Egypt (AWAY)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -28,7 +29,7 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
@@ -39,7 +40,7 @@ Most-likely first.
 | 0-0   |  12.50 |    8.0% |
 | 0-3   |  14.50 |    6.9% |
 | 1-0   |  16.50 |    6.1% |
-| 1-3   |  17.50 |    5.7% |
+| 1-3 ✅ |  17.50 |    5.7% |
 | 2-1   |  23.00 |    4.3% |
 | 2-2   |  25.00 |    4.0% |
 | 2-3   |  42.00 |    2.4% |
@@ -49,34 +50,33 @@ Most-likely first.
 | 3-3   | 150.00 |    0.7% |
 | 3-0   | 170.00 |    0.6% |
 
-## topcorner crowd — 67 predictions
+## topcorner crowd — 79 predictions
 
-- **Outcome split:** New Zealand 22% · Draw 28% · Egypt 49%
-- **Most predicted score:** 1-1 (22%)
+- **Outcome split:** New Zealand 13% · Draw 28% · Egypt 59%
+- **Most predicted score:** 1-2 (24%)
 
-| Score | Guesses | Share |      |
-| ----- | ------: | ----: | ---- |
-| 1-1   |      15 |   22% | ████ |
-| 1-2   |      11 |   16% | ███  |
-| 0-2   |       9 |   13% | ███  |
-| 0-1   |       7 |   10% | ██   |
-| 1-0   |       5 |    7% | █    |
-| 0-3   |       3 |    4% | █    |
-| 2-2   |       3 |    4% | █    |
-| 2-0   |       3 |    4% | █    |
-| 2-1   |       2 |    3% | █    |
-| 1-3   |       2 |    3% | █    |
-| 4-1   |       2 |    3% | █    |
-| 2-3   |       1 |    1% |      |
-| 3-0   |       1 |    1% |      |
-| 3-2   |       1 |    1% |      |
-| 0-0   |       1 |    1% |      |
-| 3-1   |       1 |    1% |      |
+| Score | Guesses | Share |       |
+| ----- | ------: | ----: | ----- |
+| 1-2   |      19 |   24% | █████ |
+| 1-1   |      16 |   20% | ████  |
+| 0-1   |      12 |   15% | ███   |
+| 0-2   |      10 |   13% | ███   |
+| 1-0   |       4 |    5% | █     |
+| 2-2   |       4 |    5% | █     |
+| 1-3 ✅ |       3 |    4% | █     |
+| 2-0   |       3 |    4% | █     |
+| 0-3   |       2 |    3% | █     |
+| 0-0   |       2 |    3% | █     |
+| 2-1   |       1 |    1% |       |
+| 2-3   |       1 |    1% |       |
+| 3-1   |       1 |    1% |       |
+| 4-1   |       1 |    1% |       |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 1-1
-- Crowd modal outcome: AWAY
-- Market favourite: AWAY
+- **Actual score:** 1-3 (AWAY)
+- **Exact score correctly predicted by:** 3 / 79 (4%)
+- **Outcome correctly predicted by:** 47 / 79 (60%)
+- **Crowd modal score:** 1-2 — ❌ wrong
+- **Crowd modal outcome:** AWAY — ✅ right
+- **Market favourite:** AWAY — ✅ correct

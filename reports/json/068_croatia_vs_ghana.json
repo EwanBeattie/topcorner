@@ -1,0 +1,110 @@
+{
+  "number": 68,
+  "match": "Croatia vs Ghana",
+  "home": "Croatia",
+  "away": "Ghana",
+  "competition": "World Cup 2026",
+  "kickoff_utc": "2026-06-27T11:00:00Z",
+  "status": "played",
+  "frozen": true,
+  "last_updated_utc": "2026-06-28T16:55:53Z",
+  "weather": {
+    "local_time": "2026-06-27T07:00",
+    "temp_c": 22.6,
+    "feels_c": 25.6,
+    "humidity_pct": 86,
+    "cloud_pct": 99,
+    "precip_prob_pct": 24,
+    "weather_code": 3,
+    "emoji": "☁️",
+    "summary": "Overcast",
+    "source": "observed",
+    "venue": "Lincoln Financial Field, Philadelphia, USA",
+    "city": "philadelphia"
+  },
+  "result": {
+    "home_goals": 2,
+    "away_goals": 1,
+    "outcome": "HOME"
+  },
+  "betfair": null,
+  "crowd": {
+    "n": 80,
+    "outcome": {
+      "HOME": 31,
+      "DRAW": 32,
+      "AWAY": 17
+    },
+    "scores": [
+      {
+        "score": "1-1",
+        "count": 18
+      },
+      {
+        "score": "2-1",
+        "count": 17
+      },
+      {
+        "score": "2-2",
+        "count": 8
+      },
+      {
+        "score": "1-0",
+        "count": 7
+      },
+      {
+        "score": "1-2",
+        "count": 7
+      },
+      {
+        "score": "2-0",
+        "count": 5
+      },
+      {
+        "score": "0-0",
+        "count": 5
+      },
+      {
+        "score": "0-1",
+        "count": 5
+      },
+      {
+        "score": "0-2",
+        "count": 3
+      },
+      {
+        "score": "3-1",
+        "count": 1
+      },
+      {
+        "score": "2-3",
+        "count": 1
+      },
+      {
+        "score": "3-3",
+        "count": 1
+      },
+      {
+        "score": "4-1",
+        "count": 1
+      },
+      {
+        "score": "0-4",
+        "count": 1
+      }
+    ],
+    "others_count": 0
+  },
+  "analysis": {
+    "crowd_modal_score": "1-1",
+    "crowd_modal_outcome": "DRAW",
+    "market_favourite_outcome": null,
+    "exact_correct": 17,
+    "exact_correct_pct": 0.212,
+    "outcome_correct": 31,
+    "outcome_correct_pct": 0.388,
+    "crowd_modal_score_correct": false,
+    "crowd_modal_outcome_correct": false,
+    "market_favourite_correct": null
+  }
+}

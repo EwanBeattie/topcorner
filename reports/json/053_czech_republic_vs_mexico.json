@@ -1,31 +1,31 @@
 {
   "number": 53,
-  "match": "Czechia vs Mexico",
-  "home": "Czechia",
+  "match": "Czech Republic vs Mexico",
+  "home": "Czech Republic",
   "away": "Mexico",
   "competition": "World Cup 2026",
-  "kickoff_utc": "2026-06-25T01:00:00Z",
-  "status": "upcoming",
-  "frozen": false,
-  "last_updated_utc": "2026-06-21T09:57:22Z",
+  "kickoff_utc": "2026-06-25T11:00:00Z",
+  "status": "played",
+  "frozen": true,
+  "last_updated_utc": "2026-06-28T16:55:52Z",
   "weather": {
-    "local_time": "2026-06-24T19:00",
-    "temp_c": 16.6,
-    "feels_c": 17.5,
-    "humidity_pct": 85,
-    "cloud_pct": 98,
-    "precip_prob_pct": 100,
-    "weather_code": 95,
-    "emoji": "⛈️",
-    "summary": "Thunderstorm",
-    "source": "forecast",
+    "local_time": "2026-06-25T05:00",
+    "temp_c": 14.4,
+    "feels_c": 15.0,
+    "humidity_pct": 90,
+    "cloud_pct": 76,
+    "precip_prob_pct": 17,
+    "weather_code": 2,
+    "emoji": "⛅",
+    "summary": "Partly cloudy",
+    "source": "observed",
     "venue": "Estadio Azteca, Mexico City, Mexico",
     "city": "mexico_city"
   },
   "result": {
-    "home_goals": null,
-    "away_goals": null,
-    "outcome": null
+    "home_goals": 0,
+    "away_goals": 3,
+    "outcome": "AWAY"
   },
   "betfair": {
     "match_odds": {
@@ -101,43 +101,43 @@
     ]
   },
   "crowd": {
-    "n": 54,
+    "n": 80,
     "outcome": {
-      "HOME": 17,
-      "DRAW": 17,
-      "AWAY": 20
+      "HOME": 11,
+      "DRAW": 21,
+      "AWAY": 48
     },
     "scores": [
       {
-        "score": "1-1",
-        "count": 10
-      },
-      {
         "score": "1-2",
-        "count": 7
+        "count": 27
       },
       {
-        "score": "2-1",
-        "count": 6
+        "score": "1-1",
+        "count": 15
       },
       {
         "score": "0-1",
-        "count": 5
-      },
-      {
-        "score": "2-2",
-        "count": 4
-      },
-      {
-        "score": "1-0",
-        "count": 4
+        "count": 7
       },
       {
         "score": "0-2",
+        "count": 7
+      },
+      {
+        "score": "2-2",
+        "count": 5
+      },
+      {
+        "score": "2-1",
+        "count": 4
+      },
+      {
+        "score": "1-3",
         "count": 3
       },
       {
-        "score": "0-0",
+        "score": "1-0",
         "count": 3
       },
       {
@@ -145,7 +145,11 @@
         "count": 1
       },
       {
-        "score": "3-2",
+        "score": "2-3",
+        "count": 1
+      },
+      {
+        "score": "0-5",
         "count": 1
       },
       {
@@ -153,27 +157,11 @@
         "count": 1
       },
       {
-        "score": "0-3",
+        "score": "3-1",
         "count": 1
       },
       {
-        "score": "1-4",
-        "count": 1
-      },
-      {
-        "score": "2-3",
-        "count": 1
-      },
-      {
-        "score": "9-0",
-        "count": 1
-      },
-      {
-        "score": "2-0",
-        "count": 1
-      },
-      {
-        "score": "3-0",
+        "score": "0-0",
         "count": 1
       },
       {
@@ -181,19 +169,26 @@
         "count": 1
       },
       {
-        "score": "4-1",
+        "score": "3-0",
+        "count": 1
+      },
+      {
+        "score": "3-4",
         "count": 1
       }
     ],
-    "others_count": 1
+    "others_count": 0
   },
   "analysis": {
-    "crowd_modal_score": "1-1",
+    "crowd_modal_score": "1-2",
     "crowd_modal_outcome": "AWAY",
     "market_favourite_outcome": "AWAY",
-    "exact_correct": null,
-    "exact_correct_pct": null,
-    "outcome_correct": null,
-    "outcome_correct_pct": null
+    "exact_correct": 0,
+    "exact_correct_pct": 0.0,
+    "outcome_correct": 48,
+    "outcome_correct_pct": 0.6,
+    "crowd_modal_score_correct": false,
+    "crowd_modal_outcome_correct": true,
+    "market_favourite_correct": true
   }
 }

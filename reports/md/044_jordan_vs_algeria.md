@@ -2,21 +2,22 @@
 
 - **Game #:** 44
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Tue 23 Jun 2026, 04:00 BST (03:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Sun 21 Jun 2026, 10:57 BST
+- **Kickoff:** Tue 23 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Sun 28 Jun 2026, 17:55 BST
 
 ## Weather at kickoff
 
 - **Venue:** Levi's Stadium, San Francisco Bay Area, USA
-- **Conditions:** ☀️ Clear — 17 °C (feels 15 °C)
-- **Humidity:** 76%  ·  **Cloud cover:** 2%
+- **Conditions:** ☁️ Overcast — 15 °C (feels 16 °C)
+- **Humidity:** 91%  ·  **Cloud cover:** 100%
 - **Rain:** 0% chance
-- _Forecast for Mon 22 Jun, 20:00 local time_
+- _Observed at Tue 23 Jun, 04:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 1 – 2
+- **Outcome:** Algeria (AWAY)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -28,14 +29,14 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |  Odds | Implied |
 | ----- | ----: | ------: |
 | 0-1   |  7.60 |   13.2% |
 | 0-2   |  8.60 |   11.6% |
 | 1-1   |  8.80 |   11.4% |
-| 1-2   |  9.60 |   10.4% |
+| 1-2 ✅ |  9.60 |   10.4% |
 | 0-0   | 13.50 |    7.4% |
 | 0-3   | 14.50 |    6.9% |
 | 1-3   | 16.00 |    6.2% |
@@ -49,33 +50,33 @@ Most-likely first.
 | 3-2   | 80.00 |    1.2% |
 | 3-1   | 85.00 |    1.2% |
 
-## topcorner crowd — 61 predictions
+## topcorner crowd — 83 predictions
 
-- **Outcome split:** Jordan 23% · Draw 34% · Algeria 43%
-- **Most predicted score:** 1-1 (20%)
+- **Outcome split:** Jordan 12% · Draw 35% · Algeria 53%
+- **Most predicted score:** 1-1 (24%)
 
-| Score | Guesses | Share |      |
-| ----- | ------: | ----: | ---- |
-| 1-1   |      12 |   20% | ████ |
-| 0-1   |      10 |   16% | ███  |
-| 1-2   |       8 |   13% | ███  |
-| 0-0   |       6 |   10% | ██   |
-| 0-2   |       4 |    7% | █    |
-| 2-1   |       4 |    7% | █    |
-| 1-0   |       3 |    5% | █    |
-| 2-0   |       3 |    5% | █    |
-| 2-2   |       3 |    5% | █    |
-| 3-2   |       2 |    3% | █    |
-| 1-3   |       2 |    3% | █    |
-| 3-1   |       1 |    2% |      |
-| 2-4   |       1 |    2% |      |
-| 2-3   |       1 |    2% |      |
-| 4-0   |       1 |    2% |      |
+| Score | Guesses | Share |       |
+| ----- | ------: | ----: | ----- |
+| 1-1   |      20 |   24% | █████ |
+| 1-2 ✅ |      14 |   17% | ███   |
+| 0-1   |      13 |   16% | ███   |
+| 0-2   |       9 |   11% | ██    |
+| 0-0   |       5 |    6% | █     |
+| 1-3   |       5 |    6% | █     |
+| 2-2   |       4 |    5% | █     |
+| 1-0   |       3 |    4% | █     |
+| 2-1   |       3 |    4% | █     |
+| 2-3   |       2 |    2% |       |
+| 3-2   |       2 |    2% |       |
+| 2-0   |       1 |    1% |       |
+| 3-1   |       1 |    1% |       |
+| 0-3   |       1 |    1% |       |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 1-1
-- Crowd modal outcome: AWAY
-- Market favourite: AWAY
+- **Actual score:** 1-2 (AWAY)
+- **Exact score correctly predicted by:** 14 / 83 (17%)
+- **Outcome correctly predicted by:** 44 / 83 (53%)
+- **Crowd modal score:** 1-1 — ❌ wrong
+- **Crowd modal outcome:** AWAY — ✅ right
+- **Market favourite:** AWAY — ✅ correct

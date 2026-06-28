@@ -2,21 +2,22 @@
 
 - **Game #:** 37
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Sun 21 Jun 2026, 17:00 BST (16:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Sun 21 Jun 2026, 10:57 BST
+- **Kickoff:** Sun 21 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Sun 28 Jun 2026, 17:55 BST
 
 ## Weather at kickoff
 
 - **Venue:** Mercedes-Benz Stadium, Atlanta, USA
-- **Conditions:** 🌤️ Mainly clear — 27 °C (feels 32 °C)
-- **Humidity:** 65%  ·  **Cloud cover:** 26%
+- **Conditions:** ☁️ Overcast — 22 °C (feels 25 °C)
+- **Humidity:** 95%  ·  **Cloud cover:** 100%
 - **Rain:** 0% chance
-- _Forecast for Sun 21 Jun, 12:00 local time_
+- _Observed at Sun 21 Jun, 07:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 4 – 0
+- **Outcome:** Spain (HOME)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -28,7 +29,7 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
@@ -49,35 +50,34 @@ Most-likely first.
 | 3-3   | 240.00 |    0.4% |
 | 0-3   | 270.00 |    0.4% |
 
-## topcorner crowd — 79 predictions
+## topcorner crowd — 82 predictions
 
-- **Outcome split:** Spain 87% · Draw 6% · Saudi Arabia 6%
+- **Outcome split:** Spain 90% · Draw 6% · Saudi Arabia 4%
 - **Most predicted score:** 3-0 (32%)
 
 | Score | Guesses | Share |        |
 | ----- | ------: | ----: | ------ |
-| 3-0   |      25 |   32% | ██████ |
-| 2-0   |      12 |   15% | ███    |
-| 3-1   |      10 |   13% | ███    |
-| 4-0   |       6 |    8% | ██     |
-| 2-1   |       5 |    6% | █      |
-| 4-1   |       4 |    5% | █      |
+| 3-0   |      26 |   32% | ██████ |
+| 2-0   |      13 |   16% | ███    |
+| 3-1   |      12 |   15% | ███    |
+| 4-0 ✅ |       8 |   10% | ██     |
+| 2-1   |       4 |    5% | █      |
+| 4-1   |       3 |    4% | █      |
+| 5-0   |       3 |    4% | █      |
 | 1-0   |       3 |    4% | █      |
-| 1-2   |       2 |    3% | █      |
-| 2-2   |       2 |    3% | █      |
-| 5-0   |       2 |    3% | █      |
-| 1-1   |       2 |    3% | █      |
+| 1-2   |       2 |    2% |        |
+| 2-2   |       2 |    2% |        |
+| 1-1   |       2 |    2% |        |
 | 6-0   |       1 |    1% |        |
-| 0-4   |       1 |    1% |        |
-| 1-3   |       1 |    1% |        |
 | 4-2   |       1 |    1% |        |
 | 0-0   |       1 |    1% |        |
 | 0-2   |       1 |    1% |        |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 3-0
-- Crowd modal outcome: HOME
-- Market favourite: HOME
+- **Actual score:** 4-0 (HOME)
+- **Exact score correctly predicted by:** 8 / 82 (10%)
+- **Outcome correctly predicted by:** 74 / 82 (90%)
+- **Crowd modal score:** 3-0 — ❌ wrong
+- **Crowd modal outcome:** HOME — ✅ right
+- **Market favourite:** HOME — ✅ correct

@@ -1,34 +1,35 @@
-# Bosnia vs Qatar
+# Bosnia & Herzegovina vs Qatar
 
 - **Game #:** 50
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Wed 24 Jun 2026, 20:00 BST (19:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Sun 21 Jun 2026, 10:57 BST
+- **Kickoff:** Wed 24 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Sun 28 Jun 2026, 17:55 BST
 
 ## Weather at kickoff
 
 - **Venue:** Lumen Field, Seattle, USA
-- **Conditions:** ☁️ Overcast — 24 °C (feels 24 °C)
-- **Humidity:** 38%  ·  **Cloud cover:** 100%
+- **Conditions:** ⛅ Partly cloudy — 17 °C (feels 17 °C)
+- **Humidity:** 72%  ·  **Cloud cover:** 51%
 - **Rain:** 0% chance
-- _Forecast for Wed 24 Jun, 12:00 local time_
+- _Observed at Wed 24 Jun, 04:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 3 – 1
+- **Outcome:** Bosnia & Herzegovina (HOME)
 
 ## Betfair Exchange — Match Odds (decimal)
 
-| Outcome | Odds | Implied |
-| ------- | ---: | ------: |
-| Bosnia  | 1.48 |   67.6% |
-| Draw    | 5.10 |   19.6% |
-| Qatar   | 7.60 |   13.2% |
+| Outcome              | Odds | Implied |
+| -------------------- | ---: | ------: |
+| Bosnia & Herzegovina | 1.48 |   67.6% |
+| Draw                 | 5.10 |   19.6% |
+| Qatar                | 7.60 |   13.2% |
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |  Odds | Implied |
 | ----- | ----: | ------: |
@@ -37,7 +38,7 @@ Most-likely first.
 | 2-1   |  9.80 |   10.2% |
 | 1-1   | 10.50 |    9.5% |
 | 3-0   | 11.00 |    9.1% |
-| 3-1   | 13.00 |    7.7% |
+| 3-1 ✅ | 13.00 |    7.7% |
 | 0-0   | 17.50 |    5.7% |
 | 2-2   | 21.00 |    4.8% |
 | 0-1   | 24.00 |    4.2% |
@@ -49,35 +50,35 @@ Most-likely first.
 | 0-2   | 55.00 |    1.8% |
 | 0-3   | 85.00 |    1.2% |
 
-## topcorner crowd — 54 predictions
+## topcorner crowd — 80 predictions
 
-- **Outcome split:** Bosnia 50% · Draw 30% · Qatar 20%
-- **Most predicted score:** 1-1 (15%)
+- **Outcome split:** Bosnia & Herzegovina 70% · Draw 22% · Qatar 8%
+- **Most predicted score:** 2-0 (26%)
 
-| Score | Guesses | Share |     |
-| ----- | ------: | ----: | --- |
-| 1-1   |       8 |   15% | ███ |
-| 0-0   |       6 |   11% | ██  |
-| 2-1   |       6 |   11% | ██  |
-| 1-0   |       5 |    9% | ██  |
-| 2-0   |       5 |    9% | ██  |
-| 3-1   |       4 |    7% | █   |
-| 1-2   |       4 |    7% | █   |
-| 0-1   |       3 |    6% | █   |
-| 4-1   |       3 |    6% | █   |
-| 3-2   |       3 |    6% | █   |
-| 0-2   |       1 |    2% |     |
-| 3-0   |       1 |    2% |     |
-| 2-2   |       1 |    2% |     |
-| 0-3   |       1 |    2% |     |
-| 1-4   |       1 |    2% |     |
-| 3-3   |       1 |    2% |     |
-| 2-3   |       1 |    2% |     |
+| Score | Guesses | Share |       |
+| ----- | ------: | ----: | ----- |
+| 2-0   |      21 |   26% | █████ |
+| 1-1   |      15 |   19% | ████  |
+| 2-1   |      13 |   16% | ███   |
+| 1-0   |       9 |   11% | ██    |
+| 3-0   |       4 |    5% | █     |
+| 3-1 ✅ |       3 |    4% | █     |
+| 2-2   |       2 |    2% |       |
+| 4-0   |       2 |    2% |       |
+| 4-1   |       2 |    2% |       |
+| 0-1   |       2 |    2% |       |
+| 3-2   |       2 |    2% |       |
+| 0-0   |       1 |    1% |       |
+| 0-2   |       1 |    1% |       |
+| 0-3   |       1 |    1% |       |
+| 1-2   |       1 |    1% |       |
+| 2-3   |       1 |    1% |       |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 1-1
-- Crowd modal outcome: HOME
-- Market favourite: HOME
+- **Actual score:** 3-1 (HOME)
+- **Exact score correctly predicted by:** 3 / 80 (4%)
+- **Outcome correctly predicted by:** 56 / 80 (70%)
+- **Crowd modal score:** 2-0 — ❌ wrong
+- **Crowd modal outcome:** HOME — ✅ right
+- **Market favourite:** HOME — ✅ correct
