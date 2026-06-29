@@ -42,6 +42,7 @@ class UserPrediction:
     user_name: str
     home_goals: int
     away_goals: int
+    rank: Optional[int] = None  # leaderboard position when fetched (1 = top)
 
     @property
     def score(self) -> str:

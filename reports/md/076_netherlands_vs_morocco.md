@@ -4,7 +4,7 @@
 - **Competition:** World Cup 2026 — Group Stage
 - **Kickoff:** Tue 30 Jun 2026, 02:00 BST (01:00 UTC)
 - **Status:** ⚪ UPCOMING
-- **Last updated:** Sun 28 Jun 2026, 17:55 BST
+- **Last updated:** Mon 29 Jun 2026, 21:31 BST
 
 ## Result
 
@@ -14,9 +14,9 @@ _Not yet played._
 
 | Outcome     | Odds | Implied |
 | ----------- | ---: | ------: |
-| Netherlands | 2.28 |   43.9% |
-| Draw        | 3.25 |   30.8% |
-| Morocco     | 3.90 |   25.6% |
+| Netherlands | 2.48 |   40.3% |
+| Draw        | 3.15 |   31.7% |
+| Morocco     | 3.50 |   28.6% |
 
 ## Betfair Exchange — Correct Score (decimal)
 
@@ -24,51 +24,79 @@ Most-likely first.
 
 | Score |  Odds | Implied |
 | ----- | ----: | ------: |
-| 1-1   |  6.80 |   14.7% |
-| 1-0   |  8.40 |   11.9% |
-| 2-1   | 10.00 |   10.0% |
-| 0-0   | 10.50 |    9.5% |
-| 0-1   | 12.00 |    8.3% |
-| 2-0   | 12.50 |    8.0% |
-| 1-2   | 15.00 |    6.7% |
+| 1-1   |  6.60 |   15.2% |
+| 1-0   |  8.60 |   11.6% |
+| 0-0   | 10.00 |   10.0% |
+| 0-1   | 10.50 |    9.5% |
+| 2-1   | 11.00 |    9.1% |
+| 1-2   | 13.50 |    7.4% |
+| 2-0   | 14.00 |    7.1% |
 | 2-2   | 17.50 |    5.7% |
-| 3-1   | 23.00 |    4.3% |
-| 0-2   | 24.00 |    4.2% |
-| 3-0   | 27.00 |    3.7% |
-| 3-2   | 40.00 |    2.5% |
-| 1-3   | 46.00 |    2.2% |
-| 2-3   | 55.00 |    1.8% |
-| 0-3   | 70.00 |    1.4% |
-| 3-3   | 95.00 |    1.1% |
+| 0-2   | 21.00 |    4.8% |
+| 3-1   | 26.00 |    3.8% |
+| 3-0   | 36.00 |    2.8% |
+| 1-3   | 38.00 |    2.6% |
+| 3-2   | 42.00 |    2.4% |
+| 2-3   | 50.00 |    2.0% |
+| 0-3   | 80.00 |    1.2% |
+| 3-3   | 80.00 |    1.2% |
 
-## topcorner crowd — 68 predictions
+## Maggots — 83 predictions
 
-- **Outcome split:** Netherlands 32% · Draw 43% · Morocco 25%
-- **Most predicted score:** 2-2 (21%)
+- **Outcome split:** Netherlands 34% · Draw 53% · Morocco 13%
+- **Most predicted score:** 1-1 (30%)
 
-| Score | Guesses | Share |      |
-| ----- | ------: | ----: | ---- |
-| 2-2   |      14 |   21% | ████ |
-| 1-1   |      13 |   19% | ████ |
-| 2-1   |       7 |   10% | ██   |
-| 1-2   |       6 |    9% | ██   |
-| 0-1   |       5 |    7% | █    |
-| 3-1   |       4 |    6% | █    |
-| 3-2   |       4 |    6% | █    |
-| 2-0   |       3 |    4% | █    |
-| 2-3   |       2 |    3% | █    |
-| 0-2   |       2 |    3% | █    |
-| 1-0   |       2 |    3% | █    |
-| 0-0   |       2 |    3% | █    |
-| 4-3   |       1 |    1% |      |
-| 0-4   |       1 |    1% |      |
-| 3-0   |       1 |    1% |      |
-| 2-4   |       1 |    1% |      |
+| Score | Guesses | Share |        |
+| ----- | ------: | ----: | ------ |
+| 1-1   |      25 |   30% | ██████ |
+| 2-2   |      15 |   18% | ████   |
+| 2-1   |      14 |   17% | ███    |
+| 3-2   |       7 |    8% | ██     |
+| 1-2   |       5 |    6% | █      |
+| 0-0   |       4 |    5% | █      |
+| 3-1   |       3 |    4% | █      |
+| 2-0   |       2 |    2% |        |
+| 2-3   |       2 |    2% |        |
+| 0-1   |       2 |    2% |        |
+| 1-0   |       1 |    1% |        |
+| 0-2   |       1 |    1% |        |
+| 3-0   |       1 |    1% |        |
+| 2-4   |       1 |    1% |        |
+
+## Top 20 — 20 predictions
+
+- **Outcome split:** Netherlands 35% · Draw 55% · Morocco 10%
+- **Most predicted score:** 1-1 (25%)
+
+| Score | Guesses | Share |       |
+| ----- | ------: | ----: | ----- |
+| 1-1   |       5 |   25% | █████ |
+| 2-1   |       5 |   25% | █████ |
+| 2-2   |       5 |   25% | █████ |
+| 0-0   |       1 |    5% | █     |
+| 1-2   |       1 |    5% | █     |
+| 3-2   |       1 |    5% | █     |
+| 2-0   |       1 |    5% | █     |
+| 2-3   |       1 |    5% | █     |
+
+## Predictions from above you — rank 10 (AjaxTreesdown, 9 players above)
+
+| Rank | Player        | Predicted |
+| ---: | ------------- | --------- |
+|    1 | RobC          | 1-1       |
+|    2 | alightfoot    | 0-0       |
+|    3 | bolter_alex61 | 1-2       |
+|    4 | Funnyoldgame  | 2-1       |
+|    5 | joejarman     | 2-1       |
+|    6 | Danic2026     | 3-2       |
+|    7 | Bottlers FC   | 2-2       |
+|    8 | sachanewman   | 2-2       |
+|    9 | APR           | 2-2       |
 
 ## Analysis
 
 _Filled once the game has been played._
 
-- Crowd modal score: 2-2
+- Crowd modal score: 1-1
 - Crowd modal outcome: DRAW
 - Market favourite: HOME

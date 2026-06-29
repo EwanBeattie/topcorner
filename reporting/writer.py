@@ -63,18 +63,39 @@ def _betfair_section(betfair: Optional[BetfairGame], prev: Optional[dict]) -> Op
     return None
 
 
+def _dist_from_preds(preds: list, limit: int) -> Optional[dict]:
+    """Build a distribution block from a list of UserPredictions."""
+    from collections import Counter
+    if not preds:
+        return None
+    scores = Counter(p.score for p in preds).most_common()
+    outcome = Counter(p.outcome for p in preds)
+    return {
+        "n": len(preds),
+        "outcome": {k: outcome.get(k, 0) for k in ("HOME", "DRAW", "AWAY")},
+        "scores": [{"score": s, "count": c} for s, c in scores[:limit]],
+        "others_count": sum(c for _, c in scores[limit:]),
+    }
+
+
 def _crowd_section(crowd: Optional[CrowdGame], limit: int) -> Optional[dict]:
     if crowd is None or crowd.n == 0:
         return None
-    dist = crowd.score_distribution().most_common()
-    top = dist[:limit]
-    others = sum(c for _, c in dist[limit:])
-    outcome = crowd.outcome_distribution()
+    return _dist_from_preds(crowd.predictions, limit)
+
+
+def _above_me_section(crowd: Optional[CrowdGame], my_username: str,
+                      my_rank: Optional[int]) -> Optional[dict]:
+    """Predicted scores of every player ranked above me who predicted this game."""
+    if not crowd or not my_username or not my_rank:
+        return None
+    above = [p for p in crowd.predictions if p.rank and p.rank < my_rank]
+    above.sort(key=lambda p: p.rank)
     return {
-        "n": crowd.n,
-        "outcome": {k: outcome.get(k, 0) for k in ("HOME", "DRAW", "AWAY")},
-        "scores": [{"score": s, "count": c} for s, c in top],
-        "others_count": others,
+        "username": my_username,
+        "my_rank": my_rank,
+        "predictions": [{"rank": p.rank, "user": p.user_name, "score": p.score}
+                        for p in above],
     }
 
 
@@ -122,8 +143,13 @@ def build_game_json(
     score_limit: int = 19,
     number: Optional[int] = None,
     weather: Optional[dict] = None,
+    my_username: str = "",
+    my_rank: Optional[int] = None,
+    top_dist_n: int = 20,
 ) -> dict:
     played = bool(crowd and crowd.played and crowd.final_score)
+    top_preds = ([p for p in crowd.predictions if p.rank and p.rank <= top_dist_n]
+                 if crowd else [])
     bf = _betfair_section(betfair, prev)
     match_odds = (bf or {}).get("match_odds", {}) if bf else {}
     # Keep the last weather we fetched if none this run (e.g. no venue / API down).
@@ -152,6 +178,9 @@ def build_game_json(
         "result": result,
         "betfair": bf,
         "crowd": _crowd_section(crowd, score_limit),
+        "crowd_top": _dist_from_preds(top_preds, score_limit),
+        "top_dist_n": top_dist_n,
+        "above_me": _above_me_section(crowd, my_username, my_rank),
         "analysis": _analysis_section(crowd, match_odds),
     }
 
@@ -224,6 +253,52 @@ def _weather_lines(w: Optional[dict]) -> list[str]:
     return L
 
 
+def _dist_lines(title: str, dist: Optional[dict], home: str, away: str,
+                played: bool, final_score: Optional[str]) -> list[str]:
+    """Render one crowd distribution block (heading, split, modal, bar table)."""
+    n = dist["n"] if dist else 0
+    L = [f"## {title} — {n} predictions", ""]
+    if not dist:
+        return L + ["_No predictions._", ""]
+    oc = dist["outcome"]
+    split = (f"{home} {oc['HOME'] / n:.0%} · Draw {oc['DRAW'] / n:.0%} · "
+             f"{away} {oc['AWAY'] / n:.0%}")
+    L.append(f"- **Outcome split:** {split}")
+    modal = dist["scores"][0] if dist["scores"] else None
+    if modal:
+        L.append(f"- **Most predicted score:** {modal['score']} "
+                 f"({modal['count'] / n:.0%})")
+    rows = []
+    for s in dist["scores"]:
+        mark = " ✅" if played and s["score"] == final_score else ""
+        pct = s["count"] / n
+        rows.append([f"{s['score']}{mark}", str(s["count"]), f"{pct:.0%}",
+                     "█" * round(pct * 20)])
+    if dist["others_count"]:
+        rows.append([f"+{dist['others_count']} others", str(dist["others_count"]),
+                     f"{dist['others_count'] / n:.0%}", ""])
+    return L + [""] + _md_table(["Score", "Guesses", "Share", ""], rows,
+                                ["l", "r", "r", "l"]) + [""]
+
+
+def _above_me_lines(am: Optional[dict], played: bool,
+                    final_score: Optional[str]) -> list[str]:
+    """Render the predicted scores of players ranked above me."""
+    if not am:
+        return []
+    preds = am["predictions"]
+    L = [f"## Predictions from above you — rank {am['my_rank']} "
+         f"({am['username']}, {len(preds)} players above)", ""]
+    if not preds:
+        return L + ["_Nobody above you, or none have predicted this game._", ""]
+    rows = []
+    for p in preds:
+        mark = " ✅" if played and p["score"] == final_score else ""
+        rows.append([str(p["rank"]), p["user"], f"{p['score']}{mark}"])
+    return L + _md_table(["Rank", "Player", "Predicted"], rows,
+                         ["r", "l", "l"]) + [""]
+
+
 def render_markdown(d: dict) -> str:
     home, away = d["home"], d["away"]
     kickoff = datetime.fromisoformat(d["kickoff_utc"].replace("Z", "+00:00"))
@@ -279,33 +354,11 @@ def render_markdown(d: dict) -> str:
     else:
         L += ["_No Betfair odds captured._", ""]
 
-    crowd = d.get("crowd")
-    L += [f"## topcorner crowd — {crowd['n'] if crowd else 0} predictions", ""]
-    if crowd:
-        oc = crowd["outcome"]
-        n = crowd["n"]
-        split = (f"{home} {oc['HOME'] / n:.0%} · Draw {oc['DRAW'] / n:.0%} · "
-                 f"{away} {oc['AWAY'] / n:.0%}")
-        modal = crowd["scores"][0] if crowd["scores"] else None
-        L += [f"- **Outcome split:** {split}"]
-        if modal:
-            L.append(f"- **Most predicted score:** {modal['score']} "
-                     f"({modal['count'] / n:.0%})")
-        # Bar length is proportional to share of all predictions (20 = 100%).
-        rows = []
-        for s in crowd["scores"]:
-            mark = " ✅" if played and s["score"] == final_score else ""
-            pct = s["count"] / n
-            rows.append([f"{s['score']}{mark}", str(s["count"]), f"{pct:.0%}",
-                         "█" * round(pct * 20)])
-        if crowd["others_count"]:
-            oc_pct = crowd["others_count"] / n
-            rows.append([f"+{crowd['others_count']} others",
-                         str(crowd["others_count"]), f"{oc_pct:.0%}", ""])
-        L += [""] + _md_table(["Score", "Guesses", "Share", ""], rows,
-                              ["l", "r", "r", "l"]) + [""]
-    else:
-        L += ["_No crowd predictions matched._", ""]
+    L += _dist_lines("Maggots", d.get("crowd"), home, away, played, final_score)
+    top_n = d.get("top_dist_n", 20)
+    L += _dist_lines(f"Top {top_n}", d.get("crowd_top"),
+                     home, away, played, final_score)
+    L += _above_me_lines(d.get("above_me"), played, final_score)
 
     L += ["## Analysis", ""]
     a = d["analysis"]
@@ -342,12 +395,16 @@ def render_markdown(d: dict) -> str:
 # --- writer ---------------------------------------------------------------
 class ReportWriter:
     def __init__(self, md_dir: str, json_dir: str, score_limit: int = 19,
-                 weather_lookup=None):
+                 weather_lookup=None, my_username: str = "",
+                 my_rank: Optional[int] = None, top_dist_n: int = 20):
         self.md_dir = md_dir
         self.json_dir = json_dir
         self.score_limit = score_limit
         # Optional callable (home, away, kickoff) -> weather dict | None.
         self.weather_lookup = weather_lookup
+        self.my_username = my_username
+        self.my_rank = my_rank
+        self.top_dist_n = top_dist_n
         os.makedirs(md_dir, exist_ok=True)
         os.makedirs(json_dir, exist_ok=True)
 
@@ -381,7 +438,8 @@ class ReportWriter:
 
         data = build_game_json(home, away, kickoff, betfair, crowd, prev,
                                score_limit=self.score_limit, number=number,
-                               weather=weather)
+                               weather=weather, my_username=self.my_username,
+                               my_rank=self.my_rank, top_dist_n=self.top_dist_n)
 
         with open(self._json_path(slug), "w", encoding="utf-8") as fh:
             json.dump(data, fh, indent=2, ensure_ascii=False)

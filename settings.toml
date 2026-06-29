@@ -13,7 +13,14 @@ leaderboard_top_n = 0
 crowd_score_limit = 19
 
 # Minimum seconds between topcorner.org requests (politeness throttle).
-topcorner_throttle = 1.5
+topcorner_throttle = 0.5
+
+# Your topcorner username. Adds a section listing the predicted scores of every
+# player ranked above you on the leaderboard. Blank = omit that section.
+my_username = "AjaxTreesdown"
+
+# Size of the secondary "Top N" crowd distribution shown next to the full field.
+top_dist_n = 20
 
 # Output folders for the per-game reports.
 md_dir = "reports/md"

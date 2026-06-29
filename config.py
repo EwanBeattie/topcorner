@@ -32,6 +32,8 @@ WINDOW_HOURS: int = int(_S.get("window_hours", 48))
 LEADERBOARD_TOP_N: int = int(_S.get("leaderboard_top_n", 0))
 CROWD_SCORE_LIMIT: int = int(_S.get("crowd_score_limit", 19))
 TOPCORNER_THROTTLE: float = float(_S.get("topcorner_throttle", 1.5))
+MY_USERNAME: str = _S.get("my_username", "")
+TOP_DIST_N: int = int(_S.get("top_dist_n", 20))
 MD_DIR: str = _S.get("md_dir", "reports/md")
 JSON_DIR: str = _S.get("json_dir", "reports/json")
 

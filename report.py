@@ -62,6 +62,17 @@ def main(argv=None) -> int:
     crowd_by_key = {teams.match_key(cg.fixture.home, cg.fixture.away): cg
                     for cg in crowd_games}
 
+    # My leaderboard rank (for the "predictions above you" section).
+    my_rank = None
+    if config.MY_USERNAME:
+        for cg in crowd_games:
+            for p in cg.predictions:
+                if p.user_name.lower() == config.MY_USERNAME.lower() and p.rank:
+                    my_rank = p.rank
+                    break
+            if my_rank:
+                break
+
     # Decide which games to write: every in-window Betfair game (odds + crowd),
     # plus every played crowd game (so results get captured and frozen). The
     # filename is prefixed with the tournament game number for chronological sort.
@@ -89,7 +100,9 @@ def main(argv=None) -> int:
         return weather_for(home, away, kickoff, venue_map, weather_session)
 
     writer = ReportWriter(args.md_dir, args.json_dir, args.score_limit,
-                          weather_lookup=weather_lookup)
+                          weather_lookup=weather_lookup,
+                          my_username=config.MY_USERNAME, my_rank=my_rank,
+                          top_dist_n=config.TOP_DIST_N)
     counts: Counter = Counter()
     for slug, (number, home, away, kickoff, bg, cg) in sorted(to_write.items()):
         status = writer.write(slug, number=number, home=home, away=away,

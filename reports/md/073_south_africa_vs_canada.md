@@ -2,13 +2,14 @@
 
 - **Game #:** 73
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Sun 28 Jun 2026, 20:00 BST (19:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Sun 28 Jun 2026, 17:55 BST
+- **Kickoff:** Sun 28 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Mon 29 Jun 2026, 21:20 BST
 
 ## Result
 
-_Not yet played._
+- **Final score:** 0 – 1
+- **Outcome:** Canada (AWAY)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -20,11 +21,11 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
-| 0-1   |   7.00 |   14.3% |
+| 0-1 ✅ |   7.00 |   14.3% |
 | 1-1   |   7.60 |   13.2% |
 | 0-2   |   8.00 |   12.5% |
 | 0-0   |  10.00 |   10.0% |
@@ -41,22 +42,22 @@ Most-likely first.
 | 3-3   | 150.00 |    0.7% |
 | 3-0   | 190.00 |    0.5% |
 
-## topcorner crowd — 71 predictions
+## topcorner crowd — 78 predictions
 
-- **Outcome split:** South Africa 25% · Draw 23% · Canada 52%
-- **Most predicted score:** 1-2 (24%)
+- **Outcome split:** South Africa 22% · Draw 19% · Canada 59%
+- **Most predicted score:** 1-2 (27%)
 
 | Score | Guesses | Share |       |
 | ----- | ------: | ----: | ----- |
-| 1-2   |      17 |   24% | █████ |
-| 1-1   |      11 |   15% | ███   |
-| 2-1   |       7 |   10% | ██    |
-| 0-1   |       6 |    8% | ██    |
-| 0-2   |       6 |    8% | ██    |
-| 2-0   |       5 |    7% | █     |
-| 1-3   |       5 |    7% | █     |
-| 1-0   |       4 |    6% | █     |
+| 1-2   |      21 |   27% | █████ |
+| 0-2   |      11 |   14% | ███   |
+| 1-1   |      10 |   13% | ███   |
+| 2-1   |       8 |   10% | ██    |
+| 0-1 ✅ |       7 |    9% | ██    |
+| 1-3   |       4 |    5% | █     |
+| 2-0   |       4 |    5% | █     |
 | 2-2   |       3 |    4% | █     |
+| 1-0   |       3 |    4% | █     |
 | 2-3   |       3 |    4% | █     |
 | 0-0   |       2 |    3% | █     |
 | 3-1   |       1 |    1% |       |
@@ -64,8 +65,9 @@ Most-likely first.
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 1-2
-- Crowd modal outcome: AWAY
-- Market favourite: AWAY
+- **Actual score:** 0-1 (AWAY)
+- **Exact score correctly predicted by:** 7 / 78 (9%)
+- **Outcome correctly predicted by:** 46 / 78 (59%)
+- **Crowd modal score:** 1-2 — ❌ wrong
+- **Crowd modal outcome:** AWAY — ✅ right
+- **Market favourite:** AWAY — ✅ correct

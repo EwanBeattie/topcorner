@@ -2,13 +2,14 @@
 
 - **Game #:** 74
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Mon 29 Jun 2026, 18:00 BST (17:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Sun 28 Jun 2026, 17:55 BST
+- **Kickoff:** Mon 29 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Mon 29 Jun 2026, 21:20 BST
 
 ## Result
 
-_Not yet played._
+- **Final score:** 2 – 1
+- **Outcome:** Brazil (HOME)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -20,14 +21,14 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
 | 1-0   |   7.60 |   13.2% |
 | 1-1   |   8.40 |   11.9% |
 | 2-0   |   9.20 |   10.9% |
-| 2-1   |   9.60 |   10.4% |
+| 2-1 ✅ |   9.60 |   10.4% |
 | 0-0   |  13.00 |    7.7% |
 | 0-1   |  16.50 |    6.1% |
 | 3-0   |  17.50 |    5.7% |
@@ -41,36 +42,33 @@ Most-likely first.
 | 3-3   |  95.00 |    1.1% |
 | 0-3   | 120.00 |    0.8% |
 
-## topcorner crowd — 68 predictions
+## topcorner crowd — 83 predictions
 
-- **Outcome split:** Brazil 65% · Draw 24% · Japan 12%
-- **Most predicted score:** 2-1 (21%)
+- **Outcome split:** Brazil 75% · Draw 22% · Japan 4%
+- **Most predicted score:** 2-1 (30%)
 
-| Score | Guesses | Share |      |
-| ----- | ------: | ----: | ---- |
-| 2-1   |      14 |   21% | ████ |
-| 3-1   |       8 |   12% | ██   |
-| 1-1   |       7 |   10% | ██   |
-| 0-0   |       6 |    9% | ██   |
-| 2-0   |       5 |    7% | █    |
-| 3-0   |       5 |    7% | █    |
-| 1-0   |       4 |    6% | █    |
-| 2-2   |       3 |    4% | █    |
-| 3-2   |       3 |    4% | █    |
-| 0-1   |       3 |    4% | █    |
-| 1-2   |       2 |    3% | █    |
-| 4-2   |       2 |    3% | █    |
-| 3-4   |       1 |    1% |      |
-| 0-2   |       1 |    1% |      |
-| 4-0   |       1 |    1% |      |
-| 4-3   |       1 |    1% |      |
-| 0-3   |       1 |    1% |      |
-| 4-1   |       1 |    1% |      |
+| Score | Guesses | Share |        |
+| ----- | ------: | ----: | ------ |
+| 2-1 ✅ |      25 |   30% | ██████ |
+| 3-1   |      14 |   17% | ███    |
+| 1-1   |       7 |    8% | ██     |
+| 2-0   |       6 |    7% | █      |
+| 0-0   |       6 |    7% | █      |
+| 3-0   |       6 |    7% | █      |
+| 2-2   |       5 |    6% | █      |
+| 3-2   |       4 |    5% | █      |
+| 1-0   |       3 |    4% | █      |
+| 4-2   |       2 |    2% |        |
+| 0-1   |       2 |    2% |        |
+| 4-0   |       1 |    1% |        |
+| 1-2   |       1 |    1% |        |
+| 4-1   |       1 |    1% |        |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 2-1
-- Crowd modal outcome: HOME
-- Market favourite: HOME
+- **Actual score:** 2-1 (HOME)
+- **Exact score correctly predicted by:** 25 / 83 (30%)
+- **Outcome correctly predicted by:** 62 / 83 (75%)
+- **Crowd modal score:** 2-1 — ✅ right
+- **Crowd modal outcome:** HOME — ✅ right
+- **Market favourite:** HOME — ✅ correct

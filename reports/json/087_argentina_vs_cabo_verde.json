@@ -1,10 +1,10 @@
 {
-  "number": 80,
-  "match": "England vs DR Congo",
-  "home": "England",
-  "away": "DR Congo",
+  "number": 87,
+  "match": "Argentina vs Cape Verde",
+  "home": "Argentina",
+  "away": "Cape Verde",
   "competition": "World Cup 2026",
-  "kickoff_utc": "2026-07-01T16:00:00Z",
+  "kickoff_utc": "2026-07-03T22:00:00Z",
   "status": "upcoming",
   "frozen": false,
   "last_updated_utc": "2026-06-29T20:31:40Z",
@@ -16,178 +16,194 @@
   },
   "betfair": {
     "match_odds": {
-      "home": 1.29,
-      "draw": 5.8,
-      "away": 16.0
+      "home": 1.18,
+      "draw": 8.4,
+      "away": 23.0
     },
     "correct_score": [
       {
         "score": "2-0",
-        "odds": 5.8
+        "odds": 5.6
       },
       {
         "score": "1-0",
-        "odds": 6.4
+        "odds": 6.6
       },
       {
         "score": "3-0",
-        "odds": 8.4
+        "odds": 7.2
       },
       {
         "score": "2-1",
-        "odds": 11.5
-      },
-      {
-        "score": "1-1",
-        "odds": 12.5
-      },
-      {
-        "score": "0-0",
-        "odds": 13.5
+        "odds": 12.0
       },
       {
         "score": "3-1",
-        "odds": 16.5
+        "odds": 14.5
+      },
+      {
+        "score": "1-1",
+        "odds": 18.0
+      },
+      {
+        "score": "0-0",
+        "odds": 20.0
       },
       {
         "score": "0-1",
-        "odds": 34.0
-      },
-      {
-        "score": "2-2",
-        "odds": 46.0
+        "odds": 42.0
       },
       {
         "score": "1-2",
-        "odds": 55.0
+        "odds": 44.0
       },
       {
-        "score": "2-3",
-        "odds": 55.0
+        "score": "2-2",
+        "odds": 50.0
       },
       {
         "score": "3-2",
+        "odds": 55.0
+      },
+      {
+        "score": "0-2",
         "odds": 60.0
       },
       {
         "score": "0-3",
-        "odds": 100.0
+        "odds": 60.0
       },
       {
         "score": "1-3",
-        "odds": 120.0
+        "odds": 170.0
       },
       {
-        "score": "0-2",
-        "odds": 140.0
+        "score": "2-3",
+        "odds": 170.0
       },
       {
         "score": "3-3",
-        "odds": 140.0
+        "odds": 170.0
       }
     ]
   },
   "crowd": {
-    "n": 69,
+    "n": 66,
     "outcome": {
       "HOME": 47,
-      "DRAW": 15,
-      "AWAY": 7
+      "DRAW": 8,
+      "AWAY": 11
     },
     "scores": [
       {
-        "score": "2-0",
-        "count": 14
-      },
-      {
-        "score": "2-1",
-        "count": 10
-      },
-      {
-        "score": "1-1",
-        "count": 10
-      },
-      {
-        "score": "3-1",
-        "count": 8
-      },
-      {
-        "score": "1-0",
-        "count": 6
+        "score": "4-0",
+        "count": 11
       },
       {
         "score": "3-0",
-        "count": 6
+        "count": 10
+      },
+      {
+        "score": "2-0",
+        "count": 8
       },
       {
         "score": "1-2",
+        "count": 5
+      },
+      {
+        "score": "1-0",
         "count": 4
       },
       {
-        "score": "0-0",
+        "score": "3-1",
         "count": 4
       },
       {
-        "score": "2-4",
-        "count": 1
+        "score": "1-1",
+        "count": 4
       },
       {
-        "score": "4-2",
-        "count": 1
+        "score": "2-1",
+        "count": 4
+      },
+      {
+        "score": "4-1",
+        "count": 3
       },
       {
         "score": "0-1",
-        "count": 1
-      },
-      {
-        "score": "4-0",
-        "count": 1
-      },
-      {
-        "score": "4-3",
-        "count": 1
+        "count": 3
       },
       {
         "score": "2-2",
-        "count": 1
+        "count": 2
+      },
+      {
+        "score": "0-3",
+        "count": 2
+      },
+      {
+        "score": "3-2",
+        "count": 2
+      },
+      {
+        "score": "0-0",
+        "count": 2
       },
       {
         "score": "2-3",
+        "count": 1
+      },
+      {
+        "score": "5-0",
         "count": 1
       }
     ],
     "others_count": 0
   },
   "crowd_top": {
-    "n": 15,
+    "n": 13,
     "outcome": {
-      "HOME": 13,
-      "DRAW": 0,
+      "HOME": 9,
+      "DRAW": 2,
       "AWAY": 2
     },
     "scores": [
       {
-        "score": "2-0",
-        "count": 5
-      },
-      {
-        "score": "2-1",
+        "score": "3-0",
         "count": 3
       },
       {
-        "score": "1-0",
-        "count": 2
+        "score": "2-0",
+        "count": 3
+      },
+      {
+        "score": "2-2",
+        "count": 1
+      },
+      {
+        "score": "4-1",
+        "count": 1
       },
       {
         "score": "1-2",
-        "count": 2
+        "count": 1
       },
       {
-        "score": "3-0",
-        "count": 2
+        "score": "1-0",
+        "count": 1
       },
       {
         "score": "3-1",
+        "count": 1
+      },
+      {
+        "score": "2-3",
+        "count": 1
+      },
+      {
+        "score": "1-1",
         "count": 1
       }
     ],
@@ -199,19 +215,14 @@
     "my_rank": 10,
     "predictions": [
       {
-        "rank": 1,
-        "user": "RobC",
-        "score": "2-0"
-      },
-      {
         "rank": 3,
         "user": "bolter_alex61",
-        "score": "2-0"
+        "score": "3-0"
       },
       {
         "rank": 4,
         "user": "Funnyoldgame",
-        "score": "1-0"
+        "score": "2-0"
       },
       {
         "rank": 5,
@@ -221,12 +232,12 @@
       {
         "rank": 6,
         "user": "Danic2026",
-        "score": "2-0"
+        "score": "2-2"
       },
       {
         "rank": 7,
         "user": "Bottlers FC",
-        "score": "1-0"
+        "score": "4-1"
       },
       {
         "rank": 8,
@@ -236,7 +247,7 @@
     ]
   },
   "analysis": {
-    "crowd_modal_score": "2-0",
+    "crowd_modal_score": "4-0",
     "crowd_modal_outcome": "HOME",
     "market_favourite_outcome": "HOME",
     "exact_correct": null,

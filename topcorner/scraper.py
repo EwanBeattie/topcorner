@@ -177,6 +177,7 @@ class TopcornerClient:
                     game.predictions.append(UserPrediction(
                         user_id=uid, user_name=name,
                         home_goals=r.pick_home, away_goals=r.pick_away,
+                        rank=i,  # directory is leaderboard order, so i == rank
                     ))
 
         # Number games by tournament order. Page order (insertion order, taken
