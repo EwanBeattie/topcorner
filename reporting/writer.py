@@ -85,17 +85,26 @@ def _crowd_section(crowd: Optional[CrowdGame], limit: int) -> Optional[dict]:
 
 
 def _above_me_section(crowd: Optional[CrowdGame], my_username: str,
-                      my_rank: Optional[int]) -> Optional[dict]:
-    """Predicted scores of every player ranked above me who predicted this game."""
+                      my_rank: Optional[int], minimum: int = 10) -> Optional[dict]:
+    """Predicted scores of players ranked above me who predicted this game.
+
+    Always show at least `minimum` players: if fewer than that are above me,
+    pad with the nearest players below (so rank 1 shows the 10 just below).
+    """
     if not crowd or not my_username or not my_rank:
         return None
-    above = [p for p in crowd.predictions if p.rank and p.rank < my_rank]
-    above.sort(key=lambda p: p.rank)
+    ranked = [p for p in crowd.predictions if p.rank]
+    above = sorted((p for p in ranked if p.rank < my_rank), key=lambda p: p.rank)
+    below = sorted((p for p in ranked if p.rank > my_rank), key=lambda p: p.rank)
+    selected = list(above)
+    if len(selected) < minimum:
+        selected += below[:minimum - len(selected)]
     return {
         "username": my_username,
         "my_rank": my_rank,
+        "n_above": len(above),
         "predictions": [{"rank": p.rank, "user": p.user_name, "score": p.score}
-                        for p in above],
+                        for p in selected],
     }
 
 
@@ -287,12 +296,21 @@ def _above_me_lines(am: Optional[dict], played: bool,
     if not am:
         return []
     preds = am["predictions"]
-    L = [f"## Predictions from above you — rank {am['my_rank']} "
-         f"({am['username']}, {len(preds)} players above)", ""]
+    my_rank = am["my_rank"]
+    n_above = am.get("n_above", len(preds))
+    padded = n_above < len(preds)
+    title = "Predictions from players near you" if padded else "Predictions from above you"
+    L = [f"## {title} — {am['username']}, rank {my_rank}", ""]
     if not preds:
         return L + ["_Nobody above you, or none have predicted this game._", ""]
-    rows = []
+    if padded:
+        L += [f"_Only {n_above} above you predicted this game, so the nearest "
+              f"players below are included._", ""]
+    rows, marker_done = [], False
     for p in preds:
+        if not marker_done and p["rank"] > my_rank:
+            rows.append(["—", f"⟵ you ({am['username']})", "—"])
+            marker_done = True
         mark = " ✅" if played and p["score"] == final_score else ""
         rows.append([str(p["rank"]), p["user"], f"{p['score']}{mark}"])
     return L + _md_table(["Rank", "Player", "Predicted"], rows,
@@ -363,7 +381,7 @@ def render_markdown(d: dict) -> str:
     L += ["## Analysis", ""]
     a = d["analysis"]
     if played and a.get("exact_correct") is not None:
-        n = crowd["n"]
+        n = (d.get("crowd") or {}).get("n", 0)
         fav = a.get("market_favourite_outcome")
         if fav is None:
             fav_line = "- **Market favourite:** — (no odds captured)"

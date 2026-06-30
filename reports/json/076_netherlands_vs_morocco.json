@@ -4,15 +4,15 @@
   "home": "Netherlands",
   "away": "Morocco",
   "competition": "World Cup 2026",
-  "kickoff_utc": "2026-06-30T01:00:00Z",
-  "status": "upcoming",
-  "frozen": false,
-  "last_updated_utc": "2026-06-29T20:31:40Z",
+  "kickoff_utc": "2026-06-30T11:00:00Z",
+  "status": "played",
+  "frozen": true,
+  "last_updated_utc": "2026-06-30T19:01:54Z",
   "weather": null,
   "result": {
-    "home_goals": null,
-    "away_goals": null,
-    "outcome": null
+    "home_goals": 1,
+    "away_goals": 1,
+    "outcome": "DRAW"
   },
   "betfair": {
     "match_odds": {
@@ -91,8 +91,8 @@
     "n": 83,
     "outcome": {
       "HOME": 28,
-      "DRAW": 44,
-      "AWAY": 11
+      "DRAW": 45,
+      "AWAY": 10
     },
     "scores": [
       {
@@ -101,7 +101,7 @@
       },
       {
         "score": "2-2",
-        "count": 15
+        "count": 16
       },
       {
         "score": "2-1",
@@ -128,12 +128,12 @@
         "count": 2
       },
       {
-        "score": "2-3",
+        "score": "0-1",
         "count": 2
       },
       {
-        "score": "0-1",
-        "count": 2
+        "score": "2-3",
+        "count": 1
       },
       {
         "score": "1-0",
@@ -157,22 +157,22 @@
   "crowd_top": {
     "n": 20,
     "outcome": {
-      "HOME": 7,
-      "DRAW": 11,
+      "HOME": 5,
+      "DRAW": 13,
       "AWAY": 2
     },
     "scores": [
       {
         "score": "1-1",
-        "count": 5
-      },
-      {
-        "score": "2-1",
-        "count": 5
+        "count": 6
       },
       {
         "score": "2-2",
-        "count": 5
+        "count": 6
+      },
+      {
+        "score": "2-1",
+        "count": 3
       },
       {
         "score": "0-0",
@@ -200,7 +200,7 @@
   "top_dist_n": 20,
   "above_me": {
     "username": "AjaxTreesdown",
-    "my_rank": 10,
+    "my_rank": 4,
     "predictions": [
       {
         "rank": 1,
@@ -216,36 +216,6 @@
         "rank": 3,
         "user": "bolter_alex61",
         "score": "1-2"
-      },
-      {
-        "rank": 4,
-        "user": "Funnyoldgame",
-        "score": "2-1"
-      },
-      {
-        "rank": 5,
-        "user": "joejarman",
-        "score": "2-1"
-      },
-      {
-        "rank": 6,
-        "user": "Danic2026",
-        "score": "3-2"
-      },
-      {
-        "rank": 7,
-        "user": "Bottlers FC",
-        "score": "2-2"
-      },
-      {
-        "rank": 8,
-        "user": "sachanewman",
-        "score": "2-2"
-      },
-      {
-        "rank": 9,
-        "user": "APR",
-        "score": "2-2"
       }
     ]
   },
@@ -253,9 +223,12 @@
     "crowd_modal_score": "1-1",
     "crowd_modal_outcome": "DRAW",
     "market_favourite_outcome": "HOME",
-    "exact_correct": null,
-    "exact_correct_pct": null,
-    "outcome_correct": null,
-    "outcome_correct_pct": null
+    "exact_correct": 25,
+    "exact_correct_pct": 0.301,
+    "outcome_correct": 45,
+    "outcome_correct_pct": 0.542,
+    "crowd_modal_score_correct": true,
+    "crowd_modal_outcome_correct": true,
+    "market_favourite_correct": false
   }
 }
