@@ -4,15 +4,28 @@
   "home": "Mexico",
   "away": "Ecuador",
   "competition": "World Cup 2026",
-  "kickoff_utc": "2026-07-01T01:00:00Z",
-  "status": "upcoming",
-  "frozen": false,
-  "last_updated_utc": "2026-06-30T19:11:17Z",
-  "weather": null,
+  "kickoff_utc": "2026-07-01T11:00:00Z",
+  "status": "played",
+  "frozen": true,
+  "last_updated_utc": "2026-07-01T06:59:11Z",
+  "weather": {
+    "local_time": "2026-07-01T05:00",
+    "temp_c": 13.6,
+    "feels_c": 13.9,
+    "humidity_pct": 95,
+    "cloud_pct": 100,
+    "precip_prob_pct": 39,
+    "weather_code": 51,
+    "emoji": "🌦️",
+    "summary": "Light drizzle",
+    "source": "forecast",
+    "venue": "Estadio Azteca, Mexico City, Mexico",
+    "city": "mexico_city"
+  },
   "result": {
-    "home_goals": null,
-    "away_goals": null,
-    "outcome": null
+    "home_goals": 2,
+    "away_goals": 0,
+    "outcome": "HOME"
   },
   "betfair": {
     "match_odds": {
@@ -88,23 +101,23 @@
     ]
   },
   "crowd": {
-    "n": 79,
+    "n": 82,
     "outcome": {
-      "HOME": 44,
-      "DRAW": 25,
-      "AWAY": 10
+      "HOME": 46,
+      "DRAW": 28,
+      "AWAY": 8
     },
     "scores": [
       {
         "score": "1-1",
-        "count": 15
-      },
-      {
-        "score": "2-1",
-        "count": 14
+        "count": 18
       },
       {
         "score": "1-0",
+        "count": 17
+      },
+      {
+        "score": "2-1",
         "count": 13
       },
       {
@@ -113,23 +126,11 @@
       },
       {
         "score": "2-2",
-        "count": 5
+        "count": 6
       },
       {
         "score": "3-1",
         "count": 4
-      },
-      {
-        "score": "0-1",
-        "count": 3
-      },
-      {
-        "score": "0-2",
-        "count": 3
-      },
-      {
-        "score": "0-0",
-        "count": 3
       },
       {
         "score": "3-3",
@@ -140,8 +141,16 @@
         "count": 2
       },
       {
-        "score": "4-1",
-        "count": 1
+        "score": "0-0",
+        "count": 2
+      },
+      {
+        "score": "0-1",
+        "count": 2
+      },
+      {
+        "score": "0-2",
+        "count": 2
       },
       {
         "score": "4-3",
@@ -163,24 +172,24 @@
     "others_count": 0
   },
   "crowd_top": {
-    "n": 19,
+    "n": 20,
     "outcome": {
-      "HOME": 12,
+      "HOME": 14,
       "DRAW": 6,
-      "AWAY": 1
+      "AWAY": 0
     },
     "scores": [
       {
+        "score": "1-0",
+        "count": 6
+      },
+      {
         "score": "2-1",
-        "count": 5
+        "count": 6
       },
       {
         "score": "1-1",
-        "count": 4
-      },
-      {
-        "score": "1-0",
-        "count": 3
+        "count": 5
       },
       {
         "score": "2-0",
@@ -188,18 +197,6 @@
       },
       {
         "score": "2-2",
-        "count": 2
-      },
-      {
-        "score": "4-1",
-        "count": 1
-      },
-      {
-        "score": "0-1",
-        "count": 1
-      },
-      {
-        "score": "3-1",
         "count": 1
       }
     ],
@@ -208,8 +205,8 @@
   "top_dist_n": 20,
   "above_me": {
     "username": "AjaxTreesdown",
-    "my_rank": 4,
-    "n_above": 3,
+    "my_rank": 7,
+    "n_above": 6,
     "predictions": [
       {
         "rank": 1,
@@ -227,37 +224,37 @@
         "score": "2-1"
       },
       {
-        "rank": 5,
-        "user": "Bottlers FC",
-        "score": "2-0"
-      },
-      {
-        "rank": 6,
-        "user": "Danic2026",
-        "score": "1-1"
-      },
-      {
-        "rank": 7,
-        "user": "Funnyoldgame",
-        "score": "4-1"
-      },
-      {
-        "rank": 8,
+        "rank": 4,
         "user": "joejarman",
         "score": "2-1"
       },
       {
-        "rank": 9,
+        "rank": 5,
         "user": "sachanewman",
         "score": "2-0"
       },
       {
-        "rank": 10,
-        "user": "Notinyourmums_Forest",
+        "rank": 6,
+        "user": "Bottlers FC",
+        "score": "2-1"
+      },
+      {
+        "rank": 8,
+        "user": "Danic2026",
         "score": "1-1"
       },
       {
-        "rank": 12,
+        "rank": 9,
+        "user": "Funnyoldgame",
+        "score": "1-0"
+      },
+      {
+        "rank": 10,
+        "user": "APR",
+        "score": "1-0"
+      },
+      {
+        "rank": 11,
         "user": "cRAHg",
         "score": "2-1"
       }
@@ -267,9 +264,12 @@
     "crowd_modal_score": "1-1",
     "crowd_modal_outcome": "HOME",
     "market_favourite_outcome": "HOME",
-    "exact_correct": null,
-    "exact_correct_pct": null,
-    "outcome_correct": null,
-    "outcome_correct_pct": null
+    "exact_correct": 10,
+    "exact_correct_pct": 0.122,
+    "outcome_correct": 46,
+    "outcome_correct_pct": 0.561,
+    "crowd_modal_score_correct": false,
+    "crowd_modal_outcome_correct": true,
+    "market_favourite_correct": true
   }
 }

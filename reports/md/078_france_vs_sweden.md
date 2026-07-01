@@ -2,13 +2,22 @@
 
 - **Game #:** 78
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Tue 30 Jun 2026, 22:00 BST (21:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Tue 30 Jun 2026, 20:11 BST
+- **Kickoff:** Tue 30 Jun 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Wed 01 Jul 2026, 07:59 BST
+
+## Weather at kickoff
+
+- **Venue:** AT&T Stadium, Dallas, USA
+- **Conditions:** ☀️ Clear — 25 °C (feels 28 °C)
+- **Humidity:** 84%  ·  **Cloud cover:** 7%
+- **Rain:** 0% chance
+- _Observed at Tue 30 Jun, 06:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 3 – 0
+- **Outcome:** France (HOME)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -20,13 +29,13 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
 | 2-0   |   9.20 |   10.9% |
 | 2-1   |  10.00 |   10.0% |
-| 3-0   |  10.50 |    9.5% |
+| 3-0 ✅ |  10.50 |    9.5% |
 | 3-1   |  11.00 |    9.1% |
 | 1-0   |  13.00 |    7.7% |
 | 1-1   |  14.50 |    6.9% |
@@ -44,66 +53,65 @@ Most-likely first.
 ## Maggots — 83 predictions
 
 - **Outcome split:** France 84% · Draw 11% · Sweden 5%
-- **Most predicted score:** 3-1 (22%)
+- **Most predicted score:** 3-1 (25%)
 
-| Score | Guesses | Share |      |
-| ----- | ------: | ----: | ---- |
-| 3-1   |      18 |   22% | ████ |
-| 2-0   |      16 |   19% | ████ |
-| 3-0   |      12 |   14% | ███  |
-| 2-1   |      10 |   12% | ██   |
-| 1-1   |       5 |    6% | █    |
-| 4-1   |       5 |    6% | █    |
-| 3-2   |       4 |    5% | █    |
-| 2-2   |       2 |    2% |      |
-| 1-0   |       2 |    2% |      |
-| 0-2   |       2 |    2% |      |
-| 0-0   |       2 |    2% |      |
-| 5-0   |       1 |    1% |      |
-| 4-2   |       1 |    1% |      |
-| 4-0   |       1 |    1% |      |
-| 0-4   |       1 |    1% |      |
-| 0-1   |       1 |    1% |      |
+| Score | Guesses | Share |       |
+| ----- | ------: | ----: | ----- |
+| 3-1   |      21 |   25% | █████ |
+| 2-0   |      14 |   17% | ███   |
+| 3-0 ✅ |      11 |   13% | ███   |
+| 2-1   |      11 |   13% | ███   |
+| 1-1   |       6 |    7% | █     |
+| 4-1   |       5 |    6% | █     |
+| 3-2   |       4 |    5% | █     |
+| 2-2   |       2 |    2% |       |
+| 1-0   |       2 |    2% |       |
+| 0-2   |       2 |    2% |       |
+| 5-0   |       1 |    1% |       |
+| 4-0   |       1 |    1% |       |
+| 0-4   |       1 |    1% |       |
+| 0-1   |       1 |    1% |       |
+| 0-0   |       1 |    1% |       |
 
 ## Top 20 — 20 predictions
 
 - **Outcome split:** France 90% · Draw 10% · Sweden 0%
-- **Most predicted score:** 2-0 (40%)
+- **Most predicted score:** 2-0 (35%)
 
-| Score | Guesses | Share |          |
-| ----- | ------: | ----: | -------- |
-| 2-0   |       8 |   40% | ████████ |
-| 3-1   |       3 |   15% | ███      |
-| 3-0   |       2 |   10% | ██       |
-| 2-1   |       2 |   10% | ██       |
-| 1-1   |       1 |    5% | █        |
-| 3-2   |       1 |    5% | █        |
-| 2-2   |       1 |    5% | █        |
-| 5-0   |       1 |    5% | █        |
-| 4-1   |       1 |    5% | █        |
+| Score | Guesses | Share |         |
+| ----- | ------: | ----: | ------- |
+| 2-0   |       7 |   35% | ███████ |
+| 3-1   |       6 |   30% | ██████  |
+| 3-0 ✅ |       2 |   10% | ██      |
+| 3-2   |       1 |    5% | █       |
+| 1-1   |       1 |    5% | █       |
+| 2-2   |       1 |    5% | █       |
+| 5-0   |       1 |    5% | █       |
+| 2-1   |       1 |    5% | █       |
 
-## Predictions from players near you — AjaxTreesdown, rank 4
+## Predictions from players near you — AjaxTreesdown, rank 7
 
-_Only 3 above you predicted this game, so the nearest players below are included._
+_Only 6 above you predicted this game, so the nearest players below are included._
 
 | Rank | Player                | Predicted |
 | ---: | --------------------- | --------- |
 |    1 | RobC                  | 2-0       |
 |    2 | alightfoot            | 2-0       |
 |    3 | bolter_alex61         | 2-0       |
-|    — | ⟵ you (AjaxTreesdown)| —         |
-|    5 | Bottlers FC           | 2-0       |
-|    6 | Danic2026             | 2-0       |
-|    7 | Funnyoldgame          | 3-1       |
-|    8 | joejarman             | 3-0       |
-|    9 | sachanewman           | 3-1       |
-|   10 | Notinyourmums_Forest  | 1-1       |
-|   11 | APR                   | 2-0       |
+|    4 | joejarman             | 3-0 ✅     |
+|    5 | sachanewman           | 3-1       |
+|    6 | Bottlers FC           | 2-0       |
+|    — | ⟵ you (AjaxTreesdown) | —         |
+|    8 | Danic2026             | 2-0       |
+|    9 | Funnyoldgame          | 3-1       |
+|   10 | APR                   | 2-0       |
+|   11 | cRAHg                 | 3-2       |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 3-1
-- Crowd modal outcome: HOME
-- Market favourite: HOME
+- **Actual score:** 3-0 (HOME)
+- **Exact score correctly predicted by:** 11 / 83 (13%)
+- **Outcome correctly predicted by:** 70 / 83 (84%)
+- **Crowd modal score:** 3-1 — ❌ wrong
+- **Crowd modal outcome:** HOME — ✅ right
+- **Market favourite:** HOME — ✅ correct

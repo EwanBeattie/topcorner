@@ -8,7 +8,20 @@
   "status": "played",
   "frozen": true,
   "last_updated_utc": "2026-06-30T19:01:54Z",
-  "weather": null,
+  "weather": {
+    "local_time": "2026-06-30T07:00",
+    "temp_c": 22.6,
+    "feels_c": 24.8,
+    "humidity_pct": 74,
+    "cloud_pct": 0,
+    "precip_prob_pct": 0,
+    "weather_code": 0,
+    "emoji": "☀️",
+    "summary": "Clear",
+    "source": "observed",
+    "venue": "MetLife Stadium, New York/New Jersey, USA",
+    "city": "new_york"
+  },
   "result": {
     "home_goals": 1,
     "away_goals": 2,

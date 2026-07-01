@@ -8,7 +8,20 @@
   "status": "played",
   "frozen": true,
   "last_updated_utc": "2026-06-29T20:20:18Z",
-  "weather": null,
+  "weather": {
+    "local_time": "2026-06-28T04:00",
+    "temp_c": 17.5,
+    "feels_c": 18.0,
+    "humidity_pct": 77,
+    "cloud_pct": 100,
+    "precip_prob_pct": 0,
+    "weather_code": 3,
+    "emoji": "☁️",
+    "summary": "Overcast",
+    "source": "observed",
+    "venue": "SoFi Stadium, Los Angeles, USA",
+    "city": "los_angeles"
+  },
   "result": {
     "home_goals": 0,
     "away_goals": 1,

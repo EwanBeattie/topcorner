@@ -6,6 +6,14 @@
 - **Status:** ✅ PLAYED — _frozen_
 - **Last updated:** Tue 30 Jun 2026, 20:01 BST
 
+## Weather at kickoff
+
+- **Venue:** Estadio BBVA, Monterrey, Mexico
+- **Conditions:** ☀️ Clear — 24 °C (feels 26 °C)
+- **Humidity:** 77%  ·  **Cloud cover:** 0%
+- **Rain:** 3% chance
+- _Observed at Mon 29 Jun, 05:00 local time_
+
 ## Result
 
 - **Final score:** 1 – 1
@@ -78,7 +86,7 @@ Most-likely first. ✅ marks the score that occurred.
 | 1-1 ✅ |       1 |    5% | █         |
 | 4-1   |       1 |    5% | █         |
 
-## Predictions from above you — rank 4 (AjaxTreesdown, 3 players above)
+## Predictions from above you — AjaxTreesdown, rank 4
 
 | Rank | Player        | Predicted |
 | ---: | ------------- | --------- |

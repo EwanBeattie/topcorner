@@ -19,22 +19,38 @@ from .client import get_weather
 _DEFAULT_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "venues.toml")
 
 
-def load_venue_map(path: str = _DEFAULT_PATH) -> dict[str, str]:
-    """Return {matchup_slug: city_key}, ignoring blank entries."""
+class VenueMap:
+    """Resolves a fixture to a host-city key, by matchup slug (group stage) or by
+    tournament game number (knockouts, where teams resolve late)."""
+    def __init__(self, by_slug: dict[str, str], by_number: dict[int, str]):
+        self.by_slug = by_slug
+        self.by_number = by_number
+
+    def city_key(self, home: str, away: str, number=None) -> Optional[str]:
+        if number is not None and number in self.by_number:
+            return self.by_number[number]
+        return self.by_slug.get(slug(home, away))
+
+
+def load_venue_map(path: str = _DEFAULT_PATH) -> VenueMap:
+    """Load matchup→city and number→city maps from venues.toml."""
     try:
         with open(path, "rb") as fh:
             data = tomllib.load(fh)
     except FileNotFoundError:
-        return {}
-    venues = data.get("venues", data)  # accept [venues] table or flat keys
-    return {k: v for k, v in venues.items() if isinstance(v, str) and v}
+        return VenueMap({}, {})
+    by_slug = {k: v for k, v in data.get("venues", {}).items()
+               if isinstance(v, str) and v}
+    by_number = {int(k): v for k, v in data.get("venues_by_number", {}).items()
+                 if isinstance(v, str) and v}
+    return VenueMap(by_slug, by_number)
 
 
-def weather_for(home: str, away: str, kickoff: datetime,
-                venue_map: dict[str, str],
-                session: Optional[requests.Session] = None) -> Optional[dict]:
+def weather_for(home: str, away: str, kickoff: datetime, venue_map: VenueMap,
+                session: Optional[requests.Session] = None,
+                number=None) -> Optional[dict]:
     """Look up the venue for a fixture and fetch its kickoff weather, or None."""
-    city_key = venue_map.get(slug(home, away))
+    city_key = venue_map.city_key(home, away, number)
     city = HOST_CITIES.get(city_key) if city_key else None
     if not city:
         return None

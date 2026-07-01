@@ -8,7 +8,20 @@
   "status": "played",
   "frozen": true,
   "last_updated_utc": "2026-06-30T19:01:54Z",
-  "weather": null,
+  "weather": {
+    "local_time": "2026-06-30T06:00",
+    "temp_c": 25.6,
+    "feels_c": 31.0,
+    "humidity_pct": 89,
+    "cloud_pct": 1,
+    "precip_prob_pct": 2,
+    "weather_code": 0,
+    "emoji": "☀️",
+    "summary": "Clear",
+    "source": "observed",
+    "venue": "NRG Stadium, Houston, USA",
+    "city": "houston"
+  },
   "result": {
     "home_goals": 1,
     "away_goals": 1,

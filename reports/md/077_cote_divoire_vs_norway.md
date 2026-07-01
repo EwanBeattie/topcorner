@@ -6,6 +6,14 @@
 - **Status:** ✅ PLAYED — _frozen_
 - **Last updated:** Tue 30 Jun 2026, 20:01 BST
 
+## Weather at kickoff
+
+- **Venue:** MetLife Stadium, New York/New Jersey, USA
+- **Conditions:** ☀️ Clear — 23 °C (feels 25 °C)
+- **Humidity:** 74%  ·  **Cloud cover:** 0%
+- **Rain:** 0% chance
+- _Observed at Tue 30 Jun, 07:00 local time_
+
 ## Result
 
 - **Final score:** 1 – 2
@@ -78,7 +86,7 @@ Most-likely first. ✅ marks the score that occurred.
 | 1-3   |       1 |    5% | █           |
 | 0-0   |       1 |    5% | █           |
 
-## Predictions from above you — rank 4 (AjaxTreesdown, 3 players above)
+## Predictions from above you — AjaxTreesdown, rank 4
 
 | Rank | Player        | Predicted |
 | ---: | ------------- | --------- |

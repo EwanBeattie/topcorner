@@ -6,6 +6,14 @@
 - **Status:** ✅ PLAYED — _frozen_
 - **Last updated:** Mon 29 Jun 2026, 21:20 BST
 
+## Weather at kickoff
+
+- **Venue:** SoFi Stadium, Los Angeles, USA
+- **Conditions:** ☁️ Overcast — 18 °C (feels 18 °C)
+- **Humidity:** 77%  ·  **Cloud cover:** 100%
+- **Rain:** 0% chance
+- _Observed at Sun 28 Jun, 04:00 local time_
+
 ## Result
 
 - **Final score:** 0 – 1
@@ -42,7 +50,7 @@ Most-likely first. ✅ marks the score that occurred.
 | 3-3   | 150.00 |    0.7% |
 | 3-0   | 190.00 |    0.5% |
 
-## topcorner crowd — 78 predictions
+## Maggots — 78 predictions
 
 - **Outcome split:** South Africa 22% · Draw 19% · Canada 59%
 - **Most predicted score:** 1-2 (27%)
@@ -62,6 +70,10 @@ Most-likely first. ✅ marks the score that occurred.
 | 0-0   |       2 |    3% | █     |
 | 3-1   |       1 |    1% |       |
 | 5-3   |       1 |    1% |       |
+
+## Top 20 — 0 predictions
+
+_No predictions._
 
 ## Analysis
 

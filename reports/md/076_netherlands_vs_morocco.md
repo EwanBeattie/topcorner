@@ -6,6 +6,14 @@
 - **Status:** ✅ PLAYED — _frozen_
 - **Last updated:** Tue 30 Jun 2026, 20:01 BST
 
+## Weather at kickoff
+
+- **Venue:** NRG Stadium, Houston, USA
+- **Conditions:** ☀️ Clear — 26 °C (feels 31 °C)
+- **Humidity:** 89%  ·  **Cloud cover:** 1%
+- **Rain:** 2% chance
+- _Observed at Tue 30 Jun, 06:00 local time_
+
 ## Result
 
 - **Final score:** 1 – 1
@@ -80,7 +88,7 @@ Most-likely first. ✅ marks the score that occurred.
 | 2-0   |       1 |    5% | █      |
 | 2-3   |       1 |    5% | █      |
 
-## Predictions from above you — rank 4 (AjaxTreesdown, 3 players above)
+## Predictions from above you — AjaxTreesdown, rank 4
 
 | Rank | Player        | Predicted |
 | ---: | ------------- | --------- |

@@ -7,8 +7,21 @@
   "kickoff_utc": "2026-07-03T22:00:00Z",
   "status": "upcoming",
   "frozen": false,
-  "last_updated_utc": "2026-06-30T19:11:17Z",
-  "weather": null,
+  "last_updated_utc": "2026-07-01T06:59:11Z",
+  "weather": {
+    "local_time": "2026-07-03T17:00",
+    "temp_c": 31.1,
+    "feels_c": 34.2,
+    "humidity_pct": 67,
+    "cloud_pct": 100,
+    "precip_prob_pct": 1,
+    "weather_code": 95,
+    "emoji": "⛈️",
+    "summary": "Thunderstorm",
+    "source": "forecast",
+    "venue": "Arrowhead Stadium, Kansas City, USA",
+    "city": "kansas_city"
+  },
   "result": {
     "home_goals": null,
     "away_goals": null,
@@ -17,17 +30,17 @@
   "betfair": {
     "match_odds": {
       "home": 1.18,
-      "draw": 8.4,
+      "draw": 8.2,
       "away": 23.0
     },
     "correct_score": [
       {
         "score": "2-0",
-        "odds": 5.7
+        "odds": 5.8
       },
       {
         "score": "1-0",
-        "odds": 6.8
+        "odds": 7.0
       },
       {
         "score": "3-0",
@@ -35,39 +48,39 @@
       },
       {
         "score": "2-1",
-        "odds": 12.5
+        "odds": 13.0
       },
       {
         "score": "3-1",
-        "odds": 15.0
+        "odds": 15.5
       },
       {
         "score": "1-1",
-        "odds": 18.5
+        "odds": 19.0
       },
       {
         "score": "0-0",
-        "odds": 20.0
+        "odds": 21.0
       },
       {
         "score": "0-1",
-        "odds": 38.0
-      },
-      {
-        "score": "3-2",
-        "odds": 50.0
-      },
-      {
-        "score": "1-2",
-        "odds": 55.0
-      },
-      {
-        "score": "2-2",
-        "odds": 55.0
+        "odds": 44.0
       },
       {
         "score": "0-3",
         "odds": 60.0
+      },
+      {
+        "score": "2-2",
+        "odds": 60.0
+      },
+      {
+        "score": "3-2",
+        "odds": 60.0
+      },
+      {
+        "score": "1-2",
+        "odds": 80.0
       },
       {
         "score": "0-2",
@@ -88,27 +101,31 @@
     ]
   },
   "crowd": {
-    "n": 68,
+    "n": 72,
     "outcome": {
-      "HOME": 51,
-      "DRAW": 7,
+      "HOME": 56,
+      "DRAW": 6,
       "AWAY": 10
     },
     "scores": [
+      {
+        "score": "3-0",
+        "count": 12
+      },
+      {
+        "score": "2-0",
+        "count": 12
+      },
       {
         "score": "4-0",
         "count": 12
       },
       {
-        "score": "3-0",
-        "count": 10
-      },
-      {
-        "score": "2-0",
-        "count": 9
-      },
-      {
         "score": "1-2",
+        "count": 5
+      },
+      {
+        "score": "3-1",
         "count": 5
       },
       {
@@ -116,20 +133,16 @@
         "count": 5
       },
       {
-        "score": "4-1",
-        "count": 4
-      },
-      {
-        "score": "3-1",
+        "score": "1-0",
         "count": 4
       },
       {
         "score": "1-1",
-        "count": 4
+        "count": 3
       },
       {
-        "score": "1-0",
-        "count": 4
+        "score": "4-1",
+        "count": 3
       },
       {
         "score": "0-3",
@@ -163,23 +176,31 @@
     "others_count": 0
   },
   "crowd_top": {
-    "n": 14,
+    "n": 15,
     "outcome": {
       "HOME": 10,
-      "DRAW": 2,
+      "DRAW": 3,
       "AWAY": 2
     },
     "scores": [
       {
-        "score": "3-0",
-        "count": 4
-      },
-      {
         "score": "2-0",
-        "count": 4
+        "count": 5
       },
       {
-        "score": "4-1",
+        "score": "3-0",
+        "count": 3
+      },
+      {
+        "score": "3-1",
+        "count": 2
+      },
+      {
+        "score": "1-1",
+        "count": 2
+      },
+      {
+        "score": "1-2",
         "count": 1
       },
       {
@@ -187,19 +208,7 @@
         "count": 1
       },
       {
-        "score": "1-2",
-        "count": 1
-      },
-      {
-        "score": "3-1",
-        "count": 1
-      },
-      {
         "score": "2-3",
-        "count": 1
-      },
-      {
-        "score": "1-1",
         "count": 1
       }
     ],
@@ -208,8 +217,8 @@
   "top_dist_n": 20,
   "above_me": {
     "username": "AjaxTreesdown",
-    "my_rank": 4,
-    "n_above": 1,
+    "my_rank": 7,
+    "n_above": 4,
     "predictions": [
       {
         "rank": 3,
@@ -217,54 +226,54 @@
         "score": "3-0"
       },
       {
-        "rank": 5,
-        "user": "Bottlers FC",
-        "score": "4-1"
-      },
-      {
-        "rank": 6,
-        "user": "Danic2026",
-        "score": "2-2"
-      },
-      {
-        "rank": 7,
-        "user": "Funnyoldgame",
-        "score": "2-0"
-      },
-      {
-        "rank": 8,
+        "rank": 4,
         "user": "joejarman",
         "score": "2-0"
       },
       {
-        "rank": 9,
+        "rank": 5,
         "user": "sachanewman",
         "score": "1-2"
       },
       {
-        "rank": 10,
-        "user": "Notinyourmums_Forest",
+        "rank": 6,
+        "user": "Bottlers FC",
         "score": "3-1"
       },
       {
-        "rank": 12,
+        "rank": 8,
+        "user": "Danic2026",
+        "score": "2-2"
+      },
+      {
+        "rank": 9,
+        "user": "Funnyoldgame",
+        "score": "2-0"
+      },
+      {
+        "rank": 10,
+        "user": "APR",
+        "score": "3-0"
+      },
+      {
+        "rank": 11,
         "user": "cRAHg",
         "score": "3-0"
       },
       {
-        "rank": 15,
-        "user": "jacobkellett",
-        "score": "2-3"
+        "rank": 12,
+        "user": "Notinyourmums_Forest",
+        "score": "3-1"
       },
       {
-        "rank": 16,
-        "user": "limey666",
+        "rank": 14,
+        "user": "Adela",
         "score": "1-1"
       }
     ]
   },
   "analysis": {
-    "crowd_modal_score": "4-0",
+    "crowd_modal_score": "3-0",
     "crowd_modal_outcome": "HOME",
     "market_favourite_outcome": "HOME",
     "exact_correct": null,

@@ -8,7 +8,20 @@
   "status": "played",
   "frozen": true,
   "last_updated_utc": "2026-06-30T19:01:54Z",
-  "weather": null,
+  "weather": {
+    "local_time": "2026-06-29T05:00",
+    "temp_c": 23.5,
+    "feels_c": 26.2,
+    "humidity_pct": 77,
+    "cloud_pct": 0,
+    "precip_prob_pct": 3,
+    "weather_code": 0,
+    "emoji": "☀️",
+    "summary": "Clear",
+    "source": "observed",
+    "venue": "Estadio BBVA, Monterrey, Mexico",
+    "city": "monterrey"
+  },
   "result": {
     "home_goals": 1,
     "away_goals": 1,

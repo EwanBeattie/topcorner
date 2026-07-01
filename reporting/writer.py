@@ -452,7 +452,7 @@ class ReportWriter:
 
         weather = None
         if self.weather_lookup is not None:
-            weather = self.weather_lookup(home, away, kickoff)
+            weather = self.weather_lookup(home, away, kickoff, number)
 
         data = build_game_json(home, away, kickoff, betfair, crowd, prev,
                                score_limit=self.score_limit, number=number,

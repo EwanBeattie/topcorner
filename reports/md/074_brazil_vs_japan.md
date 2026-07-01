@@ -6,6 +6,14 @@
 - **Status:** ✅ PLAYED — _frozen_
 - **Last updated:** Mon 29 Jun 2026, 21:20 BST
 
+## Weather at kickoff
+
+- **Venue:** Gillette Stadium, Boston, USA
+- **Conditions:** 🌤️ Mainly clear — 18 °C (feels 20 °C)
+- **Humidity:** 90%  ·  **Cloud cover:** 49%
+- **Rain:** 0% chance
+- _Observed at Mon 29 Jun, 07:00 local time_
+
 ## Result
 
 - **Final score:** 2 – 1
@@ -42,7 +50,7 @@ Most-likely first. ✅ marks the score that occurred.
 | 3-3   |  95.00 |    1.1% |
 | 0-3   | 120.00 |    0.8% |
 
-## topcorner crowd — 83 predictions
+## Maggots — 83 predictions
 
 - **Outcome split:** Brazil 75% · Draw 22% · Japan 4%
 - **Most predicted score:** 2-1 (30%)
@@ -63,6 +71,10 @@ Most-likely first. ✅ marks the score that occurred.
 | 4-0   |       1 |    1% |        |
 | 1-2   |       1 |    1% |        |
 | 4-1   |       1 |    1% |        |
+
+## Top 20 — 0 predictions
+
+_No predictions._
 
 ## Analysis
 

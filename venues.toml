@@ -77,3 +77,39 @@ colombia_vs_portugal = "miami"              # Colombia vs Portugal
 dr_congo_vs_uzbekistan = "atlanta"          # DR Congo vs Uzbekistan
 jordan_vs_argentina = "dallas"              # Jordan vs Argentina
 algeria_vs_austria = "kansas_city"          # Algeria vs Austria
+
+# Knockout stage: venue is fixed by match number (teams resolve late), so these
+# are keyed by the tournament game number rather than the matchup.
+[venues_by_number]
+73 = "los_angeles"
+74 = "boston"
+75 = "monterrey"
+76 = "houston"
+77 = "new_york"
+78 = "dallas"
+79 = "mexico_city"
+80 = "atlanta"
+81 = "bay_area"
+82 = "seattle"
+83 = "toronto"
+84 = "los_angeles"
+85 = "vancouver"
+86 = "miami"
+87 = "kansas_city"
+88 = "dallas"
+89 = "philadelphia"
+90 = "houston"
+91 = "new_york"
+92 = "mexico_city"
+93 = "dallas"
+94 = "seattle"
+95 = "atlanta"
+96 = "vancouver"
+97 = "boston"
+98 = "los_angeles"
+99 = "miami"
+100 = "kansas_city"
+101 = "dallas"
+102 = "atlanta"
+103 = "miami"
+104 = "new_york"

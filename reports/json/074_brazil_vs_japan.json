@@ -8,7 +8,20 @@
   "status": "played",
   "frozen": true,
   "last_updated_utc": "2026-06-29T20:20:18Z",
-  "weather": null,
+  "weather": {
+    "local_time": "2026-06-29T07:00",
+    "temp_c": 18.4,
+    "feels_c": 20.2,
+    "humidity_pct": 90,
+    "cloud_pct": 49,
+    "precip_prob_pct": 0,
+    "weather_code": 1,
+    "emoji": "🌤️",
+    "summary": "Mainly clear",
+    "source": "observed",
+    "venue": "Gillette Stadium, Boston, USA",
+    "city": "boston"
+  },
   "result": {
     "home_goals": 2,
     "away_goals": 1,
