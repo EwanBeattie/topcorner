@@ -96,11 +96,13 @@ def main(argv=None) -> int:
     venue_map = load_venue_map()
     weather_session = requests.Session()
 
-    def weather_lookup(home, away, kickoff):
-        return weather_for(home, away, kickoff, venue_map, weather_session)
+    def weather_lookup(home, away, kickoff, number=None):
+        return weather_for(home, away, kickoff, venue_map, weather_session, number)
 
     writer = ReportWriter(args.md_dir, args.json_dir, args.score_limit,
-                          weather_lookup=weather_lookup)
+                          weather_lookup=weather_lookup,
+                          my_username=config.MY_USERNAME, my_rank=my_rank,
+                          top_dist_n=config.TOP_DIST_N)
     counts: Counter = Counter()
     for slug, (number, home, away, kickoff, bg, cg) in sorted(to_write.items()):
         status = writer.write(slug, number=number, home=home, away=away,

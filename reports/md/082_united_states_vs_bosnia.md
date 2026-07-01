@@ -4,14 +4,14 @@
 - **Competition:** World Cup 2026 — Group Stage
 - **Kickoff:** Thu 02 Jul 2026, 01:00 BST (00:00 UTC)
 - **Status:** ⚪ UPCOMING
-- **Last updated:** Wed 01 Jul 2026, 07:59 BST
+- **Last updated:** Wed 01 Jul 2026, 22:05 BST
 
 ## Weather at kickoff
 
 - **Venue:** Lumen Field, Seattle, USA
-- **Conditions:** ☁️ Overcast — 19 °C (feels 17 °C)
-- **Humidity:** 51%  ·  **Cloud cover:** 100%
-- **Rain:** 2% chance
+- **Conditions:** ☁️ Overcast — 18 °C (feels 17 °C)
+- **Humidity:** 64%  ·  **Cloud cover:** 100%
+- **Rain:** 1% chance
 - _Forecast for Wed 01 Jul, 17:00 local time_
 
 ## Result
@@ -20,11 +20,11 @@ _Not yet played._
 
 ## Betfair Exchange — Match Odds (decimal)
 
-| Outcome | Odds | Implied |
-| ------- | ---: | ------: |
-| USA     | 1.42 |   70.4% |
-| Draw    | 5.10 |   19.6% |
-| Bosnia  | 9.60 |   10.4% |
+| Outcome |  Odds | Implied |
+| ------- | ----: | ------: |
+| USA     |  1.39 |   71.9% |
+| Draw    |  5.30 |   18.9% |
+| Bosnia  | 10.00 |   10.0% |
 
 ## Betfair Exchange — Correct Score (decimal)
 
@@ -33,77 +33,77 @@ Most-likely first.
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
 | 2-0   |   7.80 |   12.8% |
-| 1-0   |   8.00 |   12.5% |
-| 2-1   |   9.60 |   10.4% |
-| 1-1   |  10.50 |    9.5% |
-| 3-0   |  11.00 |    9.1% |
-| 3-1   |  14.50 |    6.9% |
-| 0-0   |  18.00 |    5.6% |
-| 0-1   |  27.00 |    3.7% |
-| 2-2   |  27.00 |    3.7% |
+| 1-0   |   9.40 |   10.6% |
+| 2-1   |  10.00 |   10.0% |
+| 3-0   |  10.00 |   10.0% |
+| 1-1   |  11.50 |    8.7% |
+| 3-1   |  13.00 |    7.7% |
+| 0-0   |  20.00 |    5.0% |
+| 2-2   |  25.00 |    4.0% |
+| 0-1   |  30.00 |    3.3% |
 | 1-2   |  32.00 |    3.1% |
-| 3-2   |  38.00 |    2.6% |
-| 0-2   |  70.00 |    1.4% |
-| 0-3   |  75.00 |    1.3% |
-| 1-3   | 110.00 |    0.9% |
-| 2-3   | 110.00 |    0.9% |
-| 3-3   | 120.00 |    0.8% |
+| 3-2   |  34.00 |    2.9% |
+| 0-2   |  75.00 |    1.3% |
+| 2-3   | 100.00 |    1.0% |
+| 3-3   | 110.00 |    0.9% |
+| 1-3   | 140.00 |    0.7% |
+| 0-3   | 340.00 |    0.3% |
 
-## Maggots — 74 predictions
+## Maggots — 81 predictions
 
-- **Outcome split:** USA 59% · Draw 24% · Bosnia 16%
-- **Most predicted score:** 2-1 (19%)
+- **Outcome split:** USA 60% · Draw 23% · Bosnia 16%
+- **Most predicted score:** 2-1 (22%)
 
 | Score | Guesses | Share |      |
 | ----- | ------: | ----: | ---- |
-| 2-1   |      14 |   19% | ████ |
-| 2-0   |      13 |   18% | ████ |
-| 1-0   |      12 |   16% | ███  |
-| 1-1   |       9 |   12% | ██   |
-| 0-0   |       7 |    9% | ██   |
+| 2-1   |      18 |   22% | ████ |
+| 2-0   |      15 |   19% | ████ |
+| 1-0   |      12 |   15% | ███  |
+| 1-1   |      10 |   12% | ██   |
+| 0-0   |       6 |    7% | █    |
 | 0-1   |       4 |    5% | █    |
-| 1-2   |       3 |    4% | █    |
+| 1-2   |       4 |    5% | █    |
 | 3-1   |       3 |    4% | █    |
-| 2-2   |       2 |    3% | █    |
-| 0-3   |       2 |    3% | █    |
-| 4-1   |       1 |    1% |      |
+| 2-2   |       3 |    4% | █    |
+| 0-3   |       2 |    2% |      |
 | 3-0   |       1 |    1% |      |
 | 0-4   |       1 |    1% |      |
 | 0-2   |       1 |    1% |      |
 | 2-3   |       1 |    1% |      |
 
-## Top 20 — 16 predictions
+## Top 20 — 20 predictions
 
-- **Outcome split:** USA 56% · Draw 38% · Bosnia 6%
-- **Most predicted score:** 2-1 (25%)
+- **Outcome split:** USA 65% · Draw 25% · Bosnia 10%
+- **Most predicted score:** 2-1 (35%)
 
-| Score | Guesses | Share |       |
-| ----- | ------: | ----: | ----- |
-| 2-1   |       4 |   25% | █████ |
-| 1-0   |       3 |   19% | ████  |
-| 0-0   |       3 |   19% | ████  |
-| 1-1   |       2 |   12% | ██    |
-| 2-0   |       2 |   12% | ██    |
-| 2-2   |       1 |    6% | █     |
-| 0-1   |       1 |    6% | █     |
+| Score | Guesses | Share |         |
+| ----- | ------: | ----: | ------- |
+| 2-1   |       7 |   35% | ███████ |
+| 1-0   |       3 |   15% | ███     |
+| 0-0   |       3 |   15% | ███     |
+| 2-0   |       2 |   10% | ██      |
+| 1-1   |       2 |   10% | ██      |
+| 0-1   |       1 |    5% | █       |
+| 1-2   |       1 |    5% | █       |
+| 3-1   |       1 |    5% | █       |
 
-## Predictions from players near you — AjaxTreesdown, rank 7
+## Predictions from players near you — AjaxTreesdown, rank 9
 
-_Only 5 above you predicted this game, so the nearest players below are included._
+_Only 8 above you predicted this game, so the nearest players below are included._
 
 | Rank | Player                | Predicted |
 | ---: | --------------------- | --------- |
-|    1 | RobC                  | 1-0       |
+|    1 | RobC                  | 2-0       |
+|    2 | alightfoot            | 2-1       |
 |    3 | bolter_alex61         | 2-1       |
-|    4 | joejarman             | 2-1       |
-|    5 | sachanewman           | 0-0       |
-|    6 | Bottlers FC           | 0-0       |
+|    4 | Funnyoldgame          | 1-0       |
+|    5 | Danic2026             | 1-0       |
+|    6 | joejarman             | 2-1       |
+|    7 | sachanewman           | 0-0       |
+|    8 | Bottlers FC           | 0-0       |
 |    — | ⟵ you (AjaxTreesdown) | —         |
-|    8 | Danic2026             | 2-2       |
-|    9 | Funnyoldgame          | 1-0       |
-|   10 | APR                   | 0-1       |
-|   11 | cRAHg                 | 2-1       |
-|   12 | Notinyourmums_Forest  | 2-1       |
+|   10 | cRAHg                 | 2-1       |
+|   11 | Adela                 | 1-1       |
 
 ## Analysis
 

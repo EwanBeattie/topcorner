@@ -2,21 +2,22 @@
 
 - **Game #:** 80
 - **Competition:** World Cup 2026 — Group Stage
-- **Kickoff:** Wed 01 Jul 2026, 17:00 BST (16:00 UTC)
-- **Status:** ⚪ UPCOMING
-- **Last updated:** Wed 01 Jul 2026, 07:59 BST
+- **Kickoff:** Wed 01 Jul 2026, 12:00 BST (11:00 UTC)
+- **Status:** ✅ PLAYED — _frozen_
+- **Last updated:** Wed 01 Jul 2026, 22:05 BST
 
 ## Weather at kickoff
 
 - **Venue:** Mercedes-Benz Stadium, Atlanta, USA
-- **Conditions:** ⛈️ Thunderstorm — 34 °C (feels 38 °C)
-- **Humidity:** 46%  ·  **Cloud cover:** 20%
-- **Rain:** 4% chance
-- _Forecast for Wed 01 Jul, 12:00 local time_
+- **Conditions:** ☀️ Clear — 25 °C (feels 31 °C)
+- **Humidity:** 90%  ·  **Cloud cover:** 2%
+- **Rain:** 0% chance
+- _Observed at Wed 01 Jul, 07:00 local time_
 
 ## Result
 
-_Not yet played._
+- **Final score:** 2 – 1
+- **Outcome:** England (HOME)
 
 ## Betfair Exchange — Match Odds (decimal)
 
@@ -28,14 +29,14 @@ _Not yet played._
 
 ## Betfair Exchange — Correct Score (decimal)
 
-Most-likely first.
+Most-likely first. ✅ marks the score that occurred.
 
 | Score |   Odds | Implied |
 | ----- | -----: | ------: |
 | 2-0   |   6.00 |   16.7% |
 | 1-0   |   6.20 |   16.1% |
 | 3-0   |   8.80 |   11.4% |
-| 2-1   |  11.50 |    8.7% |
+| 2-1 ✅ |  11.50 |    8.7% |
 | 1-1   |  12.00 |    8.3% |
 | 0-0   |  13.00 |    7.7% |
 | 3-1   |  16.50 |    6.1% |
@@ -49,63 +50,62 @@ Most-likely first.
 | 1-3   | 380.00 |    0.3% |
 | 0-3   | 520.00 |    0.2% |
 
-## Maggots — 76 predictions
+## Maggots — 79 predictions
 
-- **Outcome split:** England 78% · Draw 14% · DR Congo 8%
-- **Most predicted score:** 2-0 (26%)
+- **Outcome split:** England 80% · Draw 13% · DR Congo 8%
+- **Most predicted score:** 2-0 (30%)
 
-| Score | Guesses | Share |       |
-| ----- | ------: | ----: | ----- |
-| 2-0   |      20 |   26% | █████ |
-| 2-1   |      14 |   18% | ████  |
-| 1-0   |      10 |   13% | ███   |
-| 1-1   |       9 |   12% | ██    |
-| 3-1   |       8 |   11% | ██    |
-| 3-0   |       5 |    7% | █     |
-| 1-2   |       3 |    4% | █     |
-| 2-4   |       1 |    1% |       |
-| 0-0   |       1 |    1% |       |
-| 3-2   |       1 |    1% |       |
-| 0-1   |       1 |    1% |       |
-| 4-0   |       1 |    1% |       |
-| 2-2   |       1 |    1% |       |
-| 2-3   |       1 |    1% |       |
+| Score | Guesses | Share |        |
+| ----- | ------: | ----: | ------ |
+| 2-0   |      24 |   30% | ██████ |
+| 2-1 ✅ |      13 |   16% | ███    |
+| 1-0   |      10 |   13% | ███    |
+| 3-1   |       9 |   11% | ██     |
+| 1-1   |       8 |   10% | ██     |
+| 3-0   |       6 |    8% | ██     |
+| 1-2   |       3 |    4% | █      |
+| 2-4   |       1 |    1% |        |
+| 0-0   |       1 |    1% |        |
+| 3-2   |       1 |    1% |        |
+| 0-1   |       1 |    1% |        |
+| 2-2   |       1 |    1% |        |
+| 2-3   |       1 |    1% |        |
 
-## Top 20 — 17 predictions
+## Top 20 — 20 predictions
 
-- **Outcome split:** England 94% · Draw 6% · DR Congo 0%
+- **Outcome split:** England 100% · Draw 0% · DR Congo 0%
 - **Most predicted score:** 2-0 (35%)
 
 | Score | Guesses | Share |         |
 | ----- | ------: | ----: | ------- |
-| 2-0   |       6 |   35% | ███████ |
-| 2-1   |       5 |   29% | ██████  |
-| 1-0   |       4 |   24% | █████   |
-| 3-0   |       1 |    6% | █       |
-| 1-1   |       1 |    6% | █       |
+| 2-0   |       7 |   35% | ███████ |
+| 2-1 ✅ |       6 |   30% | ██████  |
+| 1-0   |       5 |   25% | █████   |
+| 3-0   |       2 |   10% | ██      |
 
-## Predictions from players near you — AjaxTreesdown, rank 7
+## Predictions from players near you — AjaxTreesdown, rank 9
 
-_Only 5 above you predicted this game, so the nearest players below are included._
+_Only 8 above you predicted this game, so the nearest players below are included._
 
 | Rank | Player                | Predicted |
 | ---: | --------------------- | --------- |
-|    1 | RobC                  | 2-0       |
+|    1 | RobC                  | 1-0       |
+|    2 | alightfoot            | 2-0       |
 |    3 | bolter_alex61         | 2-0       |
-|    4 | joejarman             | 2-0       |
-|    5 | sachanewman           | 2-0       |
-|    6 | Bottlers FC           | 1-0       |
+|    4 | Funnyoldgame          | 3-0       |
+|    5 | Danic2026             | 2-1 ✅     |
+|    6 | joejarman             | 2-0       |
+|    7 | sachanewman           | 2-0       |
+|    8 | Bottlers FC           | 1-0       |
 |    — | ⟵ you (AjaxTreesdown) | —         |
-|    8 | Danic2026             | 2-1       |
-|    9 | Funnyoldgame          | 3-0       |
-|   10 | APR                   | 1-0       |
-|   11 | cRAHg                 | 2-0       |
-|   12 | Notinyourmums_Forest  | 1-0       |
+|   10 | cRAHg                 | 2-0       |
+|   11 | Adela                 | 3-0       |
 
 ## Analysis
 
-_Filled once the game has been played._
-
-- Crowd modal score: 2-0
-- Crowd modal outcome: HOME
-- Market favourite: HOME
+- **Actual score:** 2-1 (HOME)
+- **Exact score correctly predicted by:** 13 / 79 (16%)
+- **Outcome correctly predicted by:** 63 / 79 (80%)
+- **Crowd modal score:** 2-0 — ❌ wrong
+- **Crowd modal outcome:** HOME — ✅ right
+- **Market favourite:** HOME — ✅ correct
